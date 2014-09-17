@@ -13,7 +13,7 @@
    height="2048"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91pre2 r13516"
    sodipodi:docname="ള.svg">
   <defs
      id="defs5498" />
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,11 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 288,1184 c -48,-96 144,-192 240,-144 197.01723,186.8884 -9.91436,402.1128 -144,336 -565.27639,-278.7175 -182.62464,-754.98218 288,-864 262.72702,-60.85939 720,144 576,384 -65.8639,85.67134 -486.67819,96 -384,96 624,96 576,576 0,528 -321.32536,-30.7356 -811.462057,-50.7143 -672,144 275.44217,344.7814 910.9033,-153.9584 1248,48"
+       style="fill:none;stroke:#000000;stroke-width:129.82040405;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 396.0031,-91.958375 C 816,-8 480,472 340.49823,343.36853 -144.89219,-104.19914 397.22982,-499.12462 678.61491,-517.56231 960,-536 1314.7565,-361.2778 1171.0628,-123.50468 1101.9821,-9.1954052 731.6085,24.071097 835.49586,24.071097 1466.8442,118.69174 1440,520 872.87595,475.95448 576.86506,452.96488 -19.787268,510.07407 121.31713,701.99066 400.00297,1041.8181 1245.4229,519.0943 1586.4894,718.15091"
        id="path3895"
        inkscape:connector-curvature="0"
-       transform="translate(0,-1048)"
-       sodipodi:nodetypes="ccssccccc" />
+       sodipodi:nodetypes="cszscscc" />
   </g>
 </svg>
