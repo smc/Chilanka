@@ -35,7 +35,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="-12.150833"
+     inkscape:cx="-438.90691"
      inkscape:cy="909.11507"
      inkscape:window-x="-7"
      inkscape:window-y="-12"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,16 +79,16 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:122.58538818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 384,161.11873 C -96,-9.604222 206.07078,-513.94657 624,-536 882.04116,-574.38154 1116.3228,-210.58095 960,-52.28496 785.83986,226.8661 384,203.79947 144,353.18206 c -48,21.34037 864,0 864,0 -48,-192.06333 -48,-362.786282 0,-448.147759"
-       id="path3880"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1005.3361,347.57437 c -444.49028,611.5097 822.5832,498.0859 380.8774,112.3364 -339.7846,-296.73988 -393.36768,259.1733 -130.58,142.5187"
+       d="m 974.18602,328.88432 c -444.49028,611.5097 822.58318,498.0859 380.87738,112.3364 -339.7846,-296.73988 -393.36766,259.1733 -130.58,142.5187"
        id="path4798-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:122.58538818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 363.46983,114.53804 c -480,-170.722961 -192,-745.11876 240,-697.11873 259.2844,28.80938 470.10597,306.20438 336,483.715038 -198.33435,262.527252 -572.82272,261.314432 -816,405.467022 -45.187322,26.78651 864.00003,15.57504 864.00003,15.57504 -48.00003,-192.06333 -48.00003,-378.361331 0,-463.7228"
+       id="path3880"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscc" />
   </g>
 </svg>

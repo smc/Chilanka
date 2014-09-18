@@ -35,7 +35,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="-12.150833"
+     inkscape:cx="-438.90691"
      inkscape:cy="909.11507"
      inkscape:window-x="-7"
      inkscape:window-y="-12"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,16 +79,16 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:122.58538818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 384,161.11873 C -96,-9.604222 206.07078,-513.94657 624,-536 882.04116,-574.38154 1116.3228,-210.58095 960,-52.28496 785.83986,226.8661 384,203.79947 144,353.18206 c -48,21.34037 864,0 864,0 -48,-192.06333 -48,-362.786282 0,-448.147759"
-       id="path3880"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 987.35574,376.89657 c -444.4903,611.50982 761.75476,488.5681 127.94916,28.0271"
        id="path4798-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:122.58538818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 356.81897,134.35857 c -480,-170.722957 -192,-745.11876 240,-697.11873 259.2844,28.80938 470.10593,306.20438 336,483.715042 -198.3344,262.527248 -572.82272,261.314428 -816,405.467018 -45.187324,26.78651 864,15.57504 864,15.57504 -48,-192.06333 -48,-378.361327 0,-463.7228"
+       id="path3880"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscc" />
   </g>
 </svg>
