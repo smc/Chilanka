@@ -14,9 +14,38 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ച്ച.svg">
+   sodipodi:docname="ൎ.svg">
   <defs
-     id="defs5498" />
+     id="defs5498">
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4314"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#ffffff;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4) translate(-4.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondLstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondLstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4239"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      inkscape:window-height="857"
      inkscape:window-width="1600"
@@ -30,8 +59,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.454"
-     inkscape:cx="239.13272"
-     inkscape:cy="988.25108"
+     inkscape:cx="1366.4351"
+     inkscape:cy="1417.1615"
      inkscape:window-x="1593"
      inkscape:window-y="-12"
      inkscape:current-layer="layer1"
@@ -74,10 +103,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 312,124.75717 C 24,-79.914779 152.2878,-390.89746 288,-391.02849 c 192,0 288,288.37238 288,333.855038 C 583.17563,-233.95544 741.55982,-380.59612 857.03917,-373.45639 1127.7982,-356.71618 1341.0033,128.98216 96,352.17044 c 456,22.74133 888,-90.96531 1296,0 C 1346.2505,120.59323 1280.7365,-291.57269 1344,-512"
-       id="path3849"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:76.08938599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1076.241,-813.94755 c -104.18173,-168.52148 109.9512,-182.34415 2.3608,1.3022"
+       id="path4145"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsccc" />
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ച്ച.svg">
+   sodipodi:docname="ശ്ര.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -29,9 +29,9 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.454"
-     inkscape:cx="239.13272"
-     inkscape:cy="988.25108"
+     inkscape:zoom="0.32102648"
+     inkscape:cx="284.92356"
+     inkscape:cy="909.11507"
      inkscape:window-x="1593"
      inkscape:window-y="-12"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,9 +75,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 312,124.75717 C 24,-79.914779 152.2878,-390.89746 288,-391.02849 c 192,0 288,288.37238 288,333.855038 C 583.17563,-233.95544 741.55982,-380.59612 857.03917,-373.45639 1127.7982,-356.71618 1341.0033,128.98216 96,352.17044 c 456,22.74133 888,-90.96531 1296,0 C 1346.2505,120.59323 1280.7365,-291.57269 1344,-512"
-       id="path3849"
+       d="M 243.26056,-543.1005 C 128.14788,-378.69951 68.3375,-130.70952 134.6773,82.027009 177.21735,227.26598 289.46531,329.35894 408.94408,333.9999 c 51.56399,1.51162 100.32727,-33.88605 142.93956,-69.00113 88.55375,-77.47541 110.61587,-222.45344 126.10795,-350.292274 15.34287,-131.483736 49.35914,-270.371886 135.32303,-352.875886 84.421,-85.87824 198.22288,-116.58435 303.45988,-98.7914 136.1711,26.02482 254.0202,164.53328 291.8491,335.28656 18.1186,156.02316 16.3944,338.70735 -70.513,462.02045 C 1245.027,393.95394 1067.5444,370.4879 982.7465,235.26389 941.01068,175.61815 940.85389,89.151336 933.87472,13.318428 924.2015,-156.63573 1045.988,-266.95931 1266.7054,-207.1114 1824,-56 1728,568 1344,712 192,1096 -609.72378,24.219127 8.7797807,-600.28468"
+       id="path3916"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsccc" />
+       sodipodi:nodetypes="cccccccccccscc" />
   </g>
 </svg>
