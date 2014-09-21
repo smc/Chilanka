@@ -30,7 +30,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="685.67063"
+     inkscape:cx="258.91456"
      inkscape:cy="1322.8726"
      inkscape:window-x="1593"
      inkscape:window-y="-12"
@@ -75,9 +75,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:116.77300262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 266.93339,-503.57504 C -144,136 624,664 734.78819,-93.755725 782.28174,-418.59638 1056,-600 1296,-488 1968,-8 1111.522,813.35846 1014.7894,-72.928218 969.75201,-485.57116 1440,-632 1415.2302,-792.29506 c -47.5629,-307.79764 -352.9638,-177.0253 -509.39575,-28.03507"
+       d="M 391.5337,-559.64518 C 224.9902,-401.34502 171.11152,-235.37441 166.04085,-103.07402 144,472 720,472 734.78819,-93.755725 768,-776 1536,-632 1535.6336,-68.449421 1536,472 887.21939,471.45852 927.56918,-60.468187 960,-488 1373.2683,-635.61944 1415.2302,-792.29506 1488,-1064 1008,-1016 930.75451,-804.75509"
        id="path3842"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscssc" />
+       sodipodi:nodetypes="csccssc" />
   </g>
 </svg>

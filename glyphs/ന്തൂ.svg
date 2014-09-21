@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ന്ത.svg">
+   sodipodi:docname="ന്തൂ.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -64,7 +64,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="0.22645029"
      inkscape:cx="-188.95895"
-     inkscape:cy="1673.1156"
+     inkscape:cy="1143.198"
      inkscape:window-x="1593"
      inkscape:window-y="-12"
      inkscape:current-layer="layer1"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,9 +108,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:143.07470703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 377.49683,336.25618 c -455.832909,-1535.99998 648.16707,-816 505.77397,0 -49.60688,-2063.99998 1063.6404,-2.83193 470.0332,-8.45879 C 707.47878,321.67555 1584,-1064 1922.9035,-306.48705 c 50.5775,303.8942804 -94.3244,547.4575 -195.4793,655.99117"
+       d="m 377.49683,336.25618 c -455.832909,-1535.99998 648.16707,-816 505.77397,0 -49.60688,-2063.99998 1063.6404,-2.83193 470.0332,-8.45879 C 659.71518,145.39262 1837.7791,-1137.532 1943.479,-233.60094 1964.2855,-55.667102 1745.6366,-46.092907 1709.1323,17.557799 2400,328 1572.8216,616.02462 1344,616 1223.5573,615.98704 939.98066,500.90904 670.75776,533.28013 -289.95057,648.79473 528,952 1002.4275,904 L 1920,904"
        id="path4954"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscc" />
+       sodipodi:nodetypes="cccscsscc" />
   </g>
 </svg>

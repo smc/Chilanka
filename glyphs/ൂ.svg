@@ -14,7 +14,7 @@
    height="2000"
    id="svg2992"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ണ്‍.svg">
+   sodipodi:docname="ൂ.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,7 +30,7 @@
      showgrid="true"
      inkscape:zoom="0.3337544"
      inkscape:cx="1027.6018"
-     inkscape:cy="1106.8381"
+     inkscape:cy="507.59506"
      inkscape:window-x="1593"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,10 +67,10 @@
      transform="translate(0,1000)"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 236.53346,-46.605147 C 360,-80 434.45782,-12.284577 456.54505,67.287984 560,440 40,600 118.99493,-105.07552 268.99207,-713.57795 788.8004,-611.22691 790.24509,-82.224582 796.32374,741.70333 743.16309,305.76529 807.85447,-102.31033 960,-760 1214.6355,-576.6638 1289.7555,-97.305448 1347.9708,448.48364 1238,640 1314.0345,-104.61454 1478,-800 1978.9262,-549.1365 1974.4874,-72.64548 2000,360 1480,640 1574.913,-41.158929 c 39.606,-265.417481 327.2349,-458.703271 341.9391,-654.846421 20.6822,-275.88423 -480.1702,-276.73865 -526.89,-91.00601"
-       id="path5869-2"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 165.09462,-480 C 800,-760 398.61946,100.16954 241.21876,350.13716 -198.9508,1068.0151 1197.7502,964.94323 579.9243,428.76156 492.38844,352.79336 380.0757,303.96972 300.0757,383.96972 c -80,80 99.9243,416.03028 257.82589,264.12112"
+       id="path7379"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccccccsc" />
+       sodipodi:nodetypes="ccssc" />
   </g>
 </svg>
