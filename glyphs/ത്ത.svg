@@ -13,8 +13,8 @@
    height="2048"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ത്തൂ.svg">
+   inkscape:version="0.91pre2 r13516"
+   sodipodi:docname="ത്ത.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -23,7 +23,7 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,10 +35,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="886.81119"
-     inkscape:cy="677.81216"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:cx="1581.4579"
+     inkscape:cy="1176.2134"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,10 +79,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 260.89974,366.31211 C -151.7026,135.47819 198.96131,-602.85261 523.69609,-532.9638 1547.9274,-312.53059 438.67223,995.7764 366.01828,6.60175 351.28195,-194.03173 515.66979,-346.06808 681.3739,-488 1267.0237,-784.08417 1105.5167,109.54458 1101.848,366.31211 942.75852,-516.47965 1890.2371,-982.6017 1890.2371,51.565545 1769.8095,917.24105 786.49243,-128.28964 1680,-488 c 498.7311,-167.77659 683.2705,314.74657 367.9149,899.27591"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 352.56451,360.08209 C -271.09542,-641.34502 785.44479,-868.05997 1008.9472,3.079421 1106.8544,384.68964 561.37038,583.80482 618.61859,-27.663336 699.12031,-887.50233 1382,-632 1283.848,366.31211 1190.954,-621.85127 1884.6326,-943.43271 1980.7238,-1.9358353 2044.05,618.53142 1503.2552,361.17179 1578.0926,-27.982783 1749.5496,-919.55935 2992.1949,-600 2208.1098,367.6658"
        id="path3937"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccccc" />
+       sodipodi:nodetypes="csscssc" />
   </g>
 </svg>

@@ -55,7 +55,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.25"
-     inkscape:cx="729.71407"
+     inkscape:cx="181.71407"
      inkscape:cy="1206.6955"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
@@ -99,8 +99,8 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1196,-396 c -233.93783,-476.52252 -926.45332,246.11861 -528,240 336.9547,-5.17424 628,43.81022 628,292 -48,528 -945.15214,201.30036 -700,-56"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:122.29766083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 794.56136,-400.54557 C 566.96745,-834.02936 -106.7684,-176.65599 280.87966,-182.22198 608.69683,-186.9289 891.84957,-142.36863 891.84957,83.405054 845.1512,563.71694 -27.671946,266.52428 210.83216,32.462876"
        id="path5957"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscc" />
