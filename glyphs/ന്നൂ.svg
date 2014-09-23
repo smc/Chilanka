@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ന്ന.svg">
+   sodipodi:docname="ന്നൂ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="684.68419"
-     inkscape:cy="1176.7076"
+     inkscape:cx="573.53033"
+     inkscape:cy="1033.7154"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,9 +75,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 293.65278,339.38332 C -336,-536 720,-920 806.55095,-62.192645 836.78957,395.69638 864,568 810.81139,-58.994292 760.53934,-651.60785 1382.6409,-814.64093 1377.8388,-126.42931 1392,400 1392,616 1380.4957,-109.47684 1392,-824 2513.4152,-695.57504 1916.8385,330.0383"
+       d="M 293.65278,339.38332 C -336,-536 720,-920 806.55095,-62.192645 836.78957,395.69638 808.4951,580.46003 810.81139,-58.994292 658.26509,-633.84013 1392,-824 1377.8388,-126.42931 1392,400 1355.5756,616.48981 1380.4957,-109.47684 1402.3187,-745.22012 2160,-728 2076.7982,18.233381 2021.0485,518.24968 1553.3026,354.87042 1665.5298,45.228783 1824,-392 2567.2073,413.92179 2224.135,701.64514 2079.2791,823.13102 1583.5548,768.19447 1554.1248,547.46983"
        id="path4137"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsccc" />
+       sodipodi:nodetypes="ccccssssc" />
   </g>
 </svg>

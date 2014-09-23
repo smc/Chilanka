@@ -13,12 +13,12 @@
    height="2048"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91pre2 r13516"
    sodipodi:docname="ഗ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -29,11 +29,11 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.227"
-     inkscape:cx="-8.2758734"
-     inkscape:cy="973.30849"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:zoom="0.32102648"
+     inkscape:cx="1162.8837"
+     inkscape:cy="883.06509"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 249.37182,-483.97381 C -23.734331,-227.56103 86.788648,332.39935 310.06207,328 760.4233,271.73054 540.59867,-452.3386 936.0255,-536 1355.8281,-533.96362 1130.937,153.33702 1008,328"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 249.37182,-483.97381 C -23.734331,-227.56103 87.645515,348.03126 310.06207,328 762.09537,287.28903 533.85619,-495.73271 936.0255,-536 1353.7444,-577.8242 1584,184 1008,328"
        id="path3030"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cssc" />
   </g>
 </svg>
