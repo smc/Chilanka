@@ -13,12 +13,12 @@
    height="2048"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="template.svg">
+   inkscape:version="0.91pre2 r13516"
+   sodipodi:docname="ര്‍.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,10 +30,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="364.82479"
+     inkscape:cx="561.07028"
      inkscape:cy="1330.0509"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,11 +74,11 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 384,1424 C -144,704 576,224 1152,704 1388.1128,900.76065 1247.2565,1462.7678 912,1424 518.802,1378.532 538.02879,953.07593 624,848 970.56104,424.4254 912,512 1008,272 1054.8727,-167.50325 456.38296,164.63452 432,320"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 285.57504,1402.1949 C -240,-16 1151.2651,517.19916 1111.8034,1057.4699 1077.3761,1528.8145 654,1472 593.18172,1060.634 541.02105,707.82678 1005.938,498.29614 1040.4054,315.61011 1122.3511,-118.72278 466.98327,49.37923 442.60031,204.74471"
        id="path2985"
        inkscape:connector-curvature="0"
        transform="translate(0,-1048)"
-       sodipodi:nodetypes="cssscc" />
+       sodipodi:nodetypes="csssc" />
   </g>
 </svg>
