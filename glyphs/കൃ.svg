@@ -16,9 +16,18 @@
    inkscape:version="0.91pre2 r13516"
    sodipodi:docname="കൃ.svg">
   <defs
-     id="defs5498" />
+     id="defs5498">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3846"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3801"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -29,11 +38,11 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.454"
-     inkscape:cx="705.54942"
-     inkscape:cy="704.75716"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:zoom="0.32102648"
+     inkscape:cx="500.70746"
+     inkscape:cy="754.67306"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -74,10 +83,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 384,-200 c 144,-672 565.97013,-382.3281 528,48 -106.22926,1203.9316 -624,-96 -480,240 0,144 -48,312 -96,288 -240,0 -432,-480 -96,-528 336,-48 627.58087,-31.91344 768,0 528,120 522.9217,764.78223 -49.65371,914.96715 C 74.202643,918.73128 816,232 961.2595,638.46166"
-       id="path3010"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 804.52606,-158.23002 c 32.495,-673.22667 543.75464,-463.55311 537.91024,46.72512 C 1332.5261,753.76998 756.52606,177.76998 835.67614,84.884992 852.52606,561.76998 180.52606,393.76998 602.1163,-45.693093 1042.254,-434.57963 1661.1639,-257.74287 1730.9633,8.8688503 1908.5261,465.76998 1484.5327,902.97693 987.3281,866.38903 513.65106,831.53246 912,400 1309.0252,716.10109"
+       id="path7161"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscczscc" />
+       sodipodi:nodetypes="cscccsc" />
   </g>
 </svg>
