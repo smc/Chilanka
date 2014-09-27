@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഹ.svg">
+   sodipodi:docname="ഹ്ര.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1826.8524"
-     inkscape:cy="1158.3157"
+     inkscape:cx="954.65024"
+     inkscape:cy="1106.9799"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 -589.47908,-255.9176 -211.9498,-840 288,-840 528,48 415.4497,518.0671 192,816"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 -589.47908,-255.9176 -218.1798,-858.69005 281.77,-858.69005 511.1781,46.47074 514.2651,486.035074 247.2674,815.05399 C 1660.0351,481.34502 1536,568 1351.0208,639.01749 336.12848,1028.6564 -528,616 -61.854623,-545.28213"
        id="path3938"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccccsc" />
   </g>
 </svg>

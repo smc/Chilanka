@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഹ.svg">
+   sodipodi:docname="ഹ്മ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 -589.47908,-255.9176 -211.9498,-840 288,-840 528,48 415.4497,518.0671 192,816"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 C 706.52092,70.0824 1056,-600 1580.885,-535.80505 2157.704,-465.25844 1872,40 1424.0041,261.5049 c 0,0 -154.7245,65.00554 -58.7643,67.76998 l 648.7757,18.69005 C 1872,136 1953.0061,-104.0935 1971.6803,-206.23002"
        id="path3938"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccscscc" />
   </g>
 </svg>

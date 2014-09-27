@@ -10,13 +10,18 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2000"
-   height="2048"
+   height="2000"
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഹ.svg">
+   sodipodi:docname="ഝ.svg">
   <defs
-     id="defs5498" />
+     id="defs5498">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      inkscape:window-height="851"
      inkscape:window-width="1600"
@@ -30,8 +35,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1826.8524"
-     inkscape:cy="1158.3157"
+     inkscape:cx="1776.8069"
+     inkscape:cy="788.16187"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -43,18 +48,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid3769"
-       empspacing="3"
+       empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       units="px"
-       dotted="true"
-       spacingy="4px" />
+       snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="0,1"
-       position="-1040,1600"
-       id="guide2985" />
+       position="-2720,1600"
+       id="guide4772" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -72,12 +73,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1048)">
+     transform="translate(0,1000)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 -589.47908,-255.9176 -211.9498,-840 288,-840 528,48 415.4497,518.0671 192,816"
-       id="path3938"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 227.04487,328.35482 C -360,-680 840,-840 870.58055,-27.086266 894.39234,605.89558 415.13609,324.07409 505.41516,-41.485306 658.37548,-660.8545 1590.0625,-712.04964 1380.1754,-158.65909 1040,440 1760,520 1916.9029,-11.917908 1960,-720 1920,-720 1951.1732,-28.356832 1963.6793,8.0965385 1979.7022,44.478875 2000,80 c 440,720 1207.8597,-236.88499 567.8597,-636.88499"
+       id="path13140"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cssccccc" />
   </g>
 </svg>
