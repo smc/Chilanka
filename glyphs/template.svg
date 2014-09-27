@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
+   width="4000"
    height="2048"
    id="svg2992"
    version="1.1"
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,5 +97,11 @@
        id="path4160"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 279.22022,346.69005 C -96,-152 1056,-56 517.38009,356.38989 770.85814,305.13492 1593.5272,448.58102 1305.9577,246.41928 465.52354,-679.03738 2216,-920 973.89067,300.31975"
+       id="path4149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
