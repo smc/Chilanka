@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഞ.svg">
+   sodipodi:docname="ഗ്നു.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="527.89417"
-     inkscape:cy="1033.7154"
+     inkscape:cx="708.68613"
+     inkscape:cy="996.96717"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:119.69802856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 196.38989,-72.849922 C 384,-200 463.21312,-59.223442 485.70874,50.194724 532.95513,280 120.99709,615.28719 89.420674,-53.384886 65.28455,-564.499 688.26737,-797.67881 695.04729,-152 c 6.26266,576 -23.04729,720 -0.008,6.62298 86.26522,-604.0061 697.51616,-491.50936 671.25476,56.311795 C 1343.9999,376 888.04788,557.6779 970.93435,-63.970622 1082.9063,-903.7601 2256,-632 1554.7882,328.78293"
-       id="path3792"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 182.76542,-542.00347 C -340.95513,654.65498 768,472 585.09165,-157.13787 c -160.29898,-551.36989 655.40345,-519.74712 549.68855,78.401021 -19.5951,531.691979 12.8299,601.851859 3.0388,3.645278 -10.7354,-655.896939 782.2993,-701.380889 670.8086,-4.719199 C 1728,424 1488,424 1440.5,113.04912 c -37.1571,-243.24277 233.8352,-268.16413 320.0245,-135.919019"
+       id="path3030"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccssc" />
+       sodipodi:nodetypes="cscsssc" />
   </g>
 </svg>
