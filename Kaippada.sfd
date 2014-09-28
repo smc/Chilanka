@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1411836370
+ModificationTime: 1411900235
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -73,17 +73,16 @@ DEI: 91125
 LangName: 1033 "" "" "Regular" "Kaippada2014SMC" "" "0.1" "" "" "" "Santhosh Thottingal" "Handwriting style font for Malayalam+AAoA" "https://savannah.nongnu.org/projects/smc" "http://smc.org.in+AAoACgAA-hussain.rachana@gmail.com; psuresh@riseup.net; psuresh@gmx.com; santhosh.thottingal@gmail.com; rajeeshknambiar@gmail.com" "Copyright (c) 2014, Santhosh Thottingal, Kavya Manohar, http://smc.org.in+AAoA-with Reserved Font Name Kaippada.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Kaippada" "Regular" "Kaippada" 
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: Custom
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 12
+WinInfo: 320 32 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
-BeginChars: 739 685
+BeginChars: 686 686
 
 StartChar: .notdef
 Encoding: 121 -1 0
@@ -1909,7 +1908,7 @@ StartChar: ml_r
 Encoding: 46 3339 47
 Width: 1863
 GlyphClass: 2
-Flags: MWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7811,7 +7810,7 @@ LCarets2: 1 -249
 EndChar
 
 StartChar: k1r3
-Encoding: 154 -1 147
+Encoding: 151 -1 147
 Width: 1924
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7888,7 +7887,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1r3u1
-Encoding: 155 -1 148
+Encoding: 152 -1 148
 Width: 1933
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7902,7 +7901,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1r3u2
-Encoding: 156 -1 149
+Encoding: 153 -1 149
 Width: 1964
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7916,7 +7915,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1l3
-Encoding: 157 -1 150
+Encoding: 154 -1 150
 Width: 1524
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7931,7 +7930,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1l3u1
-Encoding: 158 -1 151
+Encoding: 155 -1 151
 Width: 1524
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7946,7 +7945,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1l3u2
-Encoding: 159 -1 152
+Encoding: 156 -1 152
 Width: 1524
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -7961,7 +7960,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1sh
-Encoding: 160 -1 153
+Encoding: 157 -1 153
 Width: 2674
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8063,7 +8062,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: k1shu1
-Encoding: 161 -1 154
+Encoding: 158 -1 154
 Width: 2396
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8077,7 +8076,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k1shu2
-Encoding: 162 -1 155
+Encoding: 159 -1 155
 Width: 2396
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8091,7 +8090,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k2u1
-Encoding: 168 -1 156
+Encoding: 160 -1 156
 Width: 1733
 GlyphClass: 3
 Flags: MW
@@ -8104,7 +8103,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k2u2
-Encoding: 169 -1 157
+Encoding: 161 -1 157
 Width: 1733
 GlyphClass: 3
 Flags: MW
@@ -8117,7 +8116,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k2r1
-Encoding: 170 -1 158
+Encoding: 162 -1 158
 Width: 1532
 GlyphClass: 3
 Flags: MW
@@ -8181,7 +8180,7 @@ LCarets2: 1 -141
 EndChar
 
 StartChar: k3u1
-Encoding: 171 -1 159
+Encoding: 163 -1 159
 Width: 1609
 GlyphClass: 3
 Flags: MW
@@ -8247,7 +8246,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3u2
-Encoding: 172 -1 160
+Encoding: 164 -1 160
 Width: 1531
 GlyphClass: 3
 Flags: MW
@@ -8323,7 +8322,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3r1
-Encoding: 173 -1 161
+Encoding: 165 -1 161
 Width: 1572
 GlyphClass: 3
 Flags: MW
@@ -8381,7 +8380,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3k3
-Encoding: 174 -1 162
+Encoding: 166 -1 162
 Width: 1595
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8397,7 +8396,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: k3k3u1
-Encoding: 175 -1 163
+Encoding: 167 -1 163
 Width: 1610
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8412,7 +8411,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3k3u2
-Encoding: 176 -1 164
+Encoding: 168 -1 164
 Width: 1600
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8426,7 +8425,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3k3r1
-Encoding: 177 -1 165
+Encoding: 169 -1 165
 Width: 1595
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8441,7 +8440,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3th3
-Encoding: 178 -1 166
+Encoding: 170 -1 166
 Width: 1530
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8491,7 +8490,7 @@ LCarets2: 2 -140 -140
 EndChar
 
 StartChar: k3th3u1
-Encoding: 179 -1 167
+Encoding: 171 -1 167
 Width: 1530
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8554,7 +8553,7 @@ LCarets2: 1 -140
 EndChar
 
 StartChar: k3th3u2
-Encoding: 180 -1 168
+Encoding: 172 -1 168
 Width: 1530
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8628,7 +8627,7 @@ LCarets2: 1 -140
 EndChar
 
 StartChar: k3th3r1
-Encoding: 181 -1 169
+Encoding: 173 -1 169
 Width: 1572
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8688,7 +8687,7 @@ LCarets2: 1 -144
 EndChar
 
 StartChar: k3th3th4
-Encoding: 182 -1 170
+Encoding: 174 -1 170
 Width: 2537
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8758,7 +8757,7 @@ LCarets2: 4 -225 -225 -225 -225
 EndChar
 
 StartChar: k3th3th4u1
-Encoding: 183 -1 171
+Encoding: 175 -1 171
 Width: 2537
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8841,7 +8840,7 @@ LCarets2: 1 -225
 EndChar
 
 StartChar: k3th3th4u2
-Encoding: 184 -1 172
+Encoding: 176 -1 172
 Width: 2537
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8935,7 +8934,7 @@ LCarets2: 1 -225
 EndChar
 
 StartChar: k3n1
-Encoding: 185 -1 173
+Encoding: 177 -1 173
 Width: 2118
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -8998,7 +8997,7 @@ LCarets2: 2 0 2
 EndChar
 
 StartChar: k3n1u1
-Encoding: 186 -1 174
+Encoding: 178 -1 174
 Width: 2108
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9071,7 +9070,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3n1u2
-Encoding: 187 -1 175
+Encoding: 179 -1 175
 Width: 2298
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9153,7 +9152,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3m1
-Encoding: 188 -1 176
+Encoding: 180 -1 176
 Width: 1752
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9201,7 +9200,7 @@ LCarets2: 2 -159 -159
 EndChar
 
 StartChar: k3m1u1
-Encoding: 189 -1 177
+Encoding: 181 -1 177
 Width: 1756
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9265,7 +9264,7 @@ LCarets2: 1 -161
 EndChar
 
 StartChar: k3m1u2
-Encoding: 190 -1 178
+Encoding: 182 -1 178
 Width: 1756
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9339,7 +9338,7 @@ LCarets2: 1 -159
 EndChar
 
 StartChar: k3r3
-Encoding: 191 -1 179
+Encoding: 183 -1 179
 Width: 1876
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9438,7 +9437,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3r3u1
-Encoding: 192 -1 180
+Encoding: 184 -1 180
 Width: 1877
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9452,7 +9451,7 @@ LCarets2: 1 3
 EndChar
 
 StartChar: k3r3u2
-Encoding: 193 -1 181
+Encoding: 185 -1 181
 Width: 1914
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9466,7 +9465,7 @@ LCarets2: 1 -165
 EndChar
 
 StartChar: k3l3
-Encoding: 194 -1 182
+Encoding: 186 -1 182
 Width: 1604
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9484,7 +9483,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3l3u1
-Encoding: 195 -1 183
+Encoding: 187 -1 183
 Width: 1604
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9498,7 +9497,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k3l3u2
-Encoding: 196 -1 184
+Encoding: 188 -1 184
 Width: 1604
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9512,7 +9511,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k4u1
-Encoding: 197 -1 185
+Encoding: 189 -1 185
 Width: 2359
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9526,7 +9525,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k4u2
-Encoding: 198 -1 186
+Encoding: 190 -1 186
 Width: 2290
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9540,7 +9539,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: k4r1
-Encoding: 199 -1 187
+Encoding: 191 -1 187
 Width: 2268
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9611,7 +9610,7 @@ LCarets2: 1 -202
 EndChar
 
 StartChar: k4n1
-Encoding: 200 -1 188
+Encoding: 192 -1 188
 Width: 2266
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9690,7 +9689,7 @@ LCarets2: 2 -202 -202
 EndChar
 
 StartChar: k4n1u1
-Encoding: 201 -1 189
+Encoding: 193 -1 189
 Width: 2272
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9778,7 +9777,7 @@ LCarets2: 1 -205
 EndChar
 
 StartChar: k4n1u2
-Encoding: 202 -1 190
+Encoding: 194 -1 190
 Width: 2268
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9874,7 +9873,7 @@ LCarets2: 1 -203
 EndChar
 
 StartChar: k4r3
-Encoding: 203 -1 191
+Encoding: 195 -1 191
 Width: 2515
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -9941,7 +9940,7 @@ LCarets2: 1 -223
 EndChar
 
 StartChar: k4r3u1
-Encoding: 204 -1 192
+Encoding: 196 -1 192
 Width: 2517
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10022,7 +10021,7 @@ LCarets2: 1 -223
 EndChar
 
 StartChar: k4r3u2
-Encoding: 205 -1 193
+Encoding: 197 -1 193
 Width: 2515
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10114,7 +10113,7 @@ LCarets2: 1 -223
 EndChar
 
 StartChar: ngu1
-Encoding: 206 -1 194
+Encoding: 198 -1 194
 Width: 1777
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10128,7 +10127,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ngu2
-Encoding: 207 -1 195
+Encoding: 199 -1 195
 Width: 1777
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10142,7 +10141,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ngk1
-Encoding: 208 -1 196
+Encoding: 200 -1 196
 Width: 1719
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10238,7 +10237,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: ngk1u1
-Encoding: 209 -1 197
+Encoding: 201 -1 197
 Width: 1624
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10319,7 +10318,7 @@ LCarets2: 1 -149
 EndChar
 
 StartChar: ngk1u2
-Encoding: 210 -1 198
+Encoding: 202 -1 198
 Width: 1583
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10410,7 +10409,7 @@ LCarets2: 1 -145
 EndChar
 
 StartChar: ngk1r1
-Encoding: 211 -1 199
+Encoding: 203 -1 199
 Width: 1607
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10496,7 +10495,7 @@ LCarets2: 1 -148
 EndChar
 
 StartChar: ngng
-Encoding: 212 -1 200
+Encoding: 204 -1 200
 Width: 2534
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10589,7 +10588,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: ngngu1
-Encoding: 213 -1 201
+Encoding: 205 -1 201
 Width: 2528
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10603,7 +10602,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ngngu2
-Encoding: 214 -1 202
+Encoding: 206 -1 202
 Width: 2549
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10617,7 +10616,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch1u1
-Encoding: 215 -1 203
+Encoding: 207 -1 203
 Width: 1659
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10631,7 +10630,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch1u2
-Encoding: 216 -1 204
+Encoding: 208 -1 204
 Width: 1659
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10645,7 +10644,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch1ch1
-Encoding: 217 -1 205
+Encoding: 209 -1 205
 Width: 1629
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10723,7 +10722,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: ch1ch1u1
-Encoding: 218 -1 206
+Encoding: 210 -1 206
 Width: 1704
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10834,7 +10833,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch1ch1u2
-Encoding: 219 -1 207
+Encoding: 211 -1 207
 Width: 1656
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10956,7 +10955,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch1ch2
-Encoding: 220 -1 208
+Encoding: 212 -1 208
 Width: 1886
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -10972,7 +10971,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: ch2u1
-Encoding: 221 -1 209
+Encoding: 213 -1 209
 Width: 2319
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11046,7 +11045,7 @@ LCarets2: 1 -207
 EndChar
 
 StartChar: ch2u2
-Encoding: 222 -1 210
+Encoding: 214 -1 210
 Width: 2394
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11133,7 +11132,7 @@ LCarets2: 1 -213
 EndChar
 
 StartChar: ch2r1
-Encoding: 223 -1 211
+Encoding: 215 -1 211
 Width: 2437
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11212,7 +11211,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: ch3u1
-Encoding: 224 -1 212
+Encoding: 216 -1 212
 Width: 1629
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11296,7 +11295,7 @@ LCarets2: 1 -149
 EndChar
 
 StartChar: ch3u2
-Encoding: 225 -1 213
+Encoding: 217 -1 213
 Width: 1672
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11391,7 +11390,7 @@ LCarets2: 1 -153
 EndChar
 
 StartChar: ch3r1
-Encoding: 226 -1 214
+Encoding: 218 -1 214
 Width: 1682
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11476,7 +11475,7 @@ LCarets2: 1 -153
 EndChar
 
 StartChar: ch3ch3
-Encoding: 227 -1 215
+Encoding: 219 -1 215
 Width: 2753
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11587,7 +11586,7 @@ LCarets2: 2 -243 -243
 EndChar
 
 StartChar: ch3ch3u1
-Encoding: 228 -1 216
+Encoding: 220 -1 216
 Width: 2972
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11710,7 +11709,7 @@ LCarets2: 1 -261
 EndChar
 
 StartChar: ch3ch3u2
-Encoding: 229 -1 217
+Encoding: 221 -1 217
 Width: 3012
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11845,7 +11844,7 @@ LCarets2: 1 -264
 EndChar
 
 StartChar: ch3ch3r1
-Encoding: 230 -1 218
+Encoding: 222 -1 218
 Width: 3035
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -11971,7 +11970,7 @@ LCarets2: 1 -266
 EndChar
 
 StartChar: ch3nj
-Encoding: 231 -1 219
+Encoding: 223 -1 219
 Width: 3583
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12121,7 +12120,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: ch3r3
-Encoding: 232 -1 220
+Encoding: 224 -1 220
 Width: 1925
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12203,7 +12202,7 @@ LCarets2: 1 -174
 EndChar
 
 StartChar: ch3r3u1
-Encoding: 233 -1 221
+Encoding: 225 -1 221
 Width: 1925
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12299,7 +12298,7 @@ LCarets2: 1 -174
 EndChar
 
 StartChar: ch3r3u2
-Encoding: 234 -1 222
+Encoding: 226 -1 222
 Width: 1925
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12406,7 +12405,7 @@ LCarets2: 1 -174
 EndChar
 
 StartChar: ch4u1
-Encoding: 235 -1 223
+Encoding: 227 -1 223
 Width: 3078
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12420,7 +12419,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: ch4u2
-Encoding: 236 -1 224
+Encoding: 228 -1 224
 Width: 3078
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12434,7 +12433,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nju1
-Encoding: 237 -1 225
+Encoding: 229 -1 225
 Width: 2018
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12448,7 +12447,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nju2
-Encoding: 238 -1 226
+Encoding: 230 -1 226
 Width: 2054
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12462,7 +12461,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: njch1
-Encoding: 239 -1 227
+Encoding: 231 -1 227
 Width: 2372
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12563,7 +12562,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: njch1u1
-Encoding: 240 -1 228
+Encoding: 232 -1 228
 Width: 2380
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12577,7 +12576,7 @@ LCarets2: 1 -224
 EndChar
 
 StartChar: njch1u2
-Encoding: 241 -1 229
+Encoding: 233 -1 229
 Width: 2380
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12591,7 +12590,7 @@ LCarets2: 1 -224
 EndChar
 
 StartChar: njch1r1
-Encoding: 242 -1 230
+Encoding: 234 -1 230
 Width: 2536
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12684,7 +12683,7 @@ LCarets2: 1 -224
 EndChar
 
 StartChar: njch3
-Encoding: 243 -1 231
+Encoding: 235 -1 231
 Width: 2578
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12807,7 +12806,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: njch3u1
-Encoding: 244 -1 232
+Encoding: 236 -1 232
 Width: 2808
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -12925,7 +12924,7 @@ LCarets2: 1 -247
 EndChar
 
 StartChar: njch3u2
-Encoding: 245 -1 233
+Encoding: 237 -1 233
 Width: 2857
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13054,7 +13053,7 @@ LCarets2: 1 -251
 EndChar
 
 StartChar: njnj
-Encoding: 246 -1 234
+Encoding: 238 -1 234
 Width: 2993
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13165,7 +13164,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: njnju1
-Encoding: 247 -1 235
+Encoding: 239 -1 235
 Width: 2993
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13179,7 +13178,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: njnju2
-Encoding: 248 -1 236
+Encoding: 240 -1 236
 Width: 2993
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13193,7 +13192,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t1u1
-Encoding: 249 -1 237
+Encoding: 241 -1 237
 Width: 1120
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13261,7 +13260,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t1u2
-Encoding: 250 -1 238
+Encoding: 242 -1 238
 Width: 1121
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13358,7 +13357,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t1r1
-Encoding: 251 -1 239
+Encoding: 243 -1 239
 Width: 987
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13405,7 +13404,7 @@ LCarets2: 1 -95
 EndChar
 
 StartChar: t1t1
-Encoding: 252 -1 240
+Encoding: 244 -1 240
 Width: 1063
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13477,7 +13476,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: t1t1u1
-Encoding: 253 -1 241
+Encoding: 245 -1 241
 Width: 1084
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13491,7 +13490,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t1t1u2
-Encoding: 254 -1 242
+Encoding: 246 -1 242
 Width: 1078
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13505,7 +13504,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t1r3
-Encoding: 255 -1 243
+Encoding: 247 -1 243
 Width: 1303
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13548,7 +13547,7 @@ LCarets2: 1 -122
 EndChar
 
 StartChar: t1r3u1
-Encoding: 256 -1 244
+Encoding: 248 -1 244
 Width: 1303
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13604,7 +13603,7 @@ LCarets2: 1 -122
 EndChar
 
 StartChar: t1r3u2
-Encoding: 257 -1 245
+Encoding: 249 -1 245
 Width: 1303
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13671,7 +13670,7 @@ LCarets2: 1 -122
 EndChar
 
 StartChar: t2u1
-Encoding: 258 -1 246
+Encoding: 250 -1 246
 Width: 1201
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13685,7 +13684,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t2u2
-Encoding: 259 -1 247
+Encoding: 251 -1 247
 Width: 1201
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13699,7 +13698,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t3u1
-Encoding: 260 -1 248
+Encoding: 252 -1 248
 Width: 2166
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13713,7 +13712,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t3u2
-Encoding: 261 -1 249
+Encoding: 253 -1 249
 Width: 2166
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13727,7 +13726,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t3r1
-Encoding: 262 -1 250
+Encoding: 254 -1 250
 Width: 2172
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13792,7 +13791,7 @@ LCarets2: 1 -194
 EndChar
 
 StartChar: t3t3
-Encoding: 263 -1 251
+Encoding: 255 -1 251
 Width: 2041
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13807,7 +13806,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: t3t3u1
-Encoding: 264 -1 252
+Encoding: 256 -1 252
 Width: 2202
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13821,7 +13820,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t3t3u2
-Encoding: 265 -1 253
+Encoding: 257 -1 253
 Width: 2202
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13835,7 +13834,7 @@ LCarets2: 1 -195
 EndChar
 
 StartChar: t3t4
-Encoding: 266 -1 254
+Encoding: 258 -1 254
 Width: 2092
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13850,7 +13849,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: t3t4u1
-Encoding: 267 -1 255
+Encoding: 259 -1 255
 Width: 2192
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13864,7 +13863,7 @@ LCarets2: 1 -195
 EndChar
 
 StartChar: t3t4u2
-Encoding: 268 -1 256
+Encoding: 260 -1 256
 Width: 2172
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -13975,7 +13974,7 @@ LCarets2: 1 -195
 EndChar
 
 StartChar: t3r3
-Encoding: 273 -1 257
+Encoding: 261 -1 257
 Width: 2441
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14034,7 +14033,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: t3r3u1
-Encoding: 274 -1 258
+Encoding: 262 -1 258
 Width: 2527
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14048,7 +14047,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: t3r3u2
-Encoding: 275 -1 259
+Encoding: 263 -1 259
 Width: 2441
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14062,7 +14061,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: t4u1
-Encoding: 276 -1 260
+Encoding: 264 -1 260
 Width: 2047
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14076,7 +14075,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t4u2
-Encoding: 277 -1 261
+Encoding: 265 -1 261
 Width: 2047
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14090,7 +14089,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: t4r1
-Encoding: 278 -1 262
+Encoding: 266 -1 262
 Width: 2245
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14166,7 +14165,7 @@ LCarets2: 1 -200
 EndChar
 
 StartChar: t4r3
-Encoding: 279 -1 263
+Encoding: 267 -1 263
 Width: 2511
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14240,7 +14239,7 @@ LCarets2: 1 -222
 EndChar
 
 StartChar: t4r3u1
-Encoding: 280 -1 264
+Encoding: 268 -1 264
 Width: 2572
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14254,7 +14253,7 @@ LCarets2: 1 -222
 EndChar
 
 StartChar: t4r3u2
-Encoding: 281 -1 265
+Encoding: 269 -1 265
 Width: 2627
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14268,7 +14267,7 @@ LCarets2: 1 -222
 EndChar
 
 StartChar: nhu1
-Encoding: 282 -1 266
+Encoding: 270 -1 266
 Width: 2252
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14359,7 +14358,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nhu2
-Encoding: 283 -1 267
+Encoding: 271 -1 267
 Width: 2404
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14455,7 +14454,7 @@ LCarets2: 1 3
 EndChar
 
 StartChar: nht1
-Encoding: 284 -1 268
+Encoding: 272 -1 268
 Width: 2391
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14556,7 +14555,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: nht1u1
-Encoding: 285 -1 269
+Encoding: 273 -1 269
 Width: 2417
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14570,7 +14569,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nht1u2
-Encoding: 286 -1 270
+Encoding: 274 -1 270
 Width: 2498
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14584,7 +14583,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nht2
-Encoding: 287 -1 271
+Encoding: 275 -1 271
 Width: 2062
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14599,7 +14598,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: nht3
-Encoding: 288 -1 272
+Encoding: 276 -1 272
 Width: 3449
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14678,7 +14677,7 @@ LCarets2: 2 -300 -300
 EndChar
 
 StartChar: nht3u1
-Encoding: 289 -1 273
+Encoding: 277 -1 273
 Width: 3594
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14692,7 +14691,7 @@ LCarets2: 1 -300
 EndChar
 
 StartChar: nht3u2
-Encoding: 290 -1 274
+Encoding: 278 -1 274
 Width: 3570
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14706,7 +14705,7 @@ LCarets2: 1 -300
 EndChar
 
 StartChar: nhnh
-Encoding: 291 -1 275
+Encoding: 279 -1 275
 Width: 2004
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14721,7 +14720,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: nhnhu1
-Encoding: 292 -1 276
+Encoding: 280 -1 276
 Width: 2252
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14736,7 +14735,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nhnhu2
-Encoding: 293 -1 277
+Encoding: 281 -1 277
 Width: 2252
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14751,7 +14750,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: nhm1
-Encoding: 294 -1 278
+Encoding: 282 -1 278
 Width: 2426
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14818,7 +14817,7 @@ LCarets2: 2 -215 -215
 EndChar
 
 StartChar: nhm1u1
-Encoding: 295 -1 279
+Encoding: 283 -1 279
 Width: 2672
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14832,7 +14831,7 @@ LCarets2: 1 -215
 EndChar
 
 StartChar: nhm1u2
-Encoding: 296 -1 280
+Encoding: 284 -1 280
 Width: 2715
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14846,7 +14845,7 @@ LCarets2: 1 -215
 EndChar
 
 StartChar: th1u1
-Encoding: 297 -1 281
+Encoding: 285 -1 281
 Width: 1707
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -14918,7 +14917,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1u2
-Encoding: 298 -1 282
+Encoding: 286 -1 282
 Width: 1672
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15001,7 +15000,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1r1
-Encoding: 299 -1 283
+Encoding: 287 -1 283
 Width: 1623
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15098,7 +15097,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1th1
-Encoding: 300 -1 284
+Encoding: 288 -1 284
 Width: 2635
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15184,7 +15183,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: th1th1u1
-Encoding: 301 -1 285
+Encoding: 289 -1 285
 Width: 2554
 GlyphClass: 3
 Flags: MW
@@ -15292,7 +15291,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1th1u2
-Encoding: 302 -1 286
+Encoding: 290 -1 286
 Width: 2510
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15410,7 +15409,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1th1r1
-Encoding: 303 -1 287
+Encoding: 291 -1 287
 Width: 2719
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15502,7 +15501,7 @@ LCarets2: 1 -239
 EndChar
 
 StartChar: th1th1r3
-Encoding: 304 -1 288
+Encoding: 292 -1 288
 Width: 2988
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15589,7 +15588,7 @@ LCarets2: 1 -263
 EndChar
 
 StartChar: th1th1r3u1
-Encoding: 305 -1 289
+Encoding: 293 -1 289
 Width: 3046
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15603,7 +15602,7 @@ LCarets2: 1 -263
 EndChar
 
 StartChar: th1th1r3u2
-Encoding: 306 -1 290
+Encoding: 294 -1 290
 Width: 3046
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15617,7 +15616,7 @@ LCarets2: 1 -263
 EndChar
 
 StartChar: th1th2
-Encoding: 307 -1 291
+Encoding: 295 -1 291
 Width: 2586
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15683,7 +15682,7 @@ LCarets2: 2 -228 -228
 EndChar
 
 StartChar: th1th2u1
-Encoding: 308 -1 292
+Encoding: 296 -1 292
 Width: 2864
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15697,7 +15696,7 @@ LCarets2: 1 -228
 EndChar
 
 StartChar: th1th2u2
-Encoding: 309 -1 293
+Encoding: 297 -1 293
 Width: 2937
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15711,7 +15710,7 @@ LCarets2: 1 -228
 EndChar
 
 StartChar: th1th2r1
-Encoding: 310 -1 294
+Encoding: 298 -1 294
 Width: 2586
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15794,7 +15793,7 @@ LCarets2: 1 -228
 EndChar
 
 StartChar: th1n1
-Encoding: 311 -1 295
+Encoding: 299 -1 295
 Width: 2175
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15808,7 +15807,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: th1p4
-Encoding: 312 -1 296
+Encoding: 300 -1 296
 Width: 2321
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15887,7 +15886,7 @@ LCarets2: 2 -206 -206
 EndChar
 
 StartChar: th1p4u1
-Encoding: 313 -1 297
+Encoding: 301 -1 297
 Width: 2025
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -15973,7 +15972,7 @@ LCarets2: 1 -182
 EndChar
 
 StartChar: th1p4u2
-Encoding: 314 -1 298
+Encoding: 302 -1 298
 Width: 2531
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16062,7 +16061,7 @@ LCarets2: 1 -225
 EndChar
 
 StartChar: th1m1
-Encoding: 316 -1 299
+Encoding: 303 -1 299
 Width: 2340
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16127,7 +16126,7 @@ LCarets2: 2 -208 -208
 EndChar
 
 StartChar: th1m1u1
-Encoding: 317 -1 300
+Encoding: 304 -1 300
 Width: 2340
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16207,7 +16206,7 @@ LCarets2: 1 -208
 EndChar
 
 StartChar: th1m1u2
-Encoding: 318 -1 301
+Encoding: 305 -1 301
 Width: 2340
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16297,7 +16296,7 @@ LCarets2: 1 -208
 EndChar
 
 StartChar: th1m1r1
-Encoding: 319 -1 302
+Encoding: 306 -1 302
 Width: 2340
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16380,7 +16379,7 @@ LCarets2: 1 -208
 EndChar
 
 StartChar: th1r3
-Encoding: 320 -1 303
+Encoding: 307 -1 303
 Width: 1932
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16446,7 +16445,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1r3u1
-Encoding: 321 -1 304
+Encoding: 308 -1 304
 Width: 1872
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16460,7 +16459,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1r3u2
-Encoding: 322 -1 305
+Encoding: 309 -1 305
 Width: 1872
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16474,7 +16473,7 @@ LCarets2: 1 3
 EndChar
 
 StartChar: th1l3
-Encoding: 323 -1 306
+Encoding: 310 -1 306
 Width: 1609
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16524,7 +16523,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th1l3u1
-Encoding: 324 -1 307
+Encoding: 311 -1 307
 Width: 1609
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16617,7 +16616,7 @@ LCarets2: 1 -146
 EndChar
 
 StartChar: th1l3u2
-Encoding: 325 -1 308
+Encoding: 312 -1 308
 Width: 1609
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16717,7 +16716,7 @@ LCarets2: 1 -146
 EndChar
 
 StartChar: th1s1
-Encoding: 326 -1 309
+Encoding: 313 -1 309
 Width: 2827
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16784,7 +16783,7 @@ LCarets2: 2 -249 -249
 EndChar
 
 StartChar: th1s1u1
-Encoding: 327 -1 310
+Encoding: 314 -1 310
 Width: 2831
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16864,7 +16863,7 @@ LCarets2: 1 -249
 EndChar
 
 StartChar: th1s1u2
-Encoding: 328 -1 311
+Encoding: 315 -1 311
 Width: 2831
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -16955,7 +16954,7 @@ LCarets2: 1 -249
 EndChar
 
 StartChar: th1s1r1
-Encoding: 329 -1 312
+Encoding: 316 -1 312
 Width: 2835
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17036,7 +17035,7 @@ LCarets2: 1 -250
 EndChar
 
 StartChar: th2u1
-Encoding: 330 -1 313
+Encoding: 317 -1 313
 Width: 1405
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17050,7 +17049,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th2u2
-Encoding: 331 -1 314
+Encoding: 318 -1 314
 Width: 1405
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17064,7 +17063,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3u1
-Encoding: 332 -1 315
+Encoding: 319 -1 315
 Width: 1195
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17078,7 +17077,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3u2
-Encoding: 333 -1 316
+Encoding: 320 -1 316
 Width: 1195
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17092,7 +17091,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3r1
-Encoding: 334 -1 317
+Encoding: 321 -1 317
 Width: 1100
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17147,7 +17146,7 @@ LCarets2: 1 -104
 EndChar
 
 StartChar: th3th3
-Encoding: 335 -1 318
+Encoding: 322 -1 318
 Width: 1219
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17216,7 +17215,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: th3th3u1
-Encoding: 336 -1 319
+Encoding: 323 -1 319
 Width: 1219
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17230,7 +17229,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3th3u2
-Encoding: 337 -1 320
+Encoding: 324 -1 320
 Width: 1219
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17244,7 +17243,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3th3r1
-Encoding: 338 -1 321
+Encoding: 325 -1 321
 Width: 1037
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17300,7 +17299,7 @@ LCarets2: 1 -100
 EndChar
 
 StartChar: th3th4
-Encoding: 339 -1 322
+Encoding: 326 -1 322
 Width: 2266
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17370,7 +17369,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: th3th4u1
-Encoding: 340 -1 323
+Encoding: 327 -1 323
 Width: 2266
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17384,7 +17383,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3th4u2
-Encoding: 341 -1 324
+Encoding: 328 -1 324
 Width: 2266
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17398,7 +17397,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3r3
-Encoding: 342 -1 325
+Encoding: 329 -1 325
 Width: 1418
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17452,141 +17451,35 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th3r3u1
-Encoding: 343 -1 326
-Width: 1336
+Encoding: 330 -1 326
+Width: 1418
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-1334 56 m 0,0,1
- 1334 -150 1334 -150 1169 -270 c 1,2,3
- 1317 -347 1317 -347 1317 -514 c 0,4,5
- 1317 -627 1317 -627 1236.5 -708 c 128,-1,6
- 1156 -789 1156 -789 1042 -789 c 256,7,8
- 928 -789 928 -789 848.5 -708 c 128,-1,9
- 769 -627 769 -627 769 -514 c 0,10,11
- 769 -441 769 -441 803 -378 c 1,12,-1
- 796 -378 l 2,13,14
- 508 -378 508 -378 327.5 -193 c 128,-1,15
- 147 -8 147 -8 147 386 c 0,16,17
- 147 699 147 699 316 943 c 1,18,-1
- 415 873 l 1,19,20
- 265 679 265 679 265 346 c 0,21,22
- 265 49 265 49 424.5 -101 c 128,-1,23
- 584 -251 584 -251 794 -251 c 0,24,25
- 961 -251 961 -251 1080 -166.5 c 128,-1,26
- 1199 -82 1199 -82 1199 63 c 0,27,28
- 1199 168 1199 168 1131 230 c 128,-1,29
- 1063 292 1063 292 980 292 c 2,30,-1
- 867 292 l 1,31,-1
- 867 440 l 1,32,-1
- 980 440 l 2,33,34
- 1186 440 1186 440 1186 602 c 0,35,36
- 1186 823 1186 823 926 823 c 0,37,38
- 732 823 732 823 635 696.5 c 128,-1,39
- 538 570 538 570 538 404 c 256,40,41
- 538 238 538 238 637 16 c 1,42,-1
- 515 -30 l 1,43,44
- 415 208 415 208 415 422 c 256,45,46
- 415 636 415 636 540.5 789.5 c 128,-1,47
- 666 943 666 943 925 943 c 0,48,49
- 1110 943 1110 943 1214.5 860.5 c 128,-1,50
- 1319 778 1319 778 1319 609 c 0,51,52
- 1319 524 1319 524 1284 456.5 c 128,-1,53
- 1249 389 1249 389 1186 368 c 1,54,55
- 1258 342 1258 342 1296 252 c 128,-1,56
- 1334 162 1334 162 1334 56 c 0,0,1
-1157.5 -628 m 128,-1,58
- 1204 -580 1204 -580 1204 -513 c 256,59,60
- 1204 -446 1204 -446 1157.5 -399 c 128,-1,61
- 1111 -352 1111 -352 1043 -352 c 256,62,63
- 975 -352 975 -352 927 -399 c 128,-1,64
- 879 -446 879 -446 879 -513 c 256,65,66
- 879 -580 879 -580 927 -628 c 128,-1,67
- 975 -676 975 -676 1043 -676 c 256,68,57
- 1111 -676 1111 -676 1157.5 -628 c 128,-1,58
-EndSplineSet
-Validated: 1
+Refer: 682 -1 N 1 0 0 1 1797 -57 2
+Refer: 325 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3r3 u1
-LCarets2: 1 -124 
+LCarets2: 1 0 
 EndChar
 
 StartChar: th3r3u2
-Encoding: 344 -1 327
-Width: 1336
+Encoding: 331 -1 327
+Width: 1418
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-1334 56 m 0,0,1
- 1334 -165 1334 -165 1148 -286 c 1,2,3
- 1310 -371 1310 -371 1310 -556 c 0,4,5
- 1310 -681 1310 -681 1221 -771 c 128,-1,6
- 1132 -861 1132 -861 1006 -861 c 256,7,8
- 880 -861 880 -861 790 -771.5 c 128,-1,9
- 700 -682 700 -682 700 -570 c 256,10,11
- 700 -458 700 -458 759 -376 c 1,12,13
- 489 -366 489 -366 318 -179.5 c 128,-1,14
- 147 7 147 7 147 386 c 0,15,16
- 147 699 147 699 316 943 c 1,17,-1
- 415 873 l 1,18,19
- 265 679 265 679 265 346 c 0,20,21
- 265 49 265 49 424.5 -101 c 128,-1,22
- 584 -251 584 -251 794 -251 c 0,23,24
- 961 -251 961 -251 1080 -166.5 c 128,-1,25
- 1199 -82 1199 -82 1199 63 c 0,26,27
- 1199 168 1199 168 1131 230 c 128,-1,28
- 1063 292 1063 292 980 292 c 2,29,-1
- 868 292 l 1,30,-1
- 868 440 l 1,31,-1
- 980 440 l 2,32,33
- 1186 440 1186 440 1186 602 c 0,34,35
- 1186 823 1186 823 926 823 c 0,36,37
- 732 823 732 823 635 696.5 c 128,-1,38
- 538 570 538 570 538 404 c 256,39,40
- 538 238 538 238 637 16 c 1,41,-1
- 515 -30 l 1,42,43
- 415 208 415 208 415 422 c 256,44,45
- 415 636 415 636 540.5 789.5 c 128,-1,46
- 666 943 666 943 925 943 c 0,47,48
- 1110 943 1110 943 1214.5 860.5 c 128,-1,49
- 1319 778 1319 778 1319 609 c 0,50,51
- 1319 524 1319 524 1284 456.5 c 128,-1,52
- 1249 389 1249 389 1186 368 c 1,53,54
- 1258 342 1258 342 1296 252 c 128,-1,55
- 1334 162 1334 162 1334 56 c 0,0,1
-1071 -530 m 128,-1,57
- 1101 -502 1101 -502 1101 -461 c 256,58,59
- 1101 -420 1101 -420 1071 -392 c 128,-1,60
- 1041 -364 1041 -364 1001 -364 c 256,61,62
- 961 -364 961 -364 932.5 -392 c 128,-1,63
- 904 -420 904 -420 904 -461 c 256,64,65
- 904 -502 904 -502 932.5 -530 c 128,-1,66
- 961 -558 961 -558 1001 -558 c 256,67,56
- 1041 -558 1041 -558 1071 -530 c 128,-1,57
-1142 -691 m 0,68,69
- 1199 -634 1199 -634 1199 -568 c 256,70,71
- 1199 -502 1199 -502 1169 -455 c 1,72,73
- 1169 -531 1169 -531 1120 -580 c 128,-1,74
- 1071 -629 1071 -629 1003 -629 c 0,75,76
- 933 -629 933 -629 885 -581 c 128,-1,77
- 837 -533 837 -533 835 -467 c 1,78,79
- 813 -510 813 -510 813 -572 c 256,80,81
- 813 -634 813 -634 869.5 -691 c 128,-1,82
- 926 -748 926 -748 1006 -748 c 256,83,84
- 1086 -748 1086 -748 1142 -691 c 0,68,69
-EndSplineSet
-Validated: 1
+Refer: 683 -1 N 1 0 0 1 1782 27 2
+Refer: 325 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3r3 u2
-LCarets2: 1 -124 
+LCarets2: 1 0 
 EndChar
 
 StartChar: th4u1
-Encoding: 345 -1 328
+Encoding: 332 -1 328
 Width: 1692
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17600,7 +17493,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th4u2
-Encoding: 346 -1 329
+Encoding: 333 -1 329
 Width: 1692
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17614,7 +17507,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th4r1
-Encoding: 347 -1 330
+Encoding: 334 -1 330
 Width: 1692
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17684,7 +17577,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th4r3
-Encoding: 348 -1 331
+Encoding: 335 -1 331
 Width: 2001
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17786,148 +17679,35 @@ LCarets2: 1 0
 EndChar
 
 StartChar: th4r3u1
-Encoding: 349 -1 332
-Width: 1815
+Encoding: 336 -1 332
+Width: 2001
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-1764 -234 m 128,-1,1
- 1822 -308 1822 -308 1822 -411 c 256,2,3
- 1822 -514 1822 -514 1740.5 -595 c 128,-1,4
- 1659 -676 1659 -676 1546 -676 c 256,5,6
- 1433 -676 1433 -676 1352 -595 c 128,-1,7
- 1271 -514 1271 -514 1271 -401 c 0,8,9
- 1271 -369 1271 -369 1278 -338 c 1,10,11
- 1151 -374 1151 -374 993 -374 c 0,12,13
- 581 -374 581 -374 362 -135.5 c 128,-1,14
- 143 103 143 103 143 471 c 0,15,16
- 143 739 143 739 268 943 c 1,17,-1
- 366 882 l 1,18,19
- 266 708 266 708 266 471 c 0,20,21
- 266 152 266 152 454 -48.5 c 128,-1,22
- 642 -249 642 -249 1006 -249 c 256,23,24
- 1370 -249 1370 -249 1551 14 c 1,25,26
- 1473 -24 1473 -24 1379 -24 c 0,27,28
- 1175 -24 1175 -24 1109 130 c 1,29,30
- 1036 -22 1036 -22 834 -22 c 256,31,32
- 632 -22 632 -22 514 121.5 c 128,-1,33
- 396 265 396 265 396 466 c 0,34,35
- 396 616 396 616 472.5 748 c 128,-1,36
- 549 880 549 880 694 943 c 1,37,-1
- 758 843 l 1,38,39
- 534 737 534 737 534 459 c 0,40,41
- 534 314 534 314 613 207 c 128,-1,42
- 692 100 692 100 828 100 c 0,43,44
- 917 100 917 100 979.5 171.5 c 128,-1,45
- 1042 243 1042 243 1042 334 c 2,46,-1
- 1042 920 l 1,47,-1
- 1178 920 l 1,48,-1
- 1178 334 l 2,49,50
- 1178 244 1178 244 1230.5 171 c 128,-1,51
- 1283 98 1283 98 1365 98 c 0,52,53
- 1507 98 1507 98 1593 201.5 c 128,-1,54
- 1679 305 1679 305 1679 449 c 0,55,56
- 1679 735 1679 735 1463 843 c 1,57,-1
- 1529 943 l 1,58,59
- 1817 777 1817 777 1817 471 c 0,60,61
- 1817 86 1817 86 1618 -136 c 1,62,0
- 1706 -160 1706 -160 1764 -234 c 128,-1,1
-1660 -515 m 0,63,64
- 1708 -468 1708 -468 1708 -400 c 256,65,66
- 1708 -332 1708 -332 1660.5 -285.5 c 128,-1,67
- 1613 -239 1613 -239 1546 -239 c 0,68,69
- 1480 -239 1480 -239 1432 -285.5 c 128,-1,70
- 1384 -332 1384 -332 1384 -400 c 256,71,72
- 1384 -468 1384 -468 1432 -515.5 c 128,-1,73
- 1480 -563 1480 -563 1546 -563 c 256,74,75
- 1612 -563 1612 -563 1660 -515 c 0,63,64
-EndSplineSet
-Validated: 1
+Refer: 682 -1 N 1 0 0 1 2436 18 2
+Refer: 331 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4r3 u1
-LCarets2: 1 -165 
+LCarets2: 1 0 
 EndChar
 
 StartChar: th4r3u2
-Encoding: 350 -1 333
-Width: 1814
+Encoding: 337 -1 333
+Width: 2001
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-1817 469 m 0,0,1
- 1817 61 1817 61 1595 -160 c 1,2,3
- 1688 -190 1688 -190 1748 -270 c 128,-1,4
- 1808 -350 1808 -350 1808 -464 c 256,5,6
- 1808 -578 1808 -578 1720 -668 c 128,-1,7
- 1632 -758 1632 -758 1506 -758 c 256,8,9
- 1380 -758 1380 -758 1290 -668 c 128,-1,10
- 1200 -578 1200 -578 1200 -453 c 0,11,12
- 1200 -401 1200 -401 1217 -352 c 1,13,14
- 1113 -374 1113 -374 992 -374 c 0,15,16
- 579 -374 579 -374 361 -136 c 128,-1,17
- 143 102 143 102 143 469 c 0,18,19
- 143 739 143 739 267 943 c 1,20,-1
- 366 882 l 1,21,22
- 265 708 265 708 265 469 c 0,23,24
- 265 151 265 151 453.5 -49 c 128,-1,25
- 642 -249 642 -249 1006 -249 c 256,26,27
- 1370 -249 1370 -249 1550 14 c 1,28,29
- 1472 -25 1472 -25 1379 -25 c 0,30,31
- 1175 -25 1175 -25 1109 130 c 1,32,33
- 1034 -22 1034 -22 832 -22 c 256,34,35
- 630 -22 630 -22 513 121.5 c 128,-1,36
- 396 265 396 265 396 464 c 0,37,38
- 396 616 396 616 472 748 c 128,-1,39
- 548 880 548 880 693 943 c 1,40,-1
- 757 842 l 1,41,42
- 534 737 534 737 534 457 c 0,43,44
- 534 314 534 314 612.5 207 c 128,-1,45
- 691 100 691 100 828 100 c 0,46,47
- 917 100 917 100 979 171.5 c 128,-1,48
- 1041 243 1041 243 1041 334 c 2,49,-1
- 1041 920 l 1,50,-1
- 1177 920 l 1,51,-1
- 1177 334 l 2,52,53
- 1177 248 1177 248 1230 173 c 128,-1,54
- 1283 98 1283 98 1364 98 c 0,55,56
- 1509 98 1509 98 1594 200 c 128,-1,57
- 1679 302 1679 302 1679 447 c 0,58,59
- 1679 734 1679 734 1463 842 c 1,60,-1
- 1529 943 l 1,61,62
- 1817 776 1817 776 1817 469 c 0,0,1
-1570 -427 m 0,63,64
- 1599 -399 1599 -399 1599 -358 c 256,65,66
- 1599 -317 1599 -317 1569.5 -289 c 128,-1,67
- 1540 -261 1540 -261 1500 -261 c 256,68,69
- 1460 -261 1460 -261 1432 -289 c 128,-1,70
- 1404 -317 1404 -317 1404 -358 c 256,71,72
- 1404 -399 1404 -399 1432 -427 c 128,-1,73
- 1460 -455 1460 -455 1500 -455 c 256,74,75
- 1540 -455 1540 -455 1570 -427 c 0,63,64
-1641.5 -588 m 128,-1,77
- 1698 -531 1698 -531 1698 -465 c 256,78,79
- 1698 -399 1698 -399 1669 -352 c 1,80,81
- 1669 -427 1669 -427 1620 -476.5 c 128,-1,82
- 1571 -526 1571 -526 1501 -526 c 0,83,84
- 1433 -526 1433 -526 1385 -478 c 128,-1,85
- 1337 -430 1337 -430 1334 -364 c 1,86,87
- 1313 -406 1313 -406 1313 -468 c 256,88,89
- 1313 -530 1313 -530 1369 -587.5 c 128,-1,90
- 1425 -645 1425 -645 1505 -645 c 256,91,76
- 1585 -645 1585 -645 1641.5 -588 c 128,-1,77
-EndSplineSet
-Validated: 1
+Refer: 683 -1 N 1 0 0 1 2340 15 2
+Refer: 331 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4r3 u2
-LCarets2: 1 -164 
+LCarets2: 1 0 
 EndChar
 
 StartChar: n1u1
-Encoding: 351 -1 334
+Encoding: 338 -1 334
 Width: 1676
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -17990,7 +17770,7 @@ LCarets2: 1 2
 EndChar
 
 StartChar: n1u2
-Encoding: 352 -1 335
+Encoding: 339 -1 335
 Width: 1888
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18053,7 +17833,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1r1
-Encoding: 353 -1 336
+Encoding: 340 -1 336
 Width: 1617
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18128,7 +17908,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th1
-Encoding: 354 -1 337
+Encoding: 341 -1 337
 Width: 2175
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18199,7 +17979,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: n1th1u1
-Encoding: 355 -1 338
+Encoding: 342 -1 338
 Width: 2313
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18286,7 +18066,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th1u2
-Encoding: 356 -1 339
+Encoding: 343 -1 339
 Width: 2327
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18387,7 +18167,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th1r1
-Encoding: 357 -1 340
+Encoding: 344 -1 340
 Width: 2142
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18461,7 +18241,7 @@ LCarets2: 1 -192
 EndChar
 
 StartChar: n1th1r3
-Encoding: 358 -1 341
+Encoding: 345 -1 341
 Width: 2459
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18539,7 +18319,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th1r3u1
-Encoding: 359 -1 342
+Encoding: 346 -1 342
 Width: 2459
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18553,7 +18333,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th1r3u2
-Encoding: 360 -1 343
+Encoding: 347 -1 343
 Width: 2459
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18567,219 +18347,52 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th2
-Encoding: 361 -1 344
-Width: 2572
+Encoding: 348 -1 344
+Width: 2638
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2572 0 m 1,0,-1
- 1256 0 l 1,1,-1
- 1256 80 l 1,2,3
- 1430 200 1430 200 1430 479 c 0,4,5
- 1430 624 1430 624 1346.5 723.5 c 128,-1,6
- 1263 823 1263 823 1120 823 c 0,7,8
- 1036 823 1036 823 983.5 750.5 c 128,-1,9
- 931 678 931 678 931 593 c 2,10,-1
- 931 0 l 1,11,-1
- 796 0 l 1,12,-1
- 796 593 l 2,13,14
- 796 683 796 683 734.5 753 c 128,-1,15
- 673 823 673 823 582 823 c 0,16,17
- 445 823 445 823 364 718.5 c 128,-1,18
- 283 614 283 614 283 470 c 0,19,20
- 283 174 283 174 513 71 c 1,21,-1
- 438 -24 l 1,22,23
- 295 45 295 45 220 176.5 c 128,-1,24
- 145 308 145 308 145 462 c 0,25,26
- 145 658 145 658 265.5 800.5 c 128,-1,27
- 386 943 386 943 575 943 c 0,28,29
- 765 943 765 943 862 786 c 1,30,31
- 964 943 964 943 1143 943 c 0,32,33
- 1330 943 1330 943 1446.5 804.5 c 128,-1,34
- 1563 666 1563 666 1563 461 c 256,35,36
- 1563 256 1563 256 1455 111 c 1,37,-1
- 1756 111 l 1,38,-1
- 1756 542 l 2,39,40
- 1756 708 1756 708 1874.5 825.5 c 128,-1,41
- 1993 943 1993 943 2164 943 c 256,42,43
- 2335 943 2335 943 2453.5 830.5 c 128,-1,44
- 2572 718 2572 718 2572 554 c 2,45,-1
- 2572 0 l 1,0,-1
-2438 111 m 1,46,-1
- 2438 546 l 2,47,48
- 2438 659 2438 659 2358 741 c 128,-1,49
- 2278 823 2278 823 2164 823 c 0,50,51
- 2052 823 2052 823 1972 740 c 128,-1,52
- 1892 657 1892 657 1892 544 c 2,53,-1
- 1892 111 l 1,54,-1
- 2438 111 l 1,46,-1
-EndSplineSet
-Validated: 1
+Refer: 685 -1 S 1.09832 0 0 1 1229.67 -2 2
+Refer: 74 3368 S 1 0 0 1 0 0 2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th2
 LCarets2: 2 -227 -227 
 EndChar
 
 StartChar: n1th2u1
-Encoding: 362 -1 345
-Width: 2573
+Encoding: 349 -1 345
+Width: 2638
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2517 0 m 1,0,1
- 2575 -73 2575 -73 2575 -178 c 256,2,3
- 2575 -283 2575 -283 2495.5 -364 c 128,-1,4
- 2416 -445 2416 -445 2302 -445 c 256,5,6
- 2188 -445 2188 -445 2108 -364 c 128,-1,7
- 2028 -283 2028 -283 2028 -178 c 256,8,9
- 2028 -73 2028 -73 2085 0 c 1,10,-1
- 1257 0 l 1,11,-1
- 1257 92 l 1,12,13
- 1431 207 1431 207 1431 479 c 0,14,15
- 1431 624 1431 624 1347.5 723.5 c 128,-1,16
- 1264 823 1264 823 1121 823 c 0,17,18
- 1037 823 1037 823 984 750.5 c 128,-1,19
- 931 678 931 678 931 593 c 2,20,-1
- 931 0 l 1,21,-1
- 797 0 l 1,22,-1
- 797 593 l 2,23,24
- 797 683 797 683 735 753 c 128,-1,25
- 673 823 673 823 582 823 c 0,26,27
- 446 823 446 823 364.5 718 c 128,-1,28
- 283 613 283 613 283 470 c 0,29,30
- 283 174 283 174 514 71 c 1,31,-1
- 438 -24 l 1,32,33
- 295 45 295 45 220 176.5 c 128,-1,34
- 145 308 145 308 145 462 c 0,35,36
- 145 659 145 659 267 801 c 128,-1,37
- 389 943 389 943 577 943 c 0,38,39
- 766 943 766 943 863 786 c 1,40,41
- 952 943 952 943 1143 943 c 0,42,43
- 1329 943 1329 943 1446.5 805.5 c 128,-1,44
- 1564 668 1564 668 1564 462 c 256,45,46
- 1564 256 1564 256 1456 111 c 1,47,-1
- 1757 111 l 1,48,-1
- 1757 542 l 2,49,50
- 1757 708 1757 708 1875 825.5 c 128,-1,51
- 1993 943 1993 943 2164 943 c 256,52,53
- 2335 943 2335 943 2454 830.5 c 128,-1,54
- 2573 718 2573 718 2573 554 c 2,55,-1
- 2573 0 l 1,56,-1
- 2517 0 l 1,0,1
-2439 111 m 1,57,-1
- 2439 546 l 2,58,59
- 2439 659 2439 659 2359 741 c 128,-1,60
- 2279 823 2279 823 2165 823 c 0,61,62
- 2052 823 2052 823 1972.5 740 c 128,-1,63
- 1893 657 1893 657 1893 544 c 2,64,-1
- 1893 111 l 1,65,-1
- 2439 111 l 1,57,-1
-2416 -283.5 m 128,-1,67
- 2463 -236 2463 -236 2463 -168 c 256,68,69
- 2463 -100 2463 -100 2416 -53.5 c 128,-1,70
- 2369 -7 2369 -7 2302 -7 c 256,71,72
- 2235 -7 2235 -7 2187 -53.5 c 128,-1,73
- 2139 -100 2139 -100 2139 -168 c 256,74,75
- 2139 -236 2139 -236 2187 -283.5 c 128,-1,76
- 2235 -331 2235 -331 2302 -331 c 256,77,66
- 2369 -331 2369 -331 2416 -283.5 c 128,-1,67
-EndSplineSet
-Validated: 1
+Refer: 682 -1 N 1 0 0 1 3084 102 2
+Refer: 685 -1 N 1.09832 0 0 1 1229.67 -2 2
+Refer: 74 3368 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th2 u1
-LCarets2: 1 -228 
+LCarets2: 1 0 
 EndChar
 
 StartChar: n1th2u2
-Encoding: 363 -1 346
-Width: 2572
+Encoding: 350 -1 346
+Width: 2638
 GlyphClass: 3
 LigCaretCntFixed: 1
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
-SplineSet
-2572 0 m 1,0,-1
- 2497 0 l 1,1,2
- 2570 -86 2570 -86 2570 -206 c 256,3,4
- 2570 -326 2570 -326 2482 -416 c 128,-1,5
- 2394 -506 2394 -506 2267 -506 c 256,6,7
- 2140 -506 2140 -506 2050 -416 c 128,-1,8
- 1960 -326 1960 -326 1960 -206 c 256,9,10
- 1960 -86 1960 -86 2037 0 c 1,11,-1
- 1256 0 l 1,12,-1
- 1256 92 l 1,13,14
- 1430 207 1430 207 1430 479 c 0,15,16
- 1430 625 1430 625 1346.5 724 c 128,-1,17
- 1263 823 1263 823 1120 823 c 0,18,19
- 1036 823 1036 823 983.5 751 c 128,-1,20
- 931 679 931 679 931 593 c 2,21,-1
- 931 1 l 1,22,-1
- 796 1 l 1,23,-1
- 796 593 l 2,24,25
- 796 683 796 683 734.5 752.5 c 128,-1,26
- 673 822 673 822 582 822 c 0,27,28
- 444 822 444 822 363.5 718 c 128,-1,29
- 283 614 283 614 283 470 c 0,30,31
- 283 175 283 175 513 71 c 1,32,-1
- 438 -23 l 1,33,34
- 295 45 295 45 220 176.5 c 128,-1,35
- 145 308 145 308 145 463 c 0,36,37
- 145 658 145 658 265.5 800.5 c 128,-1,38
- 386 943 386 943 575 943 c 0,39,40
- 765 943 765 943 862 787 c 1,41,42
- 952 943 952 943 1143 943 c 0,43,44
- 1331 943 1331 943 1447 805.5 c 128,-1,45
- 1563 668 1563 668 1563 462 c 256,46,47
- 1563 256 1563 256 1455 111 c 1,48,-1
- 1756 111 l 1,49,-1
- 1756 542 l 2,50,51
- 1756 709 1756 709 1874.5 826 c 128,-1,52
- 1993 943 1993 943 2164 943 c 256,53,54
- 2335 943 2335 943 2453.5 830.5 c 128,-1,55
- 2572 718 2572 718 2572 554 c 2,56,-1
- 2572 0 l 1,0,-1
-2438 111 m 1,57,-1
- 2438 547 l 2,58,59
- 2438 659 2438 659 2358 741 c 128,-1,60
- 2278 823 2278 823 2164 823 c 0,61,62
- 2052 823 2052 823 1972 740 c 128,-1,63
- 1892 657 1892 657 1892 544 c 2,64,-1
- 1892 111 l 1,65,-1
- 2438 111 l 1,57,-1
-2331.5 -175 m 128,-1,67
- 2361 -147 2361 -147 2361 -106 c 256,68,69
- 2361 -65 2361 -65 2331.5 -37.5 c 128,-1,70
- 2302 -10 2302 -10 2262 -10 c 256,71,72
- 2222 -10 2222 -10 2193 -37.5 c 128,-1,73
- 2164 -65 2164 -65 2164 -106 c 256,74,75
- 2164 -147 2164 -147 2193 -175 c 128,-1,76
- 2222 -203 2222 -203 2262 -203 c 256,77,66
- 2302 -203 2302 -203 2331.5 -175 c 128,-1,67
-2403.5 -336 m 128,-1,79
- 2460 -279 2460 -279 2460 -213 c 256,80,81
- 2460 -147 2460 -147 2431 -100 c 1,82,83
- 2431 -175 2431 -175 2381.5 -224.5 c 128,-1,84
- 2332 -274 2332 -274 2263 -274 c 256,85,86
- 2194 -274 2194 -274 2146 -226.5 c 128,-1,87
- 2098 -179 2098 -179 2096 -112 c 1,88,89
- 2074 -154 2074 -154 2074 -216 c 256,90,91
- 2074 -278 2074 -278 2130.5 -335.5 c 128,-1,92
- 2187 -393 2187 -393 2267 -393 c 256,93,78
- 2347 -393 2347 -393 2403.5 -336 c 128,-1,79
-EndSplineSet
-Validated: 1
+Refer: 683 -1 N 1 0 0 1 3000 102 2
+Refer: 685 -1 N 1.09832 0 0 1 1229.67 -2 2
+Refer: 74 3368 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th2 u2
-LCarets2: 1 -227 
+LCarets2: 1 0 
 EndChar
 
 StartChar: n1th2r1
-Encoding: 364 -1 347
+Encoding: 351 -1 347
 Width: 2572
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18855,7 +18468,7 @@ LCarets2: 1 -227
 EndChar
 
 StartChar: n1th3
-Encoding: 365 -1 348
+Encoding: 352 -1 348
 Width: 1637
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18926,7 +18539,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: n1th3u1
-Encoding: 366 -1 349
+Encoding: 353 -1 349
 Width: 1487
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18940,7 +18553,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th3u2
-Encoding: 367 -1 350
+Encoding: 354 -1 350
 Width: 1487
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -18954,7 +18567,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th3r1
-Encoding: 368 -1 351
+Encoding: 355 -1 351
 Width: 1687
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19020,7 +18633,7 @@ LCarets2: 1 -154
 EndChar
 
 StartChar: n1th3r3
-Encoding: 369 -1 352
+Encoding: 356 -1 352
 Width: 1923
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19077,7 +18690,7 @@ LCarets2: 1 -173
 EndChar
 
 StartChar: n1th3r3u1
-Encoding: 370 -1 353
+Encoding: 357 -1 353
 Width: 1923
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19148,7 +18761,7 @@ LCarets2: 1 -173
 EndChar
 
 StartChar: n1th3r3u2
-Encoding: 371 -1 354
+Encoding: 358 -1 354
 Width: 1923
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19230,7 +18843,7 @@ LCarets2: 1 -173
 EndChar
 
 StartChar: n1th4
-Encoding: 372 -1 355
+Encoding: 359 -1 355
 Width: 3004
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19311,7 +18924,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: n1th4u1
-Encoding: 373 -1 356
+Encoding: 360 -1 356
 Width: 3004
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19325,7 +18938,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th4u2
-Encoding: 374 -1 357
+Encoding: 361 -1 357
 Width: 3004
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19339,7 +18952,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1th4r3
-Encoding: 375 -1 358
+Encoding: 362 -1 358
 Width: 3057
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19411,7 +19024,7 @@ LCarets2: 1 -268
 EndChar
 
 StartChar: n1th4r3u1
-Encoding: 376 -1 359
+Encoding: 363 -1 359
 Width: 3057
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19497,7 +19110,7 @@ LCarets2: 1 -268
 EndChar
 
 StartChar: n1th4r3u2
-Encoding: 377 -1 360
+Encoding: 364 -1 360
 Width: 3057
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19595,7 +19208,7 @@ LCarets2: 1 -268
 EndChar
 
 StartChar: n1n1
-Encoding: 378 -1 361
+Encoding: 365 -1 361
 Width: 2280
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19666,7 +19279,7 @@ LCarets2: 2 0 2
 EndChar
 
 StartChar: n1n1u1
-Encoding: 379 -1 362
+Encoding: 366 -1 362
 Width: 2274
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19744,7 +19357,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1n1u2
-Encoding: 380 -1 363
+Encoding: 367 -1 363
 Width: 2532
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19833,7 +19446,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1n1r1
-Encoding: 381 -1 364
+Encoding: 368 -1 364
 Width: 2133
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19894,7 +19507,7 @@ LCarets2: 1 -191
 EndChar
 
 StartChar: n1n1r3
-Encoding: 382 -1 365
+Encoding: 369 -1 365
 Width: 2439
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -19952,7 +19565,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: n1n1r3u1
-Encoding: 383 -1 366
+Encoding: 370 -1 366
 Width: 2439
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20024,7 +19637,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: n1n1r3u2
-Encoding: 384 -1 367
+Encoding: 371 -1 367
 Width: 2439
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20107,7 +19720,7 @@ LCarets2: 1 -217
 EndChar
 
 StartChar: n1m1
-Encoding: 385 -1 368
+Encoding: 372 -1 368
 Width: 1717
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20154,7 +19767,7 @@ LCarets2: 2 -156 -156
 EndChar
 
 StartChar: n1m1u1
-Encoding: 386 -1 369
+Encoding: 373 -1 369
 Width: 1717
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20216,7 +19829,7 @@ LCarets2: 1 -156
 EndChar
 
 StartChar: n1m1u2
-Encoding: 387 -1 370
+Encoding: 374 -1 370
 Width: 1717
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20289,7 +19902,7 @@ LCarets2: 1 -156
 EndChar
 
 StartChar: n1m1r1
-Encoding: 388 -1 371
+Encoding: 375 -1 371
 Width: 1717
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20353,7 +19966,7 @@ LCarets2: 1 -156
 EndChar
 
 StartChar: n1m1r3
-Encoding: 389 -1 372
+Encoding: 376 -1 372
 Width: 1974
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20413,7 +20026,7 @@ LCarets2: 1 -177
 EndChar
 
 StartChar: n1m1r3u1
-Encoding: 390 -1 373
+Encoding: 377 -1 373
 Width: 1974
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20486,7 +20099,7 @@ LCarets2: 1 -177
 EndChar
 
 StartChar: n1m1r3u2
-Encoding: 391 -1 374
+Encoding: 378 -1 374
 Width: 1974
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20570,7 +20183,7 @@ LCarets2: 1 -178
 EndChar
 
 StartChar: n1r3
-Encoding: 392 -1 375
+Encoding: 379 -1 375
 Width: 1840
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20619,7 +20232,7 @@ LCarets2: 1 -168
 EndChar
 
 StartChar: n1r3u1
-Encoding: 393 -1 376
+Encoding: 380 -1 376
 Width: 1840
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20683,7 +20296,7 @@ LCarets2: 1 -168
 EndChar
 
 StartChar: n1r3u2
-Encoding: 394 -1 377
+Encoding: 381 -1 377
 Width: 1840
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20758,7 +20371,7 @@ LCarets2: 1 -168
 EndChar
 
 StartChar: n1rh
-Encoding: 395 -1 378
+Encoding: 382 -1 378
 Width: 1671
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20773,7 +20386,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: n1rhu1
-Encoding: 396 -1 379
+Encoding: 383 -1 379
 Width: 1671
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20787,7 +20400,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n1rhu2
-Encoding: 397 -1 380
+Encoding: 384 -1 380
 Width: 1922
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20801,7 +20414,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1u1
-Encoding: 398 -1 381
+Encoding: 385 -1 381
 Width: 1887
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20815,7 +20428,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1u2
-Encoding: 399 -1 382
+Encoding: 386 -1 382
 Width: 1887
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20829,7 +20442,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1r1
-Encoding: 400 -1 383
+Encoding: 387 -1 383
 Width: 1442
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20881,7 +20494,7 @@ LCarets2: 1 -133
 EndChar
 
 StartChar: p1th1
-Encoding: 402 -1 384
+Encoding: 388 -1 384
 Width: 1879
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20899,7 +20512,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: p1th1u1
-Encoding: 403 -1 385
+Encoding: 389 -1 385
 Width: 1453
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -20957,7 +20570,7 @@ LCarets2: 1 -139
 EndChar
 
 StartChar: p1th1u2
-Encoding: 404 -1 386
+Encoding: 390 -1 386
 Width: 1449
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21020,7 +20633,7 @@ LCarets2: 1 -137
 EndChar
 
 StartChar: p1th1r1
-Encoding: 405 -1 387
+Encoding: 391 -1 387
 Width: 1449
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21079,7 +20692,7 @@ LCarets2: 1 -137
 EndChar
 
 StartChar: p1n1
-Encoding: 406 -1 388
+Encoding: 392 -1 388
 Width: 1899
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21094,7 +20707,7 @@ LCarets2: 2 0 3
 EndChar
 
 StartChar: p1n1u1
-Encoding: 407 -1 389
+Encoding: 393 -1 389
 Width: 1455
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21143,7 +20756,7 @@ LCarets2: 1 -140
 EndChar
 
 StartChar: p1n1u2
-Encoding: 408 -1 390
+Encoding: 394 -1 390
 Width: 1472
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21203,7 +20816,7 @@ LCarets2: 1 -148
 EndChar
 
 StartChar: p1p1
-Encoding: 409 -1 391
+Encoding: 395 -1 391
 Width: 1896
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21266,7 +20879,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: p1p1u1
-Encoding: 410 -1 392
+Encoding: 396 -1 392
 Width: 1913
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21280,7 +20893,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1p1u2
-Encoding: 411 -1 393
+Encoding: 397 -1 393
 Width: 1913
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21294,7 +20907,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1p1r1
-Encoding: 412 -1 394
+Encoding: 398 -1 394
 Width: 1437
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21342,7 +20955,7 @@ LCarets2: 1 -133
 EndChar
 
 StartChar: p1p2
-Encoding: 413 -1 395
+Encoding: 399 -1 395
 Width: 1445
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21389,7 +21002,7 @@ LCarets2: 2 -135 -135
 EndChar
 
 StartChar: p1r3
-Encoding: 416 -1 396
+Encoding: 400 -1 396
 Width: 2174
 GlyphClass: 3
 Flags: MW
@@ -21463,7 +21076,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p1r3u1
-Encoding: 417 -1 397
+Encoding: 401 -1 397
 Width: 2174
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21477,7 +21090,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1r3u2
-Encoding: 418 -1 398
+Encoding: 402 -1 398
 Width: 2174
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21491,21 +21104,21 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p1l3
-Encoding: 419 -1 399
-Width: 1693
+Encoding: 403 -1 399
+Width: 1926
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 674 -1 S 0.847158 0 0 0.809956 1763.13 -25.3958 2
-Refer: 75 3370 N 1 0 0 1 88 0 2
+Refer: 674 -1 N 0.847158 0 0 0.809956 1936.43 -40.3958 2
+Refer: 75 3370 N 1 0 0 1 12.2987 0 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p1 l4
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p1xx l3
 EndChar
 
 StartChar: p1l3u1
-Encoding: 420 -1 400
+Encoding: 404 -1 400
 Width: 1451
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21565,7 +21178,7 @@ LCarets2: 1 -138
 EndChar
 
 StartChar: p1l3u2
-Encoding: 421 -1 401
+Encoding: 405 -1 401
 Width: 1451
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21631,7 +21244,7 @@ LCarets2: 1 -138
 EndChar
 
 StartChar: p2u1
-Encoding: 425 -1 402
+Encoding: 406 -1 402
 Width: 2024
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21645,7 +21258,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p2u2
-Encoding: 426 -1 403
+Encoding: 407 -1 403
 Width: 2024
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -21659,7 +21272,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: p2r3
-Encoding: 427 -1 404
+Encoding: 408 -1 404
 Width: 2194
 GlyphClass: 3
 Flags: MW
@@ -21719,7 +21332,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: p2r3u1
-Encoding: 428 -1 405
+Encoding: 409 -1 405
 Width: 2194
 GlyphClass: 3
 Flags: MW
@@ -21793,7 +21406,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p2r3u2
-Encoding: 429 -1 406
+Encoding: 410 -1 406
 Width: 2194
 GlyphClass: 3
 Flags: MW
@@ -21878,7 +21491,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p2l3
-Encoding: 430 -1 407
+Encoding: 411 -1 407
 Width: 1929
 GlyphClass: 3
 Flags: MW
@@ -21954,7 +21567,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: p2l3u1
-Encoding: 431 -1 408
+Encoding: 412 -1 408
 Width: 1927
 GlyphClass: 3
 Flags: MW
@@ -22042,7 +21655,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p2l3u2
-Encoding: 432 -1 409
+Encoding: 413 -1 409
 Width: 1929
 GlyphClass: 3
 Flags: MW
@@ -22137,7 +21750,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3u1
-Encoding: 433 -1 410
+Encoding: 414 -1 410
 Width: 1885
 GlyphClass: 3
 Flags: MW
@@ -22235,7 +21848,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3u2
-Encoding: 434 -1 411
+Encoding: 415 -1 411
 Width: 1848
 GlyphClass: 3
 Flags: MW
@@ -22343,7 +21956,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3r1
-Encoding: 435 -1 412
+Encoding: 416 -1 412
 Width: 2023
 GlyphClass: 3
 Flags: MW
@@ -22417,7 +22030,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3p3
-Encoding: 436 -1 413
+Encoding: 417 -1 413
 Width: 1939
 GlyphClass: 3
 Flags: MW
@@ -22431,7 +22044,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p3 xx p3
 EndChar
 
 StartChar: p3p3u1
-Encoding: 437 -1 414
+Encoding: 418 -1 414
 Width: 1939
 GlyphClass: 3
 Flags: MW
@@ -22445,7 +22058,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3p3u2
-Encoding: 438 -1 415
+Encoding: 419 -1 415
 Width: 1939
 GlyphClass: 3
 Flags: MW
@@ -22459,7 +22072,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3r3
-Encoding: 439 -1 416
+Encoding: 420 -1 416
 Width: 2303
 GlyphClass: 3
 Flags: MW
@@ -22527,7 +22140,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: p3r3u1
-Encoding: 440 -1 417
+Encoding: 421 -1 417
 Width: 2303
 GlyphClass: 3
 Flags: MW
@@ -22609,7 +22222,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3r3u2
-Encoding: 441 -1 418
+Encoding: 422 -1 418
 Width: 2303
 GlyphClass: 3
 Flags: MW
@@ -22702,7 +22315,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3l3
-Encoding: 442 -1 419
+Encoding: 423 -1 419
 Width: 2031
 GlyphClass: 3
 Flags: MW
@@ -22789,7 +22402,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: p3l3u1
-Encoding: 443 -1 420
+Encoding: 424 -1 420
 Width: 2031
 GlyphClass: 3
 Flags: MW
@@ -22888,7 +22501,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p3l3u2
-Encoding: 444 -1 421
+Encoding: 425 -1 421
 Width: 2031
 GlyphClass: 3
 Flags: MW
@@ -22994,7 +22607,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p4u1
-Encoding: 445 -1 422
+Encoding: 426 -1 422
 Width: 1280
 GlyphClass: 3
 Flags: MW
@@ -23066,7 +22679,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p4u2
-Encoding: 446 -1 423
+Encoding: 427 -1 423
 Width: 1590
 GlyphClass: 3
 Flags: MW
@@ -23145,7 +22758,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p4r1
-Encoding: 447 -1 424
+Encoding: 428 -1 424
 Width: 1097
 GlyphClass: 3
 Flags: MW
@@ -23200,7 +22813,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p4r3
-Encoding: 449 -1 425
+Encoding: 429 -1 425
 Width: 1296
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -23256,7 +22869,7 @@ LCarets2: 1 -124
 EndChar
 
 StartChar: p4r3u1
-Encoding: 450 -1 426
+Encoding: 430 -1 426
 Width: 1296
 GlyphClass: 3
 Flags: MW
@@ -23323,7 +22936,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: p4r3u2
-Encoding: 451 -1 427
+Encoding: 431 -1 427
 Width: 1296
 GlyphClass: 3
 Flags: MW
@@ -23401,7 +23014,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1u1
-Encoding: 452 -1 428
+Encoding: 432 -1 428
 Width: 1376
 GlyphClass: 3
 Flags: MW
@@ -23414,7 +23027,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1u2
-Encoding: 453 -1 429
+Encoding: 433 -1 429
 Width: 1376
 GlyphClass: 3
 Flags: MW
@@ -23427,7 +23040,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1r1
-Encoding: 454 -1 430
+Encoding: 434 -1 430
 Width: 1073
 GlyphClass: 3
 Flags: MW
@@ -23477,7 +23090,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1p1
-Encoding: 458 -1 431
+Encoding: 435 -1 431
 Width: 1800
 GlyphClass: 3
 Flags: MW
@@ -23535,7 +23148,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" m1 xx p1
 EndChar
 
 StartChar: m1p1u1
-Encoding: 459 -1 432
+Encoding: 436 -1 432
 Width: 1731
 GlyphClass: 3
 Flags: MW
@@ -23548,7 +23161,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1p1u2
-Encoding: 460 -1 433
+Encoding: 437 -1 433
 Width: 1731
 GlyphClass: 3
 Flags: MW
@@ -23561,7 +23174,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1p1r1
-Encoding: 461 -1 434
+Encoding: 438 -1 434
 Width: 1968
 GlyphClass: 3
 Flags: MW
@@ -23624,7 +23237,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1p1r3
-Encoding: 462 -1 435
+Encoding: 439 -1 435
 Width: 2243
 GlyphClass: 3
 Flags: MW
@@ -23680,7 +23293,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m
 EndChar
 
 StartChar: m1p1r3u1
-Encoding: 463 -1 436
+Encoding: 440 -1 436
 Width: 2243
 GlyphClass: 3
 Flags: MW
@@ -23750,7 +23363,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1p1r3u2
-Encoding: 464 -1 437
+Encoding: 441 -1 437
 Width: 2245
 GlyphClass: 3
 Flags: MW
@@ -23831,7 +23444,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1m1
-Encoding: 465 -1 438
+Encoding: 442 -1 438
 Width: 2321
 GlyphClass: 3
 Flags: MW
@@ -23845,7 +23458,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" m1 xx m1
 EndChar
 
 StartChar: m1m1u1
-Encoding: 466 -1 439
+Encoding: 443 -1 439
 Width: 2321
 GlyphClass: 3
 Flags: MW
@@ -23859,7 +23472,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1m1u2
-Encoding: 467 -1 440
+Encoding: 444 -1 440
 Width: 2321
 GlyphClass: 3
 Flags: MW
@@ -23873,7 +23486,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1m1r1
-Encoding: 468 -1 441
+Encoding: 445 -1 441
 Width: 1842
 GlyphClass: 3
 Flags: MW
@@ -23940,7 +23553,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1r3
-Encoding: 469 -1 442
+Encoding: 446 -1 442
 Width: 1364
 GlyphClass: 3
 Flags: MW
@@ -23983,7 +23596,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: m1r3u1
-Encoding: 470 -1 443
+Encoding: 447 -1 443
 Width: 1364
 GlyphClass: 3
 Flags: MW
@@ -24039,7 +23652,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1r3u2
-Encoding: 471 -1 444
+Encoding: 448 -1 444
 Width: 1364
 GlyphClass: 3
 Flags: MW
@@ -24106,7 +23719,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: m1l3
-Encoding: 472 -1 445
+Encoding: 449 -1 445
 Width: 1062
 GlyphClass: 3
 Flags: MW
@@ -24140,7 +23753,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: y1u1
-Encoding: 475 -1 446
+Encoding: 450 -1 446
 Width: 1598
 GlyphClass: 3
 Flags: MW
@@ -24218,7 +23831,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1u2
-Encoding: 476 -1 447
+Encoding: 451 -1 447
 Width: 1631
 GlyphClass: 3
 Flags: MW
@@ -24303,7 +23916,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1
-Encoding: 477 -1 448
+Encoding: 452 -1 448
 Width: 1494
 GlyphClass: 3
 Flags: MW
@@ -24317,7 +23930,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1u1
-Encoding: 478 -1 449
+Encoding: 453 -1 449
 Width: 1705
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -24331,7 +23944,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: y1k1u2
-Encoding: 479 -1 450
+Encoding: 454 -1 450
 Width: 1646
 GlyphClass: 3
 Flags: MW
@@ -24399,7 +24012,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1r1
-Encoding: 480 -1 451
+Encoding: 455 -1 451
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -24496,7 +24109,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1k1
-Encoding: 481 -1 452
+Encoding: 456 -1 452
 Width: 1481
 GlyphClass: 3
 Flags: MW
@@ -24511,7 +24124,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1k1u1
-Encoding: 482 -1 453
+Encoding: 457 -1 453
 Width: 1459
 GlyphClass: 3
 Flags: MW
@@ -24525,7 +24138,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1k1k1u2
-Encoding: 483 -1 454
+Encoding: 458 -1 454
 Width: 1637
 GlyphClass: 3
 Flags: MW
@@ -24538,7 +24151,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1ch1
-Encoding: 484 -1 455
+Encoding: 459 -1 455
 Width: 1605
 GlyphClass: 3
 Flags: MW
@@ -24552,7 +24165,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1ch1u1
-Encoding: 485 -1 456
+Encoding: 460 -1 456
 Width: 1657
 GlyphClass: 3
 Flags: MW
@@ -24604,7 +24217,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1ch1u2
-Encoding: 486 -1 457
+Encoding: 461 -1 457
 Width: 1658
 GlyphClass: 3
 Flags: MW
@@ -24663,7 +24276,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1
-Encoding: 487 -1 458
+Encoding: 462 -1 458
 Width: 1634
 GlyphClass: 3
 Flags: MW
@@ -24677,7 +24290,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1u1
-Encoding: 488 -1 459
+Encoding: 463 -1 459
 Width: 1650
 GlyphClass: 3
 Flags: MW
@@ -24690,7 +24303,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1u2
-Encoding: 489 -1 460
+Encoding: 464 -1 460
 Width: 1633
 GlyphClass: 3
 Flags: MW
@@ -24703,7 +24316,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1r1
-Encoding: 490 -1 461
+Encoding: 465 -1 461
 Width: 1657
 GlyphClass: 3
 Flags: MW
@@ -24716,7 +24329,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1th1
-Encoding: 491 -1 462
+Encoding: 466 -1 462
 Width: 1965
 GlyphClass: 3
 Flags: MW
@@ -24731,7 +24344,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1th1u1
-Encoding: 492 -1 463
+Encoding: 467 -1 463
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -24809,7 +24422,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1th1u2
-Encoding: 493 -1 464
+Encoding: 468 -1 464
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -24895,7 +24508,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1th1th1r1
-Encoding: 494 -1 465
+Encoding: 469 -1 465
 Width: 1726
 GlyphClass: 3
 Flags: MW
@@ -24976,7 +24589,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1n1
-Encoding: 495 -1 466
+Encoding: 470 -1 466
 Width: 1616
 GlyphClass: 3
 Flags: MW
@@ -25016,7 +24629,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1n1u1
-Encoding: 496 -1 467
+Encoding: 471 -1 467
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25100,7 +24713,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1n1u2
-Encoding: 497 -1 468
+Encoding: 472 -1 468
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25194,7 +24807,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1p1
-Encoding: 498 -1 469
+Encoding: 473 -1 469
 Width: 1610
 GlyphClass: 3
 Flags: MW
@@ -25208,7 +24821,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1p1u1
-Encoding: 499 -1 470
+Encoding: 474 -1 470
 Width: 1742
 GlyphClass: 3
 Flags: MW
@@ -25221,7 +24834,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1p1u2
-Encoding: 500 -1 471
+Encoding: 475 -1 471
 Width: 1742
 GlyphClass: 3
 Flags: MW
@@ -25234,7 +24847,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1p1r1
-Encoding: 501 -1 472
+Encoding: 476 -1 472
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25317,7 +24930,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1m1
-Encoding: 502 -1 473
+Encoding: 477 -1 473
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25386,7 +24999,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1m1u1
-Encoding: 503 -1 474
+Encoding: 478 -1 474
 Width: 1721
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -25472,7 +25085,7 @@ LCarets2: 1 -157
 EndChar
 
 StartChar: y1m1u2
-Encoding: 504 -1 475
+Encoding: 479 -1 475
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25563,7 +25176,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1m1r1
-Encoding: 505 -1 476
+Encoding: 480 -1 476
 Width: 1721
 GlyphClass: 3
 Flags: MW
@@ -25643,7 +25256,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1y1
-Encoding: 506 -1 477
+Encoding: 481 -1 477
 Width: 1596
 GlyphClass: 3
 Flags: MW
@@ -25727,7 +25340,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1y1u1
-Encoding: 507 -1 478
+Encoding: 482 -1 478
 Width: 1596
 GlyphClass: 3
 Flags: MW
@@ -25741,7 +25354,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1y1u2
-Encoding: 508 -1 479
+Encoding: 483 -1 479
 Width: 1596
 GlyphClass: 3
 Flags: MW
@@ -25755,7 +25368,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: r3u1
-Encoding: 509 -1 480
+Encoding: 484 -1 480
 Width: 1723
 GlyphClass: 3
 Flags: MW
@@ -25833,7 +25446,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: r3u2
-Encoding: 510 -1 481
+Encoding: 485 -1 481
 Width: 1898
 GlyphClass: 3
 Flags: MW
@@ -25907,7 +25520,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3u1
-Encoding: 511 -1 482
+Encoding: 486 -1 482
 Width: 1621
 GlyphClass: 3
 Flags: MW
@@ -25920,7 +25533,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3u2
-Encoding: 512 -1 483
+Encoding: 487 -1 483
 Width: 1552
 GlyphClass: 3
 Flags: MW
@@ -25997,7 +25610,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3k1
-Encoding: 513 -1 484
+Encoding: 488 -1 484
 Width: 1636
 GlyphClass: 3
 Flags: MW
@@ -26011,7 +25624,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3k1u1
-Encoding: 514 -1 485
+Encoding: 489 -1 485
 Width: 1638
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -26081,7 +25694,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: l3k1u2
-Encoding: 515 -1 486
+Encoding: 490 -1 486
 Width: 1640
 GlyphClass: 3
 Flags: MW
@@ -26148,7 +25761,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3k1r1
-Encoding: 516 -1 487
+Encoding: 491 -1 487
 Width: 1635
 GlyphClass: 3
 Flags: MW
@@ -26209,7 +25822,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3k1k1
-Encoding: 517 -1 488
+Encoding: 492 -1 488
 Width: 1760
 GlyphClass: 3
 Flags: MW
@@ -26223,7 +25836,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx k1 xx k1
 EndChar
 
 StartChar: l3k1k1u1
-Encoding: 518 -1 489
+Encoding: 493 -1 489
 Width: 1752
 GlyphClass: 3
 Flags: MW
@@ -26236,7 +25849,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3k1k1u2
-Encoding: 519 -1 490
+Encoding: 494 -1 490
 Width: 1619
 GlyphClass: 3
 Flags: MW
@@ -26311,7 +25924,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1
-Encoding: 520 -1 491
+Encoding: 495 -1 491
 Width: 1642
 GlyphClass: 3
 Flags: MW
@@ -26357,7 +25970,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1u1
-Encoding: 521 -1 492
+Encoding: 496 -1 492
 Width: 1633
 GlyphClass: 3
 Flags: MW
@@ -26414,7 +26027,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1u2
-Encoding: 522 -1 493
+Encoding: 497 -1 493
 Width: 1636
 GlyphClass: 3
 Flags: MW
@@ -26476,7 +26089,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1r1
-Encoding: 523 -1 494
+Encoding: 498 -1 494
 Width: 1639
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -26535,7 +26148,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: l3th1th1
-Encoding: 524 -1 495
+Encoding: 499 -1 495
 Width: 1608
 GlyphClass: 3
 Flags: MW
@@ -26604,7 +26217,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1th1u1
-Encoding: 525 -1 496
+Encoding: 500 -1 496
 Width: 1616
 GlyphClass: 3
 Flags: MW
@@ -26684,7 +26297,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3th1th1u2
-Encoding: 526 -1 497
+Encoding: 501 -1 497
 Width: 1460
 GlyphClass: 3
 Flags: MW
@@ -26791,7 +26404,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3p1
-Encoding: 527 -1 498
+Encoding: 502 -1 498
 Width: 1679
 GlyphClass: 3
 Flags: MW
@@ -26805,7 +26418,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3p1u1
-Encoding: 528 -1 499
+Encoding: 503 -1 499
 Width: 1633
 GlyphClass: 3
 Flags: MW
@@ -26855,7 +26468,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3p1u2
-Encoding: 529 -1 500
+Encoding: 504 -1 500
 Width: 1623
 GlyphClass: 3
 Flags: MW
@@ -26912,7 +26525,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3l3
-Encoding: 539 -1 501
+Encoding: 505 -1 501
 Width: 1655
 GlyphClass: 3
 Flags: MW
@@ -26927,7 +26540,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3l3u1
-Encoding: 540 -1 502
+Encoding: 506 -1 502
 Width: 1626
 GlyphClass: 3
 Flags: MW
@@ -26986,7 +26599,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: l3l3u2
-Encoding: 541 -1 503
+Encoding: 507 -1 503
 Width: 1649
 GlyphClass: 3
 Flags: MW
@@ -27052,7 +26665,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1u1
-Encoding: 542 -1 504
+Encoding: 508 -1 504
 Width: 1609
 GlyphClass: 3
 Flags: MW
@@ -27065,7 +26678,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1u2
-Encoding: 543 -1 505
+Encoding: 509 -1 505
 Width: 1609
 GlyphClass: 3
 Flags: MW
@@ -27078,7 +26691,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1r1
-Encoding: 544 -1 506
+Encoding: 510 -1 506
 Width: 1478
 GlyphClass: 3
 Flags: MW
@@ -27131,7 +26744,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1r3
-Encoding: 545 -1 507
+Encoding: 511 -1 507
 Width: 1738
 GlyphClass: 3
 Flags: MW
@@ -27178,7 +26791,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: v1r3u1
-Encoding: 546 -1 508
+Encoding: 512 -1 508
 Width: 1738
 GlyphClass: 3
 Flags: MW
@@ -27238,7 +26851,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1r3u2
-Encoding: 547 -1 509
+Encoding: 513 -1 509
 Width: 1738
 GlyphClass: 3
 Flags: MW
@@ -27309,7 +26922,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1l3
-Encoding: 548 -1 510
+Encoding: 514 -1 510
 Width: 1618
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -27324,7 +26937,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: v1l3u1
-Encoding: 549 -1 511
+Encoding: 515 -1 511
 Width: 1618
 GlyphClass: 3
 Flags: MW
@@ -27338,7 +26951,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1l3u2
-Encoding: 550 -1 512
+Encoding: 516 -1 512
 Width: 1618
 GlyphClass: 3
 Flags: MW
@@ -27352,7 +26965,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1v1
-Encoding: 551 -1 513
+Encoding: 517 -1 513
 Width: 1618
 GlyphClass: 3
 Flags: MW
@@ -27366,7 +26979,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1v1u1
-Encoding: 552 -1 514
+Encoding: 518 -1 514
 Width: 1618
 GlyphClass: 3
 Flags: MW
@@ -27381,7 +26994,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: v1v1u2
-Encoding: 553 -1 515
+Encoding: 519 -1 515
 Width: 1618
 GlyphClass: 3
 Flags: MW
@@ -27396,7 +27009,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1u1
-Encoding: 554 -1 516
+Encoding: 520 -1 516
 Width: 2217
 GlyphClass: 3
 Flags: MW
@@ -27461,7 +27074,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1u2
-Encoding: 555 -1 517
+Encoding: 521 -1 517
 Width: 2423
 GlyphClass: 3
 Flags: MW
@@ -27541,7 +27154,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1r1
-Encoding: 556 -1 518
+Encoding: 522 -1 518
 Width: 1994
 GlyphClass: 3
 Flags: MW
@@ -27612,7 +27225,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1ch1
-Encoding: 557 -1 519
+Encoding: 523 -1 519
 Width: 2343
 GlyphClass: 3
 Flags: MW
@@ -27729,7 +27342,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx ch1
 EndChar
 
 StartChar: z1ch1u1
-Encoding: 558 -1 520
+Encoding: 524 -1 520
 Width: 2343
 GlyphClass: 3
 Flags: MW
@@ -27742,7 +27355,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1ch1u2
-Encoding: 559 -1 521
+Encoding: 525 -1 521
 Width: 2343
 GlyphClass: 3
 Flags: MW
@@ -27755,7 +27368,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1n1
-Encoding: 560 -1 522
+Encoding: 526 -1 522
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -27830,7 +27443,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx n1
 EndChar
 
 StartChar: z1n1u1
-Encoding: 561 -1 523
+Encoding: 527 -1 523
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -27913,7 +27526,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1n1u2
-Encoding: 562 -1 524
+Encoding: 528 -1 524
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -28006,7 +27619,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1r3
-Encoding: 563 -1 525
+Encoding: 529 -1 525
 Width: 2261
 GlyphClass: 3
 Flags: MW
@@ -28116,7 +27729,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: z1r3u1
-Encoding: 564 -1 526
+Encoding: 530 -1 526
 Width: 2261
 GlyphClass: 3
 Flags: MW
@@ -28129,7 +27742,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1r3u2
-Encoding: 565 -1 527
+Encoding: 531 -1 527
 Width: 2261
 GlyphClass: 3
 Flags: MW
@@ -28142,7 +27755,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1l3
-Encoding: 566 -1 528
+Encoding: 532 -1 528
 Width: 1615
 GlyphClass: 3
 Flags: MW
@@ -28156,7 +27769,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: z1l3u1
-Encoding: 567 -1 529
+Encoding: 533 -1 529
 Width: 1615
 GlyphClass: 3
 Flags: MW
@@ -28170,7 +27783,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1l3u2
-Encoding: 568 -1 530
+Encoding: 534 -1 530
 Width: 1615
 GlyphClass: 3
 Flags: MW
@@ -28184,7 +27797,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1z1
-Encoding: 569 -1 531
+Encoding: 535 -1 531
 Width: 1500
 GlyphClass: 3
 Flags: MW
@@ -28199,7 +27812,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx z1
 EndChar
 
 StartChar: z1z1u1
-Encoding: 570 -1 532
+Encoding: 536 -1 532
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -28212,7 +27825,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1z1u2
-Encoding: 571 -1 533
+Encoding: 537 -1 533
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -28225,7 +27838,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: z1z1r1
-Encoding: 572 -1 534
+Encoding: 538 -1 534
 Width: 1699
 GlyphClass: 3
 Flags: MW
@@ -28326,7 +27939,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shu1
-Encoding: 576 -1 535
+Encoding: 539 -1 535
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -28396,7 +28009,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shu2
-Encoding: 577 -1 536
+Encoding: 540 -1 536
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -28477,7 +28090,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shr1
-Encoding: 578 -1 537
+Encoding: 541 -1 537
 Width: 1870
 GlyphClass: 3
 Flags: MW
@@ -28547,7 +28160,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1
-Encoding: 579 -1 538
+Encoding: 542 -1 538
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -28603,7 +28216,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx k1
 EndChar
 
 StartChar: shk1u1
-Encoding: 580 -1 539
+Encoding: 543 -1 539
 Width: 1854
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -28714,7 +28327,7 @@ LCarets2: 1 -169
 EndChar
 
 StartChar: shk1u2
-Encoding: 581 -1 540
+Encoding: 544 -1 540
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -28822,7 +28435,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1r1
-Encoding: 582 -1 541
+Encoding: 545 -1 541
 Width: 1854
 GlyphClass: 3
 Flags: MW
@@ -28924,7 +28537,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1k1
-Encoding: 583 -1 542
+Encoding: 546 -1 542
 Width: 1860
 GlyphClass: 3
 Flags: MW
@@ -28980,7 +28593,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx k1 xx k1
 EndChar
 
 StartChar: shk1k1u1
-Encoding: 584 -1 543
+Encoding: 547 -1 543
 Width: 1860
 GlyphClass: 3
 Flags: MW
@@ -28993,7 +28606,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1k1u2
-Encoding: 585 -1 544
+Encoding: 548 -1 544
 Width: 1854
 GlyphClass: 3
 Flags: MW
@@ -29109,7 +28722,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1k1r1
-Encoding: 586 -1 545
+Encoding: 549 -1 545
 Width: 1858
 GlyphClass: 3
 Flags: MW
@@ -29223,7 +28836,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1r3
-Encoding: 587 -1 546
+Encoding: 550 -1 546
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -29321,7 +28934,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shk1r3u1
-Encoding: 588 -1 547
+Encoding: 551 -1 547
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -29433,7 +29046,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shk1r3u2
-Encoding: 589 -1 548
+Encoding: 552 -1 548
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -29552,7 +29165,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: sht1
-Encoding: 590 -1 549
+Encoding: 553 -1 549
 Width: 1841
 GlyphClass: 3
 Flags: MW
@@ -29567,7 +29180,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx t1
 EndChar
 
 StartChar: sht1u1
-Encoding: 591 -1 550
+Encoding: 554 -1 550
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -29655,7 +29268,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: sht1u2
-Encoding: 592 -1 551
+Encoding: 555 -1 551
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -29750,7 +29363,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: sht1r3
-Encoding: 593 -1 552
+Encoding: 556 -1 552
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -29832,7 +29445,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: sht2
-Encoding: 596 -1 553
+Encoding: 557 -1 553
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -29888,7 +29501,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx t2
 EndChar
 
 StartChar: sht2u1
-Encoding: 597 -1 554
+Encoding: 558 -1 554
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -29974,7 +29587,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: sht2u2
-Encoding: 598 -1 555
+Encoding: 559 -1 555
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -30067,7 +29680,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shnh
-Encoding: 599 -1 556
+Encoding: 560 -1 556
 Width: 1854
 GlyphClass: 3
 Flags: MW
@@ -30081,7 +29694,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx nh
 EndChar
 
 StartChar: shnhu1
-Encoding: 600 -1 557
+Encoding: 561 -1 557
 Width: 1858
 GlyphClass: 3
 Flags: MW
@@ -30185,7 +29798,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shnhu2
-Encoding: 601 -1 558
+Encoding: 562 -1 558
 Width: 1864
 GlyphClass: 3
 Flags: MW
@@ -30301,7 +29914,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shp1
-Encoding: 602 -1 559
+Encoding: 563 -1 559
 Width: 1852
 GlyphClass: 3
 Flags: MW
@@ -30357,7 +29970,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx p1
 EndChar
 
 StartChar: shp1u1
-Encoding: 603 -1 560
+Encoding: 564 -1 560
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -30448,7 +30061,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shp1u2
-Encoding: 604 -1 561
+Encoding: 565 -1 561
 Width: 1852
 GlyphClass: 3
 Flags: MW
@@ -30545,7 +30158,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shp1r1
-Encoding: 605 -1 562
+Encoding: 566 -1 562
 Width: 1848
 GlyphClass: 3
 Flags: MW
@@ -30632,7 +30245,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shp1r3
-Encoding: 606 -1 563
+Encoding: 567 -1 563
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -30717,7 +30330,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shp1r3u1
-Encoding: 607 -1 564
+Encoding: 568 -1 564
 Width: 1850
 GlyphClass: 3
 Flags: MW
@@ -30815,7 +30428,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shp1r3u2
-Encoding: 608 -1 565
+Encoding: 569 -1 565
 Width: 1856
 GlyphClass: 3
 Flags: MW
@@ -30920,7 +30533,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shm1
-Encoding: 612 -1 566
+Encoding: 570 -1 566
 Width: 1848
 GlyphClass: 3
 Flags: MW
@@ -30993,7 +30606,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx m1
 EndChar
 
 StartChar: shm1u1
-Encoding: 613 -1 567
+Encoding: 571 -1 567
 Width: 1848
 GlyphClass: 3
 Flags: MW
@@ -31081,7 +30694,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: shm1u2
-Encoding: 614 -1 568
+Encoding: 572 -1 568
 Width: 1848
 GlyphClass: 3
 Flags: MW
@@ -31176,7 +30789,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1u1
-Encoding: 615 -1 569
+Encoding: 573 -1 569
 Width: 2209
 GlyphClass: 3
 Flags: MW
@@ -31189,7 +30802,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1u2
-Encoding: 616 -1 570
+Encoding: 574 -1 570
 Width: 2209
 GlyphClass: 3
 Flags: MW
@@ -31202,7 +30815,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1r1
-Encoding: 617 -1 571
+Encoding: 575 -1 571
 Width: 2170
 GlyphClass: 3
 Flags: MW
@@ -31262,7 +30875,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1
-Encoding: 618 -1 572
+Encoding: 576 -1 572
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31326,7 +30939,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx k1
 EndChar
 
 StartChar: s1k1u1
-Encoding: 619 -1 573
+Encoding: 577 -1 573
 Width: 2168
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -31396,7 +31009,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: s1k1u2
-Encoding: 620 -1 574
+Encoding: 578 -1 574
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31464,7 +31077,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1r1
-Encoding: 621 -1 575
+Encoding: 579 -1 575
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31527,7 +31140,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1k1
-Encoding: 622 -1 576
+Encoding: 580 -1 576
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31541,7 +31154,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
-Encoding: 623 -1 577
+Encoding: 581 -1 577
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31619,7 +31232,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1k1u2
-Encoding: 624 -1 578
+Encoding: 582 -1 578
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31695,7 +31308,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1k1r1
-Encoding: 625 -1 579
+Encoding: 583 -1 579
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31770,7 +31383,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1r3
-Encoding: 626 -1 580
+Encoding: 584 -1 580
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31828,7 +31441,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1k1r3u1
-Encoding: 627 -1 581
+Encoding: 585 -1 581
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31899,7 +31512,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1k1r3u2
-Encoding: 628 -1 582
+Encoding: 586 -1 582
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -31977,7 +31590,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1
-Encoding: 629 -1 583
+Encoding: 587 -1 583
 Width: 2207
 GlyphClass: 3
 Flags: MW
@@ -31991,7 +31604,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
-Encoding: 630 -1 584
+Encoding: 588 -1 584
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32047,7 +31660,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1u2
-Encoding: 631 -1 585
+Encoding: 589 -1 585
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32109,7 +31722,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1r1
-Encoding: 632 -1 586
+Encoding: 590 -1 586
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32163,94 +31776,22 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1r3
-Encoding: 633 -1 587
-Width: 2168
+Encoding: 591 -1 587
+Width: 2331
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2170 497 m 0,0,1
- 2170 290 2170 290 2077 157.5 c 128,-1,2
- 1984 25 1984 25 1787 25 c 256,3,4
- 1590 25 1590 25 1491.5 142.5 c 128,-1,5
- 1393 260 1393 260 1393 443 c 2,6,-1
- 1393 588 l 2,7,8
- 1393 823 1393 823 1145 823 c 0,9,10
- 941 823 941 823 941 605 c 2,11,-1
- 941 42 l 1,12,-1
- 795 42 l 1,13,-1
- 795 605 l 2,14,15
- 795 710 795 710 726 766.5 c 128,-1,16
- 657 823 657 823 553 823 c 0,17,18
- 417 823 417 823 345 722.5 c 128,-1,19
- 273 622 273 622 273 490 c 0,20,21
- 273 216 273 216 490 115 c 1,22,-1
- 415 19 l 1,23,24
- 143 155 143 155 143 487 c 0,25,26
- 143 673 143 673 254.5 808 c 128,-1,27
- 366 943 366 943 570 943 c 256,28,29
- 774 943 774 943 868 821 c 1,30,31
- 957 943 957 943 1142 943 c 256,32,33
- 1327 943 1327 943 1436.5 843 c 128,-1,34
- 1546 743 1546 743 1546 575 c 2,35,-1
- 1546 410 l 2,36,37
- 1546 298 1546 298 1606 221.5 c 128,-1,38
- 1666 145 1666 145 1792 145 c 256,39,40
- 1918 145 1918 145 1980.5 247 c 128,-1,41
- 2043 349 2043 349 2043 486 c 256,42,43
- 2043 623 2043 623 1982 716 c 128,-1,44
- 1921 809 1921 809 1804 854 c 1,45,-1
- 1876 943 l 1,46,47
- 2019 883 2019 883 2094.5 765 c 128,-1,48
- 2170 647 2170 647 2170 497 c 0,0,1
-2136 -312 m 0,49,50
- 2136 -507 2136 -507 2010 -617.5 c 128,-1,51
- 1884 -728 1884 -728 1668 -728 c 256,52,53
- 1452 -728 1452 -728 1316 -602.5 c 128,-1,54
- 1180 -477 1180 -477 1180 -263 c 0,55,56
- 1180 -113 1180 -113 1252 9 c 1,57,-1
- 1335 -38 l 1,58,59
- 1271 -138 1271 -138 1271 -288 c 256,60,61
- 1271 -438 1271 -438 1382.5 -537 c 128,-1,62
- 1494 -636 1494 -636 1668 -636 c 256,63,64
- 1842 -636 1842 -636 1941 -551.5 c 128,-1,65
- 2040 -467 2040 -467 2040 -315 c 0,66,67
- 2040 -221 2040 -221 1991 -156.5 c 128,-1,68
- 1942 -92 1942 -92 1858 -92 c 0,69,70
- 1841 -92 1841 -92 1831 -94 c 1,71,72
- 1923 -185 1923 -185 1923 -312 c 0,73,74
- 1923 -392 1923 -392 1869 -458 c 128,-1,75
- 1815 -524 1815 -524 1727 -524 c 256,76,77
- 1639 -524 1639 -524 1590 -461.5 c 128,-1,78
- 1541 -399 1541 -399 1541 -312 c 0,79,80
- 1541 -188 1541 -188 1637 -96 c 1,81,82
- 1620 -92 1620 -92 1597 -92 c 0,83,84
- 1522 -92 1522 -92 1471.5 -148 c 128,-1,85
- 1421 -204 1421 -204 1421 -280 c 0,86,87
- 1421 -408 1421 -408 1531 -482 c 1,88,-1
- 1465 -546 l 1,89,90
- 1323 -453 1323 -453 1323 -275 c 0,91,92
- 1323 -153 1323 -153 1410 -75.5 c 128,-1,93
- 1497 2 1497 2 1623 2 c 0,94,95
- 1691 2 1691 2 1738 -33 c 1,96,97
- 1789 2 1789 2 1871 2 c 0,98,99
- 1996 2 1996 2 2066 -90.5 c 128,-1,100
- 2136 -183 2136 -183 2136 -312 c 0,49,50
-1732 -435 m 0,101,102
- 1818 -435 1818 -435 1819 -320 c 1,103,104
- 1819 -204 1819 -204 1728 -136 c 1,105,106
- 1642 -200 1642 -200 1642 -318 c 0,107,108
- 1642 -435 1642 -435 1732 -435 c 0,101,102
-EndSplineSet
-Validated: 1
+Refer: 89 3384 N 1 0 0 0.819032 30.2695 212.636 2
+Refer: 303 -1 N 1 0 0 0.862455 505 -632.167 2
+LCarets2: 2 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1th1 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1th1 xx r3
 EndChar
 
 StartChar: s1th1r3u1
-Encoding: 634 -1 588
+Encoding: 592 -1 588
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32350,7 +31891,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1r3u2
-Encoding: 635 -1 589
+Encoding: 593 -1 589
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32458,147 +31999,49 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th2
-Encoding: 636 -1 590
-Width: 3256
+Encoding: 594 -1 590
+Width: 3094
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-3257 0 m 1
- 2103 0 l 1
- 2103 107 l 1
- 2438 107 l 1
- 2438 538 l 2
- 2438 705 2438 705 2557 824 c 0
- 2676 943 2676 943 2847 943 c 256
- 3018 943 3018 943 3137.5 829 c 0
- 3257 715 3257 715 3257 550 c 2
- 3257 0 l 1
-3121 107 m 1
- 3121 543 l 2
- 3121 656 3121 656 3040 737 c 0
- 2959 818 2959 818 2846 818 c 0
- 2732 818 2732 818 2653.5 735.5 c 0
- 2575 653 2575 653 2575 541 c 2
- 2575 107 l 1
- 3121 107 l 1
-EndSplineSet
-Refer: 89 3384 N 1 0 0 1 30.2695 28 2
+Refer: 685 -1 S 1 0 0 1 1812 12 2
+Refer: 89 3384 S 1 0 0 1 30.2695 28 2
 LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u1
-Encoding: 637 -1 591
-Width: 3256
+Encoding: 595 -1 591
+Width: 3094
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-3257 0 m 1
- 3175 0 l 1
- 3234 -73 3234 -73 3234 -179 c 256
- 3234 -285 3234 -285 3154 -366 c 0
- 3074 -447 3074 -447 2960 -447 c 256
- 2846 -447 2846 -447 2766.5 -366 c 0
- 2687 -285 2687 -285 2687 -179 c 256
- 2687 -73 2687 -73 2743 0 c 1
- 2103 0 l 1
- 2103 108 l 1
- 2438 108 l 1
- 2438 539 l 2
- 2438 706 2438 706 2557 824.5 c 0
- 2676 943 2676 943 2847 943 c 256
- 3018 943 3018 943 3137.5 829 c 0
- 3257 715 3257 715 3257 551 c 2
- 3257 0 l 1
-3121 108 m 1
- 3121 544 l 2
- 3121 657 3121 657 3040 738 c 0
- 2959 819 2959 819 2846 819 c 0
- 2732 819 2732 819 2653.5 736.5 c 0
- 2575 654 2575 654 2575 541 c 2
- 2575 108 l 1
- 3121 108 l 1
-3121 -171 m 256
- 3121 -103 3121 -103 3074 -55 c 0
- 3027 -7 3027 -7 2960 -7 c 256
- 2893 -7 2893 -7 2845 -55 c 0
- 2797 -103 2797 -103 2797 -171 c 256
- 2797 -239 2797 -239 2845 -286 c 0
- 2893 -333 2893 -333 2960 -333 c 256
- 3027 -333 3027 -333 3074 -286 c 0
- 3121 -239 3121 -239 3121 -171 c 256
-EndSplineSet
-Refer: 89 3384 S 1 0 0 1 30.2695 28 2
+Refer: 682 -1 N 1 0 0 1 3534 78 2
+Refer: 685 -1 N 1 0 0 1 1812 12 2
+Refer: 89 3384 N 1 0 0 1 30.2695 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th2 u1
 EndChar
 
 StartChar: s1th2u2
-Encoding: 638 -1 592
-Width: 3257
+Encoding: 596 -1 592
+Width: 3196
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-3185 0 m 1
- 3260 -86 3260 -86 3260 -206 c 256
- 3260 -326 3260 -326 3171 -416 c 0
- 3082 -506 3082 -506 2956 -506 c 256
- 2830 -506 2830 -506 2740 -416 c 0
- 2650 -326 2650 -326 2650 -206 c 256
- 2650 -86 2650 -86 2723 0 c 1
- 2104 0 l 1
- 2104 108 l 1
- 2439 108 l 1
- 2439 539 l 2
- 2439 706 2439 706 2557.5 824.5 c 0
- 2676 943 2676 943 2847 943 c 256
- 3018 943 3018 943 3137.5 829 c 0
- 3257 715 3257 715 3257 551 c 2
- 3257 0 l 1
- 3185 0 l 1
-3122 108 m 1
- 3122 544 l 2
- 3122 657 3122 657 3041 738 c 0
- 2960 819 2960 819 2847 819 c 0
- 2733 819 2733 819 2654.5 736.5 c 0
- 2576 654 2576 654 2576 541 c 2
- 2576 108 l 1
- 3122 108 l 1
-3021.5 -175 m 0
- 3051 -146 3051 -146 3051 -106 c 256
- 3051 -66 3051 -66 3021.5 -36.5 c 0
- 2992 -7 2992 -7 2951 -7 c 256
- 2910 -7 2910 -7 2882 -36.5 c 0
- 2854 -66 2854 -66 2854 -106 c 256
- 2854 -146 2854 -146 2882 -175 c 0
- 2910 -204 2910 -204 2951 -204 c 256
- 2992 -204 2992 -204 3021.5 -175 c 0
-3092.5 -336 m 0
- 3149 -279 3149 -279 3149 -213 c 256
- 3149 -147 3149 -147 3119 -101 c 1
- 3119 -177 3119 -177 3070 -226 c 0
- 3021 -275 3021 -275 2952 -275 c 256
- 2883 -275 2883 -275 2835.5 -227 c 0
- 2788 -179 2788 -179 2784 -113 c 1
- 2763 -155 2763 -155 2763 -217 c 256
- 2763 -279 2763 -279 2819.5 -336 c 0
- 2876 -393 2876 -393 2956 -393 c 256
- 3036 -393 3036 -393 3092.5 -336 c 0
-EndSplineSet
+Refer: 683 -1 N 1 0 0 1 3450 93 2
+Refer: 685 -1 N 1 0 0 1 1812 12 2
 Refer: 89 3384 N 1 0 0 1 30.2695 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th2 u2
 EndChar
 
 StartChar: s1th2r1
-Encoding: 639 -1 593
+Encoding: 597 -1 593
 Width: 3257
 GlyphClass: 3
 Flags: MW
@@ -32681,7 +32124,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1n1
-Encoding: 640 -1 594
+Encoding: 598 -1 594
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32722,7 +32165,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx n1
 EndChar
 
 StartChar: s1n1u1
-Encoding: 641 -1 595
+Encoding: 599 -1 595
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32770,7 +32213,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1n1u2
-Encoding: 642 -1 596
+Encoding: 600 -1 596
 Width: 2168
 GlyphClass: 3
 Flags: MW
@@ -32828,7 +32271,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1p1
-Encoding: 643 -1 597
+Encoding: 601 -1 597
 Width: 2209
 GlyphClass: 3
 Flags: MW
@@ -32842,7 +32285,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx p1
 EndChar
 
 StartChar: s1p1u1
-Encoding: 644 -1 598
+Encoding: 602 -1 598
 Width: 2261
 GlyphClass: 3
 Flags: MW
@@ -32856,7 +32299,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1p1u2
-Encoding: 645 -1 599
+Encoding: 603 -1 599
 Width: 2261
 GlyphClass: 3
 Flags: MW
@@ -32870,7 +32313,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1r3
-Encoding: 654 -1 600
+Encoding: 604 -1 600
 Width: 2441
 GlyphClass: 3
 Flags: MW
@@ -32925,7 +32368,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: s1r3u1
-Encoding: 655 -1 601
+Encoding: 605 -1 601
 Width: 2441
 GlyphClass: 3
 Flags: MW
@@ -32995,7 +32438,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1r3u2
-Encoding: 656 -1 602
+Encoding: 606 -1 602
 Width: 2441
 GlyphClass: 3
 Flags: MW
@@ -33076,7 +32519,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1l3
-Encoding: 657 -1 603
+Encoding: 607 -1 603
 Width: 2237
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -33126,7 +32569,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: s1l3u1
-Encoding: 658 -1 604
+Encoding: 608 -1 604
 Width: 2237
 GlyphClass: 3
 Flags: MW
@@ -33139,7 +32582,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1l3u2
-Encoding: 659 -1 605
+Encoding: 609 -1 605
 Width: 2237
 GlyphClass: 3
 Flags: MW
@@ -33152,7 +32595,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1s1
-Encoding: 660 -1 606
+Encoding: 610 -1 606
 Width: 2259
 GlyphClass: 3
 Flags: MW
@@ -33166,7 +32609,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
-Encoding: 661 -1 607
+Encoding: 611 -1 607
 Width: 2259
 GlyphClass: 3
 Flags: MW
@@ -33180,7 +32623,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1s1u2
-Encoding: 662 -1 608
+Encoding: 612 -1 608
 Width: 2259
 GlyphClass: 3
 Flags: MW
@@ -33194,7 +32637,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1rhrh
-Encoding: 667 -1 609
+Encoding: 613 -1 609
 Width: 2225
 GlyphClass: 3
 Flags: MW
@@ -33209,7 +32652,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
-Encoding: 668 -1 610
+Encoding: 614 -1 610
 Width: 2225
 GlyphClass: 3
 Flags: MW
@@ -33224,7 +32667,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1rhrhu2
-Encoding: 669 -1 611
+Encoding: 615 -1 611
 Width: 2225
 GlyphClass: 3
 Flags: MW
@@ -33239,7 +32682,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1u1
-Encoding: 670 -1 612
+Encoding: 616 -1 612
 Width: 1884
 GlyphClass: 3
 Flags: MW
@@ -33298,7 +32741,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1u2
-Encoding: 671 -1 613
+Encoding: 617 -1 613
 Width: 1886
 GlyphClass: 3
 Flags: MW
@@ -33364,7 +32807,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1r1
-Encoding: 672 -1 614
+Encoding: 618 -1 614
 Width: 2244
 GlyphClass: 3
 Flags: MW
@@ -33425,7 +32868,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1n1
-Encoding: 673 -1 615
+Encoding: 619 -1 615
 Width: 2991
 GlyphClass: 3
 Flags: MW
@@ -33485,7 +32928,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx n1
 EndChar
 
 StartChar: h1n1u1
-Encoding: 674 -1 616
+Encoding: 620 -1 616
 Width: 2582
 GlyphClass: 3
 Flags: MW
@@ -33552,7 +32995,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1n1u2
-Encoding: 675 -1 617
+Encoding: 621 -1 617
 Width: 2849
 GlyphClass: 3
 Flags: MW
@@ -33628,7 +33071,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1m1
-Encoding: 676 -1 618
+Encoding: 622 -1 618
 Width: 2271
 GlyphClass: 3
 Flags: MW
@@ -33687,7 +33130,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx m1
 EndChar
 
 StartChar: h1m1u1
-Encoding: 677 -1 619
+Encoding: 623 -1 619
 Width: 2271
 GlyphClass: 3
 Flags: MW
@@ -33700,7 +33143,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1m1u2
-Encoding: 678 -1 620
+Encoding: 624 -1 620
 Width: 2271
 GlyphClass: 3
 Flags: MW
@@ -33713,7 +33156,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1m1r1
-Encoding: 679 -1 621
+Encoding: 625 -1 621
 Width: 2037
 GlyphClass: 3
 Flags: MW
@@ -33778,7 +33221,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1r3
-Encoding: 680 -1 622
+Encoding: 626 -1 622
 Width: 2522
 GlyphClass: 3
 Flags: MW
@@ -33833,7 +33276,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: h1r3u1
-Encoding: 681 -1 623
+Encoding: 627 -1 623
 Width: 2522
 GlyphClass: 3
 Flags: MW
@@ -33846,7 +33289,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1r3u2
-Encoding: 682 -1 624
+Encoding: 628 -1 624
 Width: 2522
 GlyphClass: 3
 Flags: MW
@@ -33859,7 +33302,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1l3
-Encoding: 683 -1 625
+Encoding: 629 -1 625
 Width: 1933
 GlyphClass: 3
 Flags: MW
@@ -33936,7 +33379,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: lhu1
-Encoding: 684 -1 626
+Encoding: 630 -1 626
 Width: 1401
 GlyphClass: 3
 Flags: MW
@@ -33949,7 +33392,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: lhu2
-Encoding: 685 -1 627
+Encoding: 631 -1 627
 Width: 1401
 GlyphClass: 3
 Flags: MW
@@ -33962,7 +33405,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: lhlh
-Encoding: 686 -1 628
+Encoding: 632 -1 628
 Width: 2526
 GlyphClass: 3
 Flags: MW
@@ -33976,7 +33419,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
-Encoding: 687 -1 629
+Encoding: 633 -1 629
 Width: 2526
 GlyphClass: 3
 Flags: MW
@@ -33989,7 +33432,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: lhlhu2
-Encoding: 688 -1 630
+Encoding: 634 -1 630
 Width: 2526
 GlyphClass: 3
 Flags: MW
@@ -34002,7 +33445,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhu1
-Encoding: 689 -1 631
+Encoding: 635 -1 631
 Width: 1282
 GlyphClass: 3
 Flags: MW
@@ -34015,7 +33458,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhu2
-Encoding: 690 -1 632
+Encoding: 636 -1 632
 Width: 1282
 GlyphClass: 3
 Flags: MW
@@ -34028,7 +33471,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1
-Encoding: 691 -1 633
+Encoding: 637 -1 633
 Width: 1291
 GlyphClass: 3
 Flags: MW
@@ -34042,7 +33485,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx k1
 EndChar
 
 StartChar: zhk1u1
-Encoding: 692 -1 634
+Encoding: 638 -1 634
 Width: 1079
 GlyphClass: 3
 Flags: MW
@@ -34111,7 +33554,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1u2
-Encoding: 693 -1 635
+Encoding: 639 -1 635
 Width: 1099
 GlyphClass: 3
 Flags: MW
@@ -34179,7 +33622,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1k1
-Encoding: 694 -1 636
+Encoding: 640 -1 636
 Width: 1361
 GlyphClass: 3
 Flags: MW
@@ -34193,7 +33636,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhk1k1u1
-Encoding: 695 -1 637
+Encoding: 641 -1 637
 Width: 1587
 GlyphClass: 3
 Flags: MW
@@ -34206,7 +33649,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1k1u2
-Encoding: 696 -1 638
+Encoding: 642 -1 638
 Width: 1164
 GlyphClass: 3
 Flags: MW
@@ -34280,7 +33723,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhch1
-Encoding: 697 -1 639
+Encoding: 643 -1 639
 Width: 1260
 GlyphClass: 3
 Flags: MW
@@ -34294,7 +33737,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx ch1
 EndChar
 
 StartChar: zhch1u1
-Encoding: 698 -1 640
+Encoding: 644 -1 640
 Width: 1260
 GlyphClass: 3
 Flags: MW
@@ -34307,7 +33750,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhch1u2
-Encoding: 699 -1 641
+Encoding: 645 -1 641
 Width: 1260
 GlyphClass: 3
 Flags: MW
@@ -34320,7 +33763,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhth1
-Encoding: 700 -1 642
+Encoding: 646 -1 642
 Width: 1260
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -34335,7 +33778,7 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: zhth1u1
-Encoding: 701 -1 643
+Encoding: 647 -1 643
 Width: 1080
 GlyphClass: 3
 Flags: MW
@@ -34391,7 +33834,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhth1u2
-Encoding: 702 -1 644
+Encoding: 648 -1 644
 Width: 1079
 GlyphClass: 3
 Flags: MW
@@ -34451,7 +33894,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhth1th1
-Encoding: 703 -1 645
+Encoding: 649 -1 645
 Width: 1335
 GlyphClass: 3
 Flags: MW
@@ -34520,7 +33963,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx th1 xx th1
 EndChar
 
 StartChar: zhth1th1u1
-Encoding: 704 -1 646
+Encoding: 650 -1 646
 Width: 1229
 GlyphClass: 3
 Flags: MW
@@ -34599,7 +34042,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhth1th1u2
-Encoding: 705 -1 647
+Encoding: 651 -1 647
 Width: 1188
 GlyphClass: 3
 Flags: MW
@@ -34684,7 +34127,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhn1
-Encoding: 706 -1 648
+Encoding: 652 -1 648
 Width: 1345
 GlyphClass: 3
 Flags: MW
@@ -34698,7 +34141,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx n1
 EndChar
 
 StartChar: zhn1u1
-Encoding: 707 -1 649
+Encoding: 653 -1 649
 Width: 1260
 GlyphClass: 3
 Flags: MW
@@ -34746,7 +34189,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhn1u2
-Encoding: 708 -1 650
+Encoding: 654 -1 650
 Width: 1282
 GlyphClass: 3
 Flags: MW
@@ -34803,7 +34246,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhn1n1
-Encoding: 709 -1 651
+Encoding: 655 -1 651
 Width: 1137
 GlyphClass: 3
 Flags: MW
@@ -34850,7 +34293,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx n1 xx n1
 EndChar
 
 StartChar: zhn1n1u1
-Encoding: 710 -1 652
+Encoding: 656 -1 652
 Width: 1139
 GlyphClass: 3
 Flags: MW
@@ -34907,7 +34350,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhn1n1u2
-Encoding: 711 -1 653
+Encoding: 657 -1 653
 Width: 1145
 GlyphClass: 3
 Flags: MW
@@ -34972,7 +34415,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhv1
-Encoding: 712 -1 654
+Encoding: 658 -1 654
 Width: 1424
 GlyphClass: 3
 Flags: MW
@@ -34987,7 +34430,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhv1u1
-Encoding: 713 -1 655
+Encoding: 659 -1 655
 Width: 1260
 GlyphClass: 3
 Flags: MW
@@ -35037,7 +34480,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhv1u2
-Encoding: 714 -1 656
+Encoding: 660 -1 656
 Width: 1079
 GlyphClass: 3
 Flags: MW
@@ -35094,7 +34537,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: rhu1
-Encoding: 715 -1 657
+Encoding: 661 -1 657
 Width: 1142
 GlyphClass: 3
 Flags: MW
@@ -35107,7 +34550,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: rhu2
-Encoding: 716 -1 658
+Encoding: 662 -1 658
 Width: 1346
 VWidth: 0
 GlyphClass: 3
@@ -35121,7 +34564,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: rhrh
-Encoding: 717 -1 659
+Encoding: 663 -1 659
 Width: 1142
 GlyphClass: 3
 Flags: MW
@@ -35135,7 +34578,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
-Encoding: 718 -1 660
+Encoding: 664 -1 660
 Width: 1142
 GlyphClass: 3
 LigCaretCntFixed: 1
@@ -35150,7 +34593,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: rhrhu2
-Encoding: 719 -1 661
+Encoding: 665 -1 661
 Width: 1142
 GlyphClass: 3
 Flags: MW
@@ -35164,7 +34607,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: k2r3
-Encoding: 720 -1 662
+Encoding: 666 -1 662
 Width: 1776
 GlyphClass: 2
 Flags: MW
@@ -35222,7 +34665,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k2r3u1
-Encoding: 721 -1 663
+Encoding: 667 -1 663
 Width: 1776
 GlyphClass: 2
 Flags: MW
@@ -35297,7 +34740,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: k2r3u2
-Encoding: 722 -1 664
+Encoding: 668 -1 664
 Width: 1778
 GlyphClass: 2
 Flags: MW
@@ -35382,7 +34825,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: th2r1
-Encoding: 723 -1 665
+Encoding: 669 -1 665
 Width: 1387
 GlyphClass: 2
 Flags: MW
@@ -35432,7 +34875,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: th2r3
-Encoding: 724 -1 666
+Encoding: 670 -1 666
 Width: 1697
 GlyphClass: 2
 Flags: MW
@@ -35475,7 +34918,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th3l3
-Encoding: 725 -1 667
+Encoding: 671 -1 667
 Width: 1038
 GlyphClass: 2
 Flags: MW
@@ -35516,7 +34959,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: y1v1
-Encoding: 726 -1 668
+Encoding: 672 -1 668
 Width: 1721
 GlyphClass: 2
 Flags: MW
@@ -35587,7 +35030,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx v1
 EndChar
 
 StartChar: y1v1u1
-Encoding: 727 -1 669
+Encoding: 673 -1 669
 Width: 1721
 GlyphClass: 2
 Flags: MW
@@ -35673,7 +35116,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1v1u2
-Encoding: 728 -1 670
+Encoding: 674 -1 670
 Width: 1721
 GlyphClass: 2
 Flags: MW
@@ -35768,7 +35211,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: dotrephy1y1
-Encoding: 729 -1 671
+Encoding: 675 -1 671
 Width: 1719
 GlyphClass: 3
 Flags: MW
@@ -35831,7 +35274,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: dotrephl3l3
-Encoding: 730 -1 672
+Encoding: 676 -1 672
 Width: 1664
 GlyphClass: 3
 Flags: MW
@@ -35845,7 +35288,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" dotreph l3 xx l3
 EndChar
 
 StartChar: dotrephv1v1
-Encoding: 731 -1 673
+Encoding: 677 -1 673
 Width: 1478
 GlyphClass: 3
 Flags: MW
@@ -35860,7 +35303,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph v1 xx v1
 EndChar
 
 StartChar: l4
-Encoding: 732 -1 674
+Encoding: 678 -1 674
 Width: 0
 GlyphClass: 3
 Flags: MW
@@ -35929,7 +35372,7 @@ Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
 StartChar: y1xx
-Encoding: 733 -1 675
+Encoding: 679 -1 675
 Width: 1719
 GlyphClass: 3
 Flags: MW
@@ -35993,7 +35436,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" y1 xx
 EndChar
 
 StartChar: l3xx
-Encoding: 734 -1 676
+Encoding: 680 -1 676
 Width: 1438
 GlyphClass: 3
 Flags: MW
@@ -36044,7 +35487,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" l3 xx
 EndChar
 
 StartChar: v1xx
-Encoding: 735 -1 677
+Encoding: 681 -1 677
 Width: 1582
 GlyphClass: 3
 Flags: MW
@@ -36212,7 +35655,7 @@ EndSplineSet
 EndChar
 
 StartChar: u_sign_drop
-Encoding: 736 -1 682
+Encoding: 682 -1 682
 Width: 2048
 VWidth: 0
 Flags: W
@@ -36246,7 +35689,7 @@ EndSplineSet
 EndChar
 
 StartChar: uu_sign_drop
-Encoding: 737 -1 683
+Encoding: 683 -1 683
 Width: 2048
 VWidth: 0
 Flags: W
@@ -36284,7 +35727,7 @@ EndSplineSet
 EndChar
 
 StartChar: va_sign
-Encoding: 738 -1 684
+Encoding: 684 -1 684
 Width: 2048
 VWidth: 0
 LayerCount: 2
@@ -36318,6 +35761,37 @@ SplineSet
  1184.97 -282.625 1184.97 -282.625 1274.74 -174.897 c 0,38,39
  1291.74 -154.491 1291.74 -154.491 1318.81 -152.032 c 128,-1,0
  1345.89 -149.573 1345.89 -149.573 1366.28 -166.574 c 128,-1,1
+EndSplineSet
+EndChar
+
+StartChar: th2_half
+Encoding: 685 -1 685
+Width: 1339
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+149.554 118.947 m 0,0,-1
+ 565.821 120.03 l 1,1,2
+ 489.973 214.262 489.973 214.262 444.371 306.917 c 0,3,4
+ 323.276 552.958 323.276 552.958 414.974 754.931 c 0,5,6
+ 479.386 896.802 479.386 896.802 627.905 966.347 c 128,-1,7
+ 776.423 1035.89 776.423 1035.89 938.852 986.855 c 128,-1,8
+ 1101.27 937.819 1101.27 937.819 1182.35 763.458 c 0,9,10
+ 1306.87 495.659 1306.87 495.659 1162.05 36.8535 c 0,11,12
+ 1156.07 17.9121 1156.07 17.9121 1138.72 4.69336 c 128,-1,13
+ 1121.36 -8.52539 1121.36 -8.52539 1100.23 -8.58008 c 2,14,-1
+ 118 -11.1357 l 2,15,16
+ 70.1338 85.8848 70.1338 85.8848 149.554 118.947 c 0,0,-1
+696.609 120.37 m 1,17,-1
+ 1051.83 121.295 l 1,18,19
+ 1161.86 499.207 1161.86 499.207 1064.47 708.639 c 0,20,21
+ 1007.95 830.198 1007.95 830.198 897.222 863.628 c 128,-1,22
+ 786.489 897.058 786.489 897.058 682.212 848.23 c 128,-1,23
+ 577.936 799.402 577.936 799.402 533.345 701.188 c 0,24,25
+ 467.065 555.199 467.065 555.199 561.008 364.326 c 0,26,27
+ 605.351 274.229 605.351 274.229 684.032 181.016 c 0,28,29
+ 706.689 154.175 706.689 154.175 696.609 120.37 c 1,17,-1
 EndSplineSet
 EndChar
 EndChars
