@@ -23,7 +23,7 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,10 +35,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="364.82479"
+     inkscape:cx="-61.931283"
      inkscape:cy="909.11507"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -80,9 +80,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 192,-309.7078 C 192,-433.14086 300.36962,-513.17879 384,-488 604.69357,-421.55529 568.48144,70.976157 546.69005,184.02447 498.69005,430.89061 240,369.17406 192,184.02447"
+       d="m 188.88499,-353.31791 c 55.65307,-277.2449 303.65454,-164.3925 356.81359,20.79778 47.79154,172.81074 30.7024,359.1059 16.56651,432.439388 C 528,376 288,328 198.23002,243.20962"
        id="path3776"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cacc" />
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
