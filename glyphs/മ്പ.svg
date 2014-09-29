@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="329.22479"
-     inkscape:cy="1272.3025"
+     inkscape:cx="1522.2728"
+     inkscape:cy="1023.1019"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -75,7 +75,7 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 301.16967,340.46003 C -280.4951,-526.65498 686.30016,-868.88499 607.40288,-144.04569 624,472 585.34502,501.30995 625.31418,-130.3882 768,-920 1968,-440 847.15008,334.23002 1273.8603,355.51063 1443.115,378.19495 1514.4535,314.99328 1683.115,210.19495 1484.4783,-346.23141 1536,-546.26509"
+       d="M 301.16967,340.46003 C -280.4951,-526.65498 686.30016,-868.88499 607.40288,-144.04569 624,472 585.34502,501.30995 625.31418,-130.3882 768,-920 1968,-440 847.15008,334.23002 1273.8603,355.51063 1589.115,378.19495 1660.4535,314.99328 1829.115,210.19495 1630.4783,-346.23141 1682,-546.26509"
        id="path3849"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
