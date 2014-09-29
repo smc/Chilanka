@@ -9,18 +9,63 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2048"
-   height="2000"
-   id="svg2992"
-   version="1.1"
+   sodipodi:docname="ര.svg"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ര.svg">
+   version="1.1"
+   id="svg2992"
+   height="2000"
+   width="2048">
   <defs
      id="defs5498">
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4574"
        is_visible="true" />
+    <filter
+       inkscape:label="Black Hole"
+       inkscape:menu="Morphology"
+       inkscape:menu-tooltip="Creates a black light inside and outside"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter5478">
+      <feGaussianBlur
+         stdDeviation="5"
+         in="SourceAlpha"
+         result="result1"
+         id="feGaussianBlur5480" />
+      <feComposite
+         operator="arithmetic"
+         k2="3.2"
+         k1="-1"
+         k4="-2"
+         result="result3"
+         in2="result1"
+         id="feComposite5482" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
+         result="result2"
+         id="feColorMatrix5484" />
+      <feComposite
+         result="fbSourceGraphic"
+         in="SourceGraphic"
+         operator="out"
+         in2="result2"
+         id="feComposite5486" />
+      <feBlend
+         mode="multiply"
+         in="result1"
+         in2="fbSourceGraphic"
+         result="result91"
+         id="feBlend5488" />
+      <feBlend
+         mode="screen"
+         in="fbSourceGraphic"
+         in2="result91"
+         id="feBlend5490" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-height="851"
@@ -40,7 +85,8 @@
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false">
     <sodipodi:guide
        orientation="horizontal"
        position="0,600"
@@ -75,7 +121,7 @@
      id="layer1"
      transform="translate(0,1000)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:127.37182617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:127.37182617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5478)"
        d="M 293.40805,339.59533 C -480,-520 1120,-960 976.06614,-13.442582 922.79592,493.39817 559.03926,446.45338 549.0357,-34.199133 552.97794,-208.86984 678.14421,-362.62153 833.87528,-453.22114"
        id="path4140"
        inkscape:connector-curvature="0"
