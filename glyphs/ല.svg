@@ -30,7 +30,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1418.7864"
+     inkscape:cx="992.03033"
      inkscape:cy="1033.7154"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:121.81742859;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 318.58484,-49.108334 C 1728,-104 288,-920 196.65006,-351.77707 48,712 388.92476,236.00656 850.01108,312.44796 1872,520 1248,-152 1431.2202,-560.92006"
+       style="fill:none;stroke:#000000;stroke-width:121.81700134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 318.58484,-49.108334 C 1059.9901,-77.983409 1031.6081,-329.92896 807.14067,-467.74469 604.89434,-591.91736 239.9465,-621.09342 196.65006,-351.77707 123.49565,246.96 271.88498,326.41992 514.11107,337.48845 1200.3642,368.84682 1680,472 1431.2202,-560.92006"
        id="path3874"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cscsc" />
   </g>
 </svg>
