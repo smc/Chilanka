@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1246.655"
-     inkscape:cy="909.11507"
+     inkscape:cx="819.89893"
+     inkscape:cy="784.51476"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,16 +76,16 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 227.53997,343.57504 C -252.46003,-136.42496 912,-440 480,352 l 1200,0 c 0,0 -96,-360 -48,-696"
+       d="M 227.53997,343.57504 C -252.46003,-136.42496 912,-440 480,352 1776,376 1632,472 1632,-344"
        id="path4245"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1676.885,1416.4951 C 1729.5147,1731.2737 1480.9194,1809.5857 1344,1808 c -336,-48 -326.7515,-483.4192 -263.0799,-749.31 303.7462,-949.20688 1093.4038,-471.02418 1074.409,19.2511 -44.8378,359.0885 -541.5519,83.9953 -17.5085,362.2068 C 2421.4325,1590.7157 2064,1952 1822.1598,1782.5807"
+       d="M 1633.2749,1210.9046 C 1642.8016,2094.4887 960,1856 1080.9201,1058.69 1296,80 2256,560 2255.0094,990.72088 2224.5457,1234.6923 1968,1280 1921.0732,1317.1698 1899.3436,1334.3814 2016,1232 2240.6159,1399.6528 2466.8624,1568.5226 2256,2000 1837.7348,1710.9355"
        id="path3800"
        inkscape:connector-curvature="0"
        transform="translate(0,-1048)"
-       sodipodi:nodetypes="ccccsc" />
+       sodipodi:nodetypes="cccssc" />
   </g>
 </svg>

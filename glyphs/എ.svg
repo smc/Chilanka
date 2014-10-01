@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1246.655"
-     inkscape:cy="909.11507"
+     inkscape:cx="1074.1459"
+     inkscape:cy="784.51476"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -76,16 +76,16 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 227.53997,343.57504 C -252.46003,-136.42496 912,-440 480,352 l 1200,0 c 0,0 -96,-360 -48,-696"
+       d="M 227.53997,343.57504 C -252.46003,-136.42496 912,-440 480,352 1635.1597,405.52588 1776,472 1632,-344"
        id="path4245"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1676.885,1416.4951 C 1729.5147,1731.2737 1480.9194,1809.5857 1344,1808 1008,1760 1017.2485,1324.5808 1080.9201,1058.69 1464.9201,-141.30995 2640,752 1815.9298,1813.7308"
+       d="M 1670.655,1210.9046 C 1584,2288 960,1616 1149.4503,993.27484 1533.4503,-206.72511 2976,704 1815.9298,1813.7308"
        id="path3800"
        inkscape:connector-curvature="0"
        transform="translate(0,-1048)"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
