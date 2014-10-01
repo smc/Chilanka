@@ -18,7 +18,7 @@
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="857"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,10 +30,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="830.74043"
-     inkscape:cy="1022.795"
-     inkscape:window-x="1593"
-     inkscape:window-y="-12"
+     inkscape:cx="403.98436"
+     inkscape:cy="898.19467"
+     inkscape:window-x="1599"
+     inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -49,8 +49,8 @@
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="0,1"
-       position="-680,1600"
-       id="guide9757" />
+       position="-760,1600"
+       id="guide6577" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -70,15 +70,15 @@
      id="layer1"
      transform="translate(0,1000)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 378.60559,275.62605 c -686.78732,-1085.87086 1236.21271,-1053.93347 549.42546,0"
+       style="fill:none;stroke:#000000;stroke-width:129.76309204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 341.07059,256.6215 C -379.38891,-864.81801 1915.3645,-772.9681 921.5902,276.29432"
        id="path3767"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:117.75154877;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 399.20974,956.43938 c -627.11481,-1057.59105 1128.80256,-1026.485436 501.68783,0"
-       id="path3767-9"
+       style="fill:none;stroke:#000000;stroke-width:112.42573547;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 346.89908,893.75026 C -340.35122,11.281081 1848.6271,83.558419 900.66001,909.23098"
+       id="path3767-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
