@@ -35,9 +35,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="-61.931283"
+     inkscape:cx="-488.68736"
      inkscape:cy="1282.916"
-     inkscape:window-x="1599"
+     inkscape:window-x="-1"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
@@ -80,7 +80,7 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 335.43476,-787.18515 C 528,-1160 951.37509,-955.55877 960,-632 960,-434.09093 825.34502,77.380094 825.34502,605.38009"
+       d="M 42.624024,-771.61011 C 720,-1256 1002.7552,-822.417 917.51157,-293.45906 878.04892,-48.804525 816,362.27329 816,692.60031"
        id="path3803"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
