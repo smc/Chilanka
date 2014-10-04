@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ന്മ.svg">
+   sodipodi:docname="ന്മൃ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -31,7 +31,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
      inkscape:cx="998.95148"
-     inkscape:cy="1272.3025"
+     inkscape:cy="649.30096"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,5 +79,11 @@
        id="path3849"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1599.575,241.34502 C 1619.8127,519.35731 1584,856 1245.5946,862.23002 460.74471,774.30016 1008,424 1299.8246,761.27488"
+       id="path4157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

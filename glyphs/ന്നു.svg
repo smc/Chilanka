@@ -29,8 +29,8 @@
      id="namedview7"
      showgrid="true"
      inkscape:zoom="0.3337544"
-     inkscape:cx="736.96892"
-     inkscape:cy="867.14088"
+     inkscape:cx="1072.545"
+     inkscape:cy="1346.5353"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
        id="guide2984" />
     <sodipodi:guide
        orientation="0,1"
-       position="-2640,560"
+       position="1480,560"
        id="guide2986" />
   </sodipodi:namedview>
   <defs
@@ -68,9 +68,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 365.64986,379.55841 C -280,-600 714.05774,-893.35428 869.16603,-37.179873 887.67939,438.2089 880,600 892.94494,-41.631934 1020.3425,-776.87 1347.8646,-629.5049 1415.1452,-49.478474 1461.0481,429.50679 1400,600 1418.2317,-45.510506 1556.458,-883.34907 2272.3259,-627.08499 2049.0844,122.90354 1920,520 1680,400 1720.6306,71.081499 1734.249,-39.16385 1920,-320 2060.3641,30.47705"
+       d="M 365.64986,379.55841 C -320,-520 840,-1160 825.42569,380.1913 840,-1000 1560,-680 1456.9488,381.97452 1510.7567,-933.94778 2276.0696,-631.62173 2153.9233,26.720039 2080,520 1724.6607,410.30456 1767.1158,134.00864 1800,-80 1960,-120 2082.2073,-31.353094"
        id="path5869-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccsc" />
+       sodipodi:nodetypes="ccccsc" />
   </g>
 </svg>

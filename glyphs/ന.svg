@@ -39,7 +39,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="738.81103"
+     inkscape:cx="215.48971"
      inkscape:cy="1199.8076"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
@@ -84,9 +84,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 386.92219,340.76092 C -192,-488 768,-968 817.42355,-46.903959 816,376 816,568 823.64191,-51.622235 960,-1016 1824,-392 1268.4767,348.06149"
+       d="M 246.74684,334.5309 C -140.17535,-606.23002 816,-1016 761.09529,342.56456 768,-1016 1776,-632 1268.4767,348.06149"
        id="path3879"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
