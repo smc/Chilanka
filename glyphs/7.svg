@@ -29,9 +29,9 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.16051324"
-     inkscape:cx="3603.1317"
-     inkscape:cy="795.59445"
+     inkscape:zoom="0.32102648"
+     inkscape:cx="1335.9794"
+     inkscape:cy="1068.7778"
      inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
@@ -75,7 +75,7 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:162.43164062;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 136.18983,-695.71775 c 950.99647,-601.91945 407.706,457.39505 523.74243,1060.47547"
+       d="M -16.445554,-792.28299 C 1344,-1304 720,-248 659.93226,364.75772"
        id="path10891"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
