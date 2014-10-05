@@ -1,9 +1,7 @@
 #!/usr/bin/make -f
 
 fontpath=/usr/share/fonts/truetype/malayalam
-font=Kaippada
-
-version = 6.0
+font=Chilanka
 
 default: compile
 all: compile test
