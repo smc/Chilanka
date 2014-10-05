@@ -1,4 +1,4 @@
-kaippada
-========
+Chilanka Font
+============
 
-kaippada font
+A Malayalam handwriting style font
