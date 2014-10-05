@@ -14,11 +14,11 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഗ്നു.svg">
+   sodipodi:docname="ഗ്ദൃ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="878"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,9 +30,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1182.1673"
-     inkscape:cy="1146.6221"
-     inkscape:window-x="-1"
+     inkscape:cx="639.56238"
+     inkscape:cy="883.06509"
+     inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
@@ -75,9 +75,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 182.76542,-560.69352 C -144,472 596.46916,642.18038 610.01171,-147.79285 596.061,-776.86753 1296,-728 1133.84,345.842 1062.6245,-636.61191 1739.1682,-980.67916 1769.0017,40.461809 1776,280 1536,568 1432.8379,117.24387 1382.6454,-102.06709 1605.8051,-257.34502 1754.2945,-4.1798495"
+       d="M 249.37182,-483.97381 C -23.734331,-227.56103 87.645515,348.03126 310.06207,328 c 452.0333,-40.71097 223.79412,-823.73271 625.96343,-864 417.7189,-41.8242 697.8146,355.54408 121.8146,499.544083 C 1586.1493,-12.29248 1440,616 1024.8427,703.22938 182.03123,880.3139 558.01959,307.89067 988.03507,608.35071"
        id="path3030"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccssc" />
+       sodipodi:nodetypes="csscsc" />
   </g>
 </svg>

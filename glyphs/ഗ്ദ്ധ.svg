@@ -14,11 +14,11 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഗ്നു.svg">
+   sodipodi:docname="ഗ്ദ്ധ.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="878"
+     inkscape:window-height="851"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,9 +30,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="1182.1673"
-     inkscape:cy="1146.6221"
-     inkscape:window-x="-1"
+     inkscape:cx="1636.3649"
+     inkscape:cy="1052.9273"
+     inkscape:window-x="1599"
      inkscape:window-y="-1"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
@@ -75,9 +75,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 182.76542,-560.69352 C -144,472 596.46916,642.18038 610.01171,-147.79285 596.061,-776.86753 1296,-728 1133.84,345.842 1062.6245,-636.61191 1739.1682,-980.67916 1769.0017,40.461809 1776,280 1536,568 1432.8379,117.24387 1382.6454,-102.06709 1605.8051,-257.34502 1754.2945,-4.1798495"
+       d="M 289.86692,-549.38897 C -144,-152 87.645515,348.03126 310.06207,328 c 452.0333,-40.71097 223.79412,-823.73271 625.96343,-864 61.20922,-6.12859 115.3014,-3.24663 161.7709,6.49454 270.6591,56.7369 282.727,346.16674 -63.6912,443.209418 C 1526.3343,-63.782812 1382,376 945.39829,335.83883 2006,520 1718,-680 1731.5331,-560.80878 c 5.7119,220.14457 24.1321,417.83648 104.2363,591.581203 C 2006,400 2534,520 2479.1589,-158.51028 2470.1494,-269.97807 2438,-440 2362.3663,-567.69382"
        id="path3030"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccssc" />
+       sodipodi:nodetypes="cssscccssc" />
   </g>
 </svg>
