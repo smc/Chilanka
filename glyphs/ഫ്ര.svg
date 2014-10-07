@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഫ.svg">
+   sodipodi:docname="ഫ്ര.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -35,7 +35,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="577.44373"
+     inkscape:cx="1004.1998"
      inkscape:cy="837.60526"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,5 +84,11 @@
        id="path5510"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccssc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1929.345,91.115008 C 1920,472 1920,664 1647.8946,849.29025 1006.6135,1285.9708 -576,664 48,-584"
+       id="path4139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>
