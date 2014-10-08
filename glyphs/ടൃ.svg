@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ട.svg">
+   sodipodi:docname="ടൃ.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,9 +100,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:122.29766083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 794.56136,-400.54557 C 566.96745,-834.02936 -106.7684,-176.65599 280.87966,-182.22198 608.69683,-186.9289 891.84957,-142.36863 891.84957,83.405054 864,472 192,400 170.83216,124.46288"
+       d="M 794.56136,-400.54557 C 566.96745,-834.02936 -86.995154,-156.46335 296.87966,-102.22198 624,-56 864,-56 903.84957,179.40505 924,424 742.95211,631.19223 477.87791,607.09458 -313.97013,535.10839 513.10832,144.55587 648.83216,506.46288"
        id="path5957"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscsc" />
   </g>
 </svg>
