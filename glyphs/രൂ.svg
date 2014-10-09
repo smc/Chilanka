@@ -23,7 +23,7 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="851"
+     inkscape:window-height="853"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,10 +35,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="802.48343"
+     inkscape:cx="375.72736"
      inkscape:cy="978.80731"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:window-x="1598"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,7 @@
      transform="translate(0,1000)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:127.37182617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 312.0981,336.48032 C -511.20514,-558.31189 1040,-920 976.06614,-13.442582 922.79592,493.39817 559.03926,446.45338 549.0357,-34.199133 558.20028,-440.2589 1222.4964,-733.26596 1402.9293,-382.62634 1458.69,-274.26509 1400,-160 1242.5278,-32.649963 1594.651,42.566047 1600,480 961.93542,600.43962 902.54269,611.65046 -720,840 -50.252712,-555.8123"
+       d="M 312.0981,336.48032 C -511.20514,-558.31189 1040,-920 976.06614,-13.442582 922.79592,493.39817 559.03926,446.45338 549.0357,-34.199133 558.20028,-440.2589 1208.0924,-764.92981 1427.8494,-395.08637 1520,-240 1480,-40 1211.3777,48.340241 1720,40 1560,680 958.82041,799.80012 625.88243,866.14637 -693.45024,843.11501 -143.70295,-552.69729"
        id="path4140"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscsc" />
