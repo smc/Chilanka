@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="851"
+     inkscape:window-height="853"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="0.3337544"
-     inkscape:cx="1072.545"
-     inkscape:cy="867.14089"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:cx="1998.3755"
+     inkscape:cy="867.14088"
+     inkscape:window-x="1598"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -68,9 +68,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 365.64986,379.55841 C -320,-520 840,-1160 825.42569,380.1913 840,-1000 1560,-680 1456.9488,381.97452 1510.7567,-933.94778 2276.0696,-631.62173 2153.9233,26.720039 2080,520 1724.6606,410.30455 1767.1158,134.00864 1862.5308,-219.53962 2320,-160 2398.8671,184.60485 2440,400 2403.1914,611.24671 1899.4382,630.81046"
+       d="M 353.665,382.55463 C -480,-480 880,-1160 873.36513,371.20265 760,-840 1640,-840 1504.8882,372.98587 1560,-920 2600,-680 2432.1873,33.315834 2326.7174,481.63361 1906.4352,490.00911 1989.2948,86.762896 2033.5896,-128.80309 2259.9056,-201.26379 2406.8004,-71.649516 2760,240 2640,840 1959.3625,777.62501"
        id="path5869-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="cccsssc" />
   </g>
 </svg>
