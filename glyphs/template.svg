@@ -18,7 +18,7 @@
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="851"
+     inkscape:window-height="853"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,10 +30,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="708.04728"
-     inkscape:cy="429.32053"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:cx="1432.591"
+     inkscape:cy="300.86345"
+     inkscape:window-x="1598"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -87,7 +87,7 @@
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 225.86218,-1802.5031 c -444.4903,611.5098 761.75477,488.5681 127.94917,28.0271"
+       d="m -85.638573,412.26747 c -444.490327,611.50983 761.754703,488.5681 127.9491,28.0271"
        id="path4798-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -99,9 +99,21 @@
        sodipodi:nodetypes="ccsc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 836.53017,299.96493 C 864,664 864,808 663.35192,856.33335 184.29454,971.73165 -48,424 720.56524,728.28468"
+       d="m -923.44926,-1883.6556 c 27.46983,364.0351 27.46983,508.0351 -173.17824,556.3685 -479.0574,115.3983 -711.3519,-432.3334 57.2133,-128.0487"
        id="path4142"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 631.4674,393.01945 C 125.37038,1225.9726 1498.802,1058.5107 777.15043,431.19589"
+       id="path4798-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1519.0019,372.22026 C 1968,784 1440,1000 1421.5246,677.37778 1458.9682,388.64813 1915.8548,387.22465 1967.9067,684.12934 1982.3002,766.23002 1968,1096 1530.0628,976.01208"
+       id="path4798-7-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc" />
   </g>
 </svg>
