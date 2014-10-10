@@ -9,14 +9,23 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4000"
+   width="2000"
    height="2048"
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="template.svg">
+   sodipodi:docname="൹.svg">
   <defs
-     id="defs5498" />
+     id="defs5498">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3846"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3801"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      inkscape:window-height="853"
      inkscape:window-width="1600"
@@ -30,8 +39,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="579.07883"
-     inkscape:cy="300.86345"
+     inkscape:cx="743.48354"
+     inkscape:cy="1199.8076"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:current-layer="layer1"
@@ -55,12 +64,6 @@
        orientation="0,1"
        position="-1040,1600"
        id="guide2985" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="100,2496"
-       id="guide7215"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -70,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,5 +81,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1048)" />
+     transform="translate(0,1048)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 246.74684,334.5309 C -140.17535,-606.23002 816,-1016 761.09529,342.56456 767.02885,-824.91768 1763.3956,-734.23002 1664.4975,-22.25415 1622.3484,340.87726 1104,472 1092.8553,112.23321 1083.1816,-200.04903 1584,-344 1994.2735,-13.279419"
+       id="path3879"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc" />
+  </g>
 </svg>
