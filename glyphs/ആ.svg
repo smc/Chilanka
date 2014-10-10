@@ -18,7 +18,7 @@
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="851"
+     inkscape:window-height="853"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,10 +30,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.227"
-     inkscape:cx="1043.6798"
-     inkscape:cy="867.63259"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:cx="968.78993"
+     inkscape:cy="1396.267"
+     inkscape:window-x="1598"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,10 +74,10 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:144.89375305;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 254.01653,341.21586 C -576,-824 1056,-824 474.90008,-128.36436 1578.4641,-183.74068 288,1000 586.15268,-147.21147 761.11475,-543.00895 1353.2155,-998.36609 1303.6955,323.59471 1244.0529,-662.837 1934.4875,-812.5049 2040.5991,-185.51422 2160,520 1350.3893,471.54185 1673.7219,-84.311501 2256,-885.67401 2897.163,590.02643 1666.1498,636.72665"
+       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 340.09213,331.1788 C -690.57653,-581.57294 1232.5691,-794.78209 631.01569,-209.44235 960,-248 1152,-152 1146.5262,42.630338 1134.685,463.66499 443.38326,449.97357 537.64915,-56.285165 594.56215,-361.93868 1655.0392,-1089.562 1583.0246,331.17879 1464.5407,-589.00368 2488.0047,-784.71814 2703.5736,-183.78043 2797.0057,76.678586 2613.553,279.18884 2404.2663,334.33893 2147.6509,401.96081 1860.2508,266.16092 2095.8461,-33.157192 2880,-728 3648,760 2043.6075,721.8754"
        id="path2985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccscc" />
+       sodipodi:nodetypes="ccsscsscc" />
   </g>
 </svg>
