@@ -45,9 +45,37 @@
        effect="spiro"
        id="path-effect3801"
        is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4222-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4199-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4195-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4191-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3782-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3846-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3801-3"
+       effect="spiro" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="851"
+     inkscape:window-height="853"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -59,10 +87,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.25"
-     inkscape:cx="1073.7141"
+     inkscape:cx="525.7141"
      inkscape:cy="886.6955"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:window-x="1598"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -80,6 +108,10 @@
        orientation="0,1"
        position="-1040,1600"
        id="guide2985" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-1440,576"
+       id="guide4170" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -89,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,17 +131,22 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 240,1424 C -362.92767,867.45138 1185.1611,624.59266 554.31392,1366.5665 384,1520 544.32015,1448 668,1448 l 836,0 c 217.2054,19.3544 161.9722,-35.0685 136.9047,-184.8075 C 1610.0909,1076.0346 1536,848 1608,528"
-       id="path4245"
-       inkscape:connector-curvature="0"
-       transform="translate(0,-1048)"
-       sodipodi:nodetypes="cccccc" />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 128,-576 C -1144.2514,737.17928 1968,1624 1668,336"
+       d="M 128,-576 C -1144.2514,737.17928 2020,1448 1720,160"
        id="path8343"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <g
+       id="layer1-3"
+       inkscape:label="Layer 1"
+       transform="translate(45.7489,-23.52356)">
+      <path
+         sodipodi:nodetypes="cssc"
+         transform="translate(0,-1048)"
+         inkscape:connector-curvature="0"
+         id="path4245-8"
+         d="M 240,1424 C -362.92767,867.45138 1201.2989,638.62158 554.31392,1366.5665 447.03728,1487.2671 704.35583,1437.0296 828,1440 c 1332,32 679.077,-170.7158 780,-912"
+         style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
