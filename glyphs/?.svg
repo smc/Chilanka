@@ -18,7 +18,7 @@
   <defs
      id="defs5498" />
   <sodipodi:namedview
-     inkscape:window-height="851"
+     inkscape:window-height="880"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -30,10 +30,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="471.06847"
+     inkscape:cx="44.312397"
      inkscape:cy="1111.1444"
-     inkscape:window-x="1599"
-     inkscape:window-y="-1"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -74,14 +74,14 @@
      id="layer1"
      transform="translate(0,1048)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:137.16168213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 243.61373,-417.27811 c -42.61791,-282.05147 110.65847,-320.93585 240.96164,-283.84559 628.33593,160.98729 77.62468,392.69118 -15.63744,585.90272 -128.93954,230.15336 19.33244,407.71239 19.33244,407.71239"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:170.88711548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 262.80031,-551.07148 c -56.80488,-328.46406 147.49531,-373.74701 321.1748,-330.55341 837.50119,187.47833 103.46498,457.30993 -20.84295,682.31513 -171.86192,268.025926 25.76797,474.80294 25.76797,474.80294"
        id="path4332"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 492.32543,478.7656 c 131.67457,569.2344 -148.71191,188.8702 0,0 z"
+       d="m 613.81074,544.18077 c 131.67457,569.23433 -148.71191,188.8702 0,0 z"
        id="path4334"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
