@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഹ്ന.svg">
+   sodipodi:docname="ഹ്നൂ.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,11 +128,11 @@
          id="layer1-4"
          inkscape:label="Layer 1">
         <path
-           sodipodi:nodetypes="cscccsc"
+           sodipodi:nodetypes="cscccssc"
            transform="translate(0,-1048)"
            inkscape:connector-curvature="0"
            id="path4245"
-           d="m 240,1424 c -602.92767,-556.54862 961.2989,-785.37842 314.31392,-57.4335 -107.27664,120.7006 537.70708,61.6525 698.06808,64.7374 -661.7737,-942.45876 787.7937,-1406.865493 680.0255,-4.248 5.9336,-1167.48228 1002.3004,-1076.79462 903.4022,-364.8188 -42.1491,363.1315 -560.4974,542.2542 -571.6421,134.4874 -7.6956,-281.56434 299.1447,-456.2332 533.8472,-150.4327"
+           d="m 240,1424 c -602.92767,-556.54862 961.2989,-785.37842 314.31392,-57.4335 -107.27664,120.7006 537.70708,61.6525 698.06808,64.7374 -661.7737,-942.45876 787.7937,-1406.865493 680.0255,-4.248 5.9336,-1167.48228 1002.3004,-1076.79462 903.4022,-364.8188 -42.1491,363.1315 -560.5447,542.2555 -571.6421,134.4874 -11.5872,-425.76686 809.4663,-478.96067 852.9522,39.4287 11.9074,141.9467 -74.8584,573.8688 -565.801,506.1739"
            style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
            transform="translate(1138.3105,47.019258)"

@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഹ്ന.svg">
+   sodipodi:docname="ഹു.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -79,7 +79,7 @@
      inkscape:cy="833.81327"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
-     inkscape:current-layer="layer1-4"
+     inkscape:current-layer="layer1-2"
      inkscape:window-maximized="1"
      inkscape:snap-grids="false">
     <sodipodi:guide
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,13 +127,6 @@
          transform="translate(9.8717383,-66.184927)"
          id="layer1-4"
          inkscape:label="Layer 1">
-        <path
-           sodipodi:nodetypes="cscccsc"
-           transform="translate(0,-1048)"
-           inkscape:connector-curvature="0"
-           id="path4245"
-           d="m 240,1424 c -602.92767,-556.54862 961.2989,-785.37842 314.31392,-57.4335 -107.27664,120.7006 537.70708,61.6525 698.06808,64.7374 -661.7737,-942.45876 787.7937,-1406.865493 680.0255,-4.248 5.9336,-1167.48228 1002.3004,-1076.79462 903.4022,-364.8188 -42.1491,363.1315 -560.4974,542.2542 -571.6421,134.4874 -7.6956,-281.56434 299.1447,-456.2332 533.8472,-150.4327"
-           style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
            transform="translate(1138.3105,47.019258)"
            id="layer1-9"
@@ -142,6 +135,17 @@
            transform="translate(1669.1096,32.086007)"
            id="layer1-6"
            inkscape:label="Layer 1" />
+        <g
+           transform="translate(25.895786,72.958614)"
+           id="layer1-2"
+           inkscape:label="Layer 1">
+          <path
+             sodipodi:nodetypes="cccsccc"
+             inkscape:connector-curvature="0"
+             id="path3938"
+             d="m 192,302 c -506.43598,-480.56952 816,-576 240,24 258.0872,-41.4821 896.6361,3.3633 864,0 -589.47908,-255.9176 -211.5858,-859.07394 288,-840 363.223,13.86768 385.3341,373.39529 346.3071,600.04878 -32.909,266.64665 -309.5487,393.38803 -484.6361,442.42238 C 1032.5382,639.22967 51.653355,961.5543 1899.348,839.44493"
+             style="fill:none;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
