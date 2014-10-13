@@ -27,7 +27,7 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="878"
+     inkscape:window-height="880"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -39,12 +39,13 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="500.70746"
+     inkscape:cx="73.951387"
      inkscape:cy="1377.6746"
-     inkscape:window-x="-1"
-     inkscape:window-y="-1"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
      inkscape:current-layer="layer1"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false">
     <sodipodi:guide
        orientation="horizontal"
        position="0,600"
@@ -84,9 +85,9 @@
      transform="translate(0,1048)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 384,-152 c 32.495,-673.22667 543.75465,-463.55311 537.91027,46.72512 C 912,760 336,184 415.15008,91.115008 432,568 -240,400 181.59024,-39.463077 636.15283,-441.09485 1319.7163,-247.677 1369.0772,40.305273 1438.7251,376 1008,520 1074.9392,18.787145 1152,-440 1244.885,-517.30995 1232.2985,-981.71354"
+       d="m 384,-194 c 32.495,-673.22667 543.75465,-463.55311 537.91027,46.72512 C 912,718 336,142 415.15008,49.115008 432,526 -240,358 181.59024,-81.463077 636.15283,-483.09485 1423.011,-294.71528 1459.4124,-4.8097348 1501.0281,326.62307 1092.1052,577.34502 1118.5493,-23.212855 1133.3099,-522.4951 1322.6337,-983.2184 1322.6337,-983.2184"
        id="path7161"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccccc" />
+       sodipodi:nodetypes="csccscc" />
   </g>
 </svg>
