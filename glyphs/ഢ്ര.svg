@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ഢ.svg">
+   sodipodi:docname="ഢ്ര.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -25,6 +25,14 @@
        effect="spiro"
        id="path-effect3801"
        is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3846-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3801-4"
+       effect="spiro" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="853"
@@ -40,11 +48,12 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
      inkscape:cx="981.78163"
-     inkscape:cy="1199.8076"
+     inkscape:cy="1075.2073"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:current-layer="layer1"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false">
     <sodipodi:guide
        orientation="horizontal"
        position="0,600"
@@ -73,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,5 +97,11 @@
        id="path3858"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccsc" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4159-7"
+       d="M 2143.3473,-13.597849 C 2179.4161,843.72377 1385.9782,815.90308 1263.7373,817.97719 958.85519,823.15027 -409.94877,915.17371 -90.471961,-541.17092"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
