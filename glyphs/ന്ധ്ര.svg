@@ -14,7 +14,7 @@
    id="svg2992"
    version="1.1"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="ന്ധ.svg">
+   sodipodi:docname="ന്ധ്ര.svg">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -38,9 +38,9 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.16051324"
-     inkscape:cx="1025.7267"
-     inkscape:cy="1351.4431"
+     inkscape:zoom="0.32102648"
+     inkscape:cx="1494.1978"
+     inkscape:cy="303.5357"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:current-layer="layer1"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,5 +89,11 @@
        id="path3879"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2862.4622,-37.2976 c 0,0 84.3352,981.22746 -1301.8432,962.53744 C 948.67257,916.98888 -289.69578,1090.3352 -15.575052,-560.61893"
+       id="path4159"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>
