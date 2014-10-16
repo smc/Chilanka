@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1413383433
+ModificationTime: 1413458206
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -757,17 +757,18 @@ LangName: 1100 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DRoNPw0yD
 LangName: 1033 "" "" "Regular" "Chilanka2014SMC" "" "1.0.0-alpha" "" "" "" "Santhosh Thottingal" "Handwriting style font for Malayalam+AAoA" "https://savannah.nongnu.org/projects/smc" "http://smc.org.in+AAoACgAA-hussain.rachana@gmail.com; psuresh@riseup.net; psuresh@gmx.com; santhosh.thottingal@gmail.com; rajeeshknambiar@gmail.com" "Copyright (c) 2014, Santhosh Thottingal, Kavya Manohar, http://smc.org.in+AAoA-with Reserved Font Name Chilanka.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Chilanka" "Regular" "Chilanka" 
 GaspTable: 1 65535 15 1
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 320 32 11
+WinInfo: 288 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
-BeginChars: 649 647
+BeginChars: 649 636
 
 StartChar: .notdef
 Encoding: 121 -1 0
@@ -5559,7 +5560,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1031 -252 2
+Refer: 630 -1 N 1 0 0 1 1031 -252 2
 Refer: 119 -1 N 1 0 0 1 77 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y2 u1
 LCarets2: 1 3 
@@ -5573,7 +5574,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 821 -289 2
+Refer: 631 -1 N 1 0 0 1 821 -289 2
 Refer: 119 -1 N 1 0 0 1 65 -7 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y2 u2
 LCarets2: 1 4 
@@ -6324,7 +6325,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 639 3426 S 0.925653 0 0 1.12845 1288 60 2
+Refer: 628 3426 S 0.925653 0 0 1.12845 1288 60 2
 Refer: 55 3349 S 0.9 0 0 0.9 10 24 2
 LCarets2: 1 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 l1
@@ -6829,7 +6830,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2808 63 2
+Refer: 630 -1 N 1 0 0 1 2808 63 2
 Refer: 137 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1k1r3 u1
 LCarets2: 1 0 
@@ -6843,7 +6844,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2712 75 2
+Refer: 631 -1 N 1 0 0 1 2712 75 2
 Refer: 137 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1k1r3 u2
 LCarets2: 1 0 
@@ -7421,7 +7422,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2286 24 2
+Refer: 630 -1 N 1 0 0 1 2286 24 2
 Refer: 147 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1r3 u1
 LCarets2: 1 0 
@@ -7435,7 +7436,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2207 36 2
+Refer: 631 -1 N 1 0 0 1 2207 36 2
 Refer: 147 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1r3 u2
 LCarets2: 1 0 
@@ -7450,7 +7451,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 55 3349 N 1 0 0 1 22 0 2
-Refer: 633 -1 N 0.839852 0 0 1.06554 1543 116 2
+Refer: 622 -1 N 0.839852 0 0 1.06554 1543 116 2
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k1 l4
 LCarets2: 1 0 
@@ -7464,9 +7465,9 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2043 -369 2
+Refer: 630 -1 N 1 0 0 1 2043 -369 2
 Refer: 55 3349 N 1 0 0 1 0 0 2
-Refer: 633 -1 N 0.783389 0 0 1 1475 78 2
+Refer: 622 -1 N 0.783389 0 0 1 1475 78 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1l3 u1
 LCarets2: 1 0 
 EndChar
@@ -7479,9 +7480,9 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1974 -347 2
+Refer: 631 -1 N 1 0 0 1 1974 -347 2
 Refer: 55 3349 N 1 0 0 1 0 0 2
-Refer: 633 -1 N 0.783389 0 0 1 1466 60 2
+Refer: 622 -1 N 0.783389 0 0 1 1466 60 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1l3 u2
 LCarets2: 1 0 
 EndChar
@@ -7585,7 +7586,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 2136 138 2
+Refer: 635 -1 N 1 0 0 1 2136 138 2
 Refer: 153 -1 N 1 0 0 1 66 10 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1sh u1
 LCarets2: 1 0 
@@ -7599,7 +7600,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2883 183 2
+Refer: 631 -1 N 1 0 0 1 2883 183 2
 Refer: 153 -1 N 1 0 0 1 66 18 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k1sh u2
 LCarets2: 1 0 
@@ -7612,7 +7613,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2145 135 2
+Refer: 630 -1 N 1 0 0 1 2145 135 2
 Refer: 56 3350 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k2 u1
 LCarets2: 1 0 
@@ -7625,7 +7626,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2062 162 2
+Refer: 631 -1 N 1 0 0 1 2062 162 2
 Refer: 56 3350 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k2 u2
 LCarets2: 1 0 
@@ -7638,7 +7639,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 777 77.0661 2
+Refer: 634 -1 N 1 0 0 1 777 77.0661 2
 Refer: 56 3350 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k2 r1
 LCarets2: 1 -141 
@@ -7964,7 +7965,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2094 114 2
+Refer: 630 -1 N 1 0 0 1 2094 114 2
 Refer: 166 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3th3 u1
 LCarets2: 1 0 
@@ -7978,7 +7979,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2025 129 2
+Refer: 631 -1 N 1 0 0 1 2025 129 2
 Refer: 166 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3th3 u2
 LCarets2: 1 0 
@@ -8135,7 +8136,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3093 126 2
+Refer: 630 -1 N 1 0 0 1 3093 126 2
 Refer: 170 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3th3th4 u1
 LCarets2: 1 0 
@@ -8149,7 +8150,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 3036 156 2
+Refer: 631 -1 S 1 0 0 1 3036 156 2
 Refer: 170 -1 S 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3th3th4 u2
 LCarets2: 1 0 
@@ -8426,7 +8427,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2043 96 2
+Refer: 630 -1 N 1 0 0 1 2043 96 2
 Refer: 176 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3m1 u1
 LCarets2: 1 0 
@@ -8440,7 +8441,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1983 132 2
+Refer: 631 -1 N 1 0 0 1 1983 132 2
 Refer: 176 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3m1 u2
 LCarets2: 1 0 
@@ -8552,7 +8553,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 179 -1 N 1 0 0 1 2 0 2
-Refer: 641 -1 N 1 0 0 1 2184 69 2
+Refer: 630 -1 N 1 0 0 1 2184 69 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3r3 u1
 LCarets2: 1 3 
 EndChar
@@ -8565,7 +8566,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2091 84 2
+Refer: 631 -1 N 1 0 0 1 2091 84 2
 Refer: 179 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3r3 u2
 LCarets2: 1 -165 
@@ -8583,7 +8584,7 @@ SplineSet
 1460 -329 m 0
 EndSplineSet
 Refer: 57 3351 N 1 0 0 1 9 1 2
-Refer: 633 -1 N 0.832017 0 0 1 1385 30 2
+Refer: 622 -1 N 0.832017 0 0 1 1385 30 2
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k3xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k3 l4
 LCarets2: 1 0 
@@ -8597,7 +8598,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1887 -513 2
+Refer: 630 -1 N 1 0 0 1 1887 -513 2
 Refer: 182 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3l3 u1
 LCarets2: 1 0 
@@ -8611,7 +8612,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1905 -390 2
+Refer: 631 -1 N 1 0 0 1 1905 -390 2
 Refer: 182 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k3l3 u2
 LCarets2: 1 0 
@@ -8625,7 +8626,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3162 63 2
+Refer: 630 -1 N 1 0 0 1 3162 63 2
 Refer: 58 3352 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k4 u1
 LCarets2: 1 0 
@@ -8639,7 +8640,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3061 72 2
+Refer: 631 -1 N 1 0 0 1 3061 72 2
 Refer: 58 3352 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k4 u2
 LCarets2: 1 0 
@@ -8653,7 +8654,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1723 -148 2
+Refer: 634 -1 N 1 0 0 1 1723 -148 2
 Refer: 58 3352 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k4 r1
 LCarets2: 1 0 
@@ -8752,7 +8753,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3364 76 2
+Refer: 630 -1 N 1 0 0 1 3364 76 2
 Refer: 188 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k4r3 u1
 LCarets2: 1 0 
@@ -8766,7 +8767,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3247 8 2
+Refer: 631 -1 N 1 0 0 1 3247 8 2
 Refer: 188 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k4r3 u2
 LCarets2: 1 0 
@@ -8780,7 +8781,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2168 165 2
+Refer: 630 -1 N 1 0 0 1 2168 165 2
 Refer: 59 3353 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ng u1
 LCarets2: 1 0 
@@ -8794,7 +8795,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2099 219 2
+Refer: 631 -1 N 1 0 0 1 2099 219 2
 Refer: 59 3353 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ng u2
 LCarets2: 1 0 
@@ -9239,7 +9240,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 S 1 0 0 1 2031 78 2
+Refer: 635 -1 S 1 0 0 1 2031 78 2
 Refer: 197 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ngng u1
 LCarets2: 1 0 
@@ -9253,7 +9254,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2883 150 2
+Refer: 631 -1 N 1 0 0 1 2883 150 2
 Refer: 197 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ngng u2
 LCarets2: 1 0 
@@ -9267,7 +9268,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2181 192 2
+Refer: 630 -1 N 1 0 0 1 2181 192 2
 Refer: 60 3354 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch1 u1
 LCarets2: 1 0 
@@ -9281,7 +9282,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 1908 72 2
+Refer: 631 -1 S 1 0 0 1 1908 72 2
 Refer: 60 3354 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch1 u2
 LCarets2: 1 0 
@@ -9361,7 +9362,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1302 150 2
+Refer: 635 -1 N 1 0 0 1 1302 150 2
 Refer: 202 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch1ch1 u1
 LCarets2: 1 0 
@@ -9375,7 +9376,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2103 252 2
+Refer: 631 -1 N 1 0 0 1 2103 252 2
 Refer: 202 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch1ch1 u2
 LCarets2: 1 0 
@@ -10858,7 +10859,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2880 -309 2
+Refer: 630 -1 N 1 0 0 1 2880 -309 2
 Refer: 217 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch3r3 u1
 LCarets2: 1 0 
@@ -10872,7 +10873,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2598 -435 2
+Refer: 631 -1 N 1 0 0 1 2598 -435 2
 Refer: 217 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch3r3 u2
 LCarets2: 1 0 
@@ -10886,7 +10887,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3114 78 2
+Refer: 630 -1 N 1 0 0 1 3114 78 2
 Refer: 63 3357 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch4 u1
 LCarets2: 1 0 
@@ -10900,7 +10901,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3126 129 2
+Refer: 631 -1 N 1 0 0 1 3126 129 2
 Refer: 63 3357 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" ch4 u2
 LCarets2: 1 0 
@@ -10914,7 +10915,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2477 138 2
+Refer: 630 -1 N 1 0 0 1 2477 138 2
 Refer: 64 3358 N 1 0 0 1 8 12 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nj u1
 LCarets2: 1 0 
@@ -10928,7 +10929,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2352 143 2
+Refer: 631 -1 N 1 0 0 1 2352 143 2
 Refer: 64 3358 N 1 0 0 1 14 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nj u2
 LCarets2: 1 0 
@@ -11037,7 +11038,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3092 157 2
+Refer: 630 -1 N 1 0 0 1 3092 157 2
 Refer: 224 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" njch1 u1
 LCarets2: 1 0 
@@ -11051,7 +11052,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3014 159 2
+Refer: 631 -1 N 1 0 0 1 3014 159 2
 Refer: 224 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" njch1 u2
 LCarets2: 1 0 
@@ -11065,7 +11066,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1683 6 2
+Refer: 634 -1 N 1 0 0 1 1683 6 2
 Refer: 224 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" njch1 r1
 LCarets2: 1 -224 
@@ -11593,7 +11594,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3670 120 2
+Refer: 630 -1 N 1 0 0 1 3670 120 2
 Refer: 231 -1 N 1 0 0 1 1 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" njnj u1
 LCarets2: 1 0 
@@ -11607,7 +11608,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3586 150 2
+Refer: 631 -1 N 1 0 0 1 3586 150 2
 Refer: 231 -1 N 1 0 0 1 1 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" njnj u2
 LCarets2: 1 0 
@@ -11621,7 +11622,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 501 66 2
+Refer: 635 -1 N 1 0 0 1 501 66 2
 Refer: 65 3359 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1 u1
 LCarets2: 1 0 
@@ -11635,7 +11636,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1299 129 2
+Refer: 631 -1 N 1 0 0 1 1299 129 2
 Refer: 65 3359 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1 u2
 LCarets2: 1 0 
@@ -11766,7 +11767,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1542 -374 2
+Refer: 630 -1 N 1 0 0 1 1542 -374 2
 Refer: 237 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1t1 u1
 LCarets2: 1 0 
@@ -11780,7 +11781,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1413 -345 2
+Refer: 631 -1 N 1 0 0 1 1413 -345 2
 Refer: 237 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1t1 u2
 LCarets2: 1 0 
@@ -11847,7 +11848,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 978 39 2
+Refer: 635 -1 N 1 0 0 1 978 39 2
 Refer: 240 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1r3 u1
 LCarets2: 1 0 
@@ -11861,7 +11862,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1782 147 2
+Refer: 631 -1 N 1 0 0 1 1782 147 2
 Refer: 240 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t1r3 u2
 LCarets2: 1 0 
@@ -11875,7 +11876,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 603 99 2
+Refer: 635 -1 N 1 0 0 1 603 99 2
 Refer: 66 3360 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t2 u1
 LCarets2: 1 0 
@@ -11889,7 +11890,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1396 153 2
+Refer: 631 -1 N 1 0 0 1 1396 153 2
 Refer: 66 3360 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t2 u2
 LCarets2: 1 0 
@@ -11903,7 +11904,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2386 100 2
+Refer: 630 -1 N 1 0 0 1 2386 100 2
 Refer: 67 3361 N 1 0 0 1 -45 13 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3 u1
 LCarets2: 1 0 
@@ -11917,7 +11918,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2323 99 2
+Refer: 631 -1 N 1 0 0 1 2323 99 2
 Refer: 67 3361 N 1 0 0 1 -45 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3 u2
 LCarets2: 1 0 
@@ -12010,7 +12011,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 0.98627 0 0 1 2588 -407 2
+Refer: 630 -1 N 0.98627 0 0 1 2588 -407 2
 Refer: 248 -1 N 1 0 0 1 -60 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3t3 u1
 LCarets2: 1 0 
@@ -12024,7 +12025,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2404 -408 2
+Refer: 631 -1 N 1 0 0 1 2404 -408 2
 Refer: 248 -1 N 1 0 0 1 -60 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3t3 u2
 LCarets2: 1 -195 
@@ -12053,7 +12054,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2385 -516 2
+Refer: 630 -1 N 1 0 0 1 2385 -516 2
 Refer: 251 -1 N 1 0 0 1 -7 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3t4 u1
 LCarets2: 1 -195 
@@ -12235,7 +12236,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2720 -156 2
+Refer: 630 -1 N 1 0 0 1 2720 -156 2
 Refer: 254 -1 S 1 0 0 1 -49 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3r3 u1
 LCarets2: 1 -217 
@@ -12249,7 +12250,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2520 -124 2
+Refer: 631 -1 N 1 0 0 1 2520 -124 2
 Refer: 254 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t3r3 u2
 LCarets2: 1 -217 
@@ -12263,7 +12264,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 2262 45 2
+Refer: 630 -1 S 1 0 0 1 2262 45 2
 Refer: 68 3362 S 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t4 u1
 LCarets2: 1 0 
@@ -12277,7 +12278,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2088 51 2
+Refer: 631 -1 N 1 0 0 1 2088 51 2
 Refer: 68 3362 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t4 u2
 LCarets2: 1 0 
@@ -12439,7 +12440,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2765 -132 2
+Refer: 630 -1 N 1 0 0 1 2765 -132 2
 Refer: 260 -1 S 1 0 0 1 -47 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t4r3 u1
 LCarets2: 1 -222 
@@ -12453,7 +12454,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2565 -148 2
+Refer: 631 -1 N 1 0 0 1 2565 -148 2
 Refer: 260 -1 S 1 0 0 1 -47 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" t4r3 u2
 LCarets2: 1 -222 
@@ -12733,7 +12734,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 2295 45 2
+Refer: 635 -1 N 1 0 0 1 2295 45 2
 Refer: 265 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nht1 u1
 LCarets2: 1 0 
@@ -12747,7 +12748,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2898 14 2
+Refer: 631 -1 N 1 0 0 1 2898 14 2
 Refer: 265 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nht1 u2
 LCarets2: 1 0 
@@ -12876,7 +12877,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 3862 50 2
+Refer: 630 -1 S 1 0 0 1 3862 50 2
 Refer: 269 -1 N 1 0 0 1 2 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nht3 u1
 LCarets2: 1 -300 
@@ -12890,7 +12891,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3791 75 2
+Refer: 631 -1 N 1 0 0 1 3791 75 2
 Refer: 269 -1 N 1 0 0 1 2 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nht3 u2
 LCarets2: 1 0 
@@ -13025,7 +13026,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 2184 75 2
+Refer: 635 -1 N 1 0 0 1 2184 75 2
 Refer: 275 -1 N 1 0 0 1 -43 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nhm1 u1
 LCarets2: 1 -215 
@@ -13039,7 +13040,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2773 -20 2
+Refer: 631 -1 N 1 0 0 1 2773 -20 2
 Refer: 275 -1 N 1 0 0 1 -43 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" nhm1 u2
 LCarets2: 1 -215 
@@ -13747,7 +13748,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3312 -48 2
+Refer: 630 -1 N 1 0 0 1 3312 -48 2
 Refer: 285 -1 N 1 0 0 1 -47 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1th1r3 u1
 LCarets2: 1 -263 
@@ -13761,7 +13762,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3060 -128 2
+Refer: 631 -1 N 1 0 0 1 3060 -128 2
 Refer: 285 -1 N 1 0 0 1 -47 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1th1r3 u2
 LCarets2: 1 -263 
@@ -13863,7 +13864,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 S 1 0 0 1 2187 87 2
+Refer: 635 -1 S 1 0 0 1 2187 87 2
 Refer: 288 -1 S 1 0 0 1 -43 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1th2 u1
 LCarets2: 1 0 
@@ -13877,7 +13878,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2967 69 2
+Refer: 631 -1 N 1 0 0 1 2967 69 2
 Refer: 288 -1 S 1 0 0 1 -43 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1th2 u2
 LCarets2: 1 0 
@@ -13891,7 +13892,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 S 1 0 0 1 1839 83 2
+Refer: 634 -1 S 1 0 0 1 1839 83 2
 Refer: 288 -1 S 1 0 0 1 -43 -4 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1th2 r1
 LCarets2: 1 0 
@@ -14299,7 +14300,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2958 84 2
+Refer: 630 -1 N 1 0 0 1 2958 84 2
 Refer: 296 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1m1 u1
 LCarets2: 1 0 
@@ -14313,7 +14314,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2862 87 2
+Refer: 631 -1 N 1 0 0 1 2862 87 2
 Refer: 296 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1m1 u2
 LCarets2: 1 0 
@@ -14327,7 +14328,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1557 -54 2
+Refer: 634 -1 N 1 0 0 1 1557 -54 2
 Refer: 296 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1m1 r1
 LCarets2: 1 -208 
@@ -14408,7 +14409,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2505 51 2
+Refer: 630 -1 N 1 0 0 1 2505 51 2
 Refer: 300 -1 N 1 0 0 1 -0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1r3 u1
 LCarets2: 1 0 
@@ -14422,7 +14423,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2403 39 2
+Refer: 631 -1 N 1 0 0 1 2403 39 2
 Refer: 300 -1 N 1 0 0 1 -0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1r3 u2
 LCarets2: 1 3 
@@ -14437,7 +14438,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 70 3364 S 1 0 0 1 0 0 2
-Refer: 633 -1 S 0.923826 0 0 0.920726 1537 39 2
+Refer: 622 -1 S 0.923826 0 0 0.920726 1537 39 2
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" th1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" th1 l4
 LCarets2: 1 0 
@@ -14451,9 +14452,9 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 2124 -327 2
+Refer: 630 -1 S 1 0 0 1 2124 -327 2
 Refer: 70 3364 S 1 0 0 1 0 0 2
-Refer: 633 -1 S 0.923826 0 0 0.920726 1537 39 2
+Refer: 622 -1 S 0.923826 0 0 0.920726 1537 39 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1l3 u1
 LCarets2: 1 0 
 EndChar
@@ -14466,9 +14467,9 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1989 -321 2
+Refer: 631 -1 N 1 0 0 1 1989 -321 2
 Refer: 70 3364 N 1 0 0 1 0 0 2
-Refer: 633 -1 N 0.923826 0 0 0.920726 1537 39 2
+Refer: 622 -1 N 0.923826 0 0 0.920726 1537 39 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th1l3 u2
 LCarets2: 1 0 
 EndChar
@@ -14797,7 +14798,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 963 81 2
+Refer: 635 -1 N 1 0 0 1 963 81 2
 Refer: 71 3365 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th2 u1
 LCarets2: 1 0 
@@ -14811,7 +14812,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1771 88 2
+Refer: 631 -1 N 1 0 0 1 1771 88 2
 Refer: 71 3365 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th2 u2
 LCarets2: 1 0 
@@ -14825,7 +14826,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 717 42 2
+Refer: 635 -1 N 1 0 0 1 717 42 2
 Refer: 72 3366 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3 u1
 LCarets2: 1 0 
@@ -14839,7 +14840,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1372 51 2
+Refer: 631 -1 N 1 0 0 1 1372 51 2
 Refer: 72 3366 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3 u2
 LCarets2: 1 0 
@@ -14978,7 +14979,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 1689 -384 2
+Refer: 630 -1 S 1 0 0 1 1689 -384 2
 Refer: 315 -1 S 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3th3 u1
 LCarets2: 1 0 
@@ -14992,7 +14993,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1584 -408 2
+Refer: 631 -1 N 1 0 0 1 1584 -408 2
 Refer: 315 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3th3 u2
 LCarets2: 1 0 
@@ -15076,7 +15077,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2340 42 2
+Refer: 630 -1 N 1 0 0 1 2340 42 2
 Refer: 318 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3th4 u1
 LCarets2: 1 0 
@@ -15090,7 +15091,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1.10185 0 0 1.07709 2414 87 2
+Refer: 631 -1 N 1.10185 0 0 1.07709 2414 87 2
 Refer: 318 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3th4 u2
 LCarets2: 1 0 
@@ -15191,7 +15192,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1173 -87 2
+Refer: 635 -1 N 1 0 0 1 1173 -87 2
 Refer: 321 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3r3 u1
 LCarets2: 1 0 
@@ -15205,7 +15206,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1692 -231 2
+Refer: 631 -1 N 1 0 0 1 1692 -231 2
 Refer: 321 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th3r3 u2
 LCarets2: 1 0 
@@ -15219,7 +15220,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 906.806 63 2
+Refer: 635 -1 N 1 0 0 1 906.806 63 2
 Refer: 73 3367 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4 u1
 LCarets2: 1 0 
@@ -15233,7 +15234,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1697.81 135 2
+Refer: 631 -1 N 1 0 0 1 1697.81 135 2
 Refer: 73 3367 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4 u2
 LCarets2: 1 0 
@@ -15387,7 +15388,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2436 18 2
+Refer: 630 -1 N 1 0 0 1 2436 18 2
 Refer: 327 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4r3 u1
 LCarets2: 1 0 
@@ -15401,7 +15402,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2340 15 2
+Refer: 631 -1 N 1 0 0 1 2340 15 2
 Refer: 327 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th4r3 u2
 LCarets2: 1 0 
@@ -16032,7 +16033,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2757 15 2
+Refer: 630 -1 N 1 0 0 1 2757 15 2
 Refer: 337 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th1r3 u1
 LCarets2: 1 0 
@@ -16046,7 +16047,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 2550 -99 2
+Refer: 631 -1 S 1 0 0 1 2550 -99 2
 Refer: 337 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th1r3 u2
 LCarets2: 1 0 
@@ -16060,7 +16061,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 644 -1 N 1.09832 0 0 1 1138 0 2
+Refer: 633 -1 N 1.09832 0 0 1 1138 0 2
 Refer: 74 3368 N 1 0 0 1 0 0 2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th2
@@ -16075,8 +16076,8 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3052 102 2
-Refer: 644 -1 N 1.09832 0 0 1 1166 -4 2
+Refer: 630 -1 N 1 0 0 1 3052 102 2
+Refer: 633 -1 N 1.09832 0 0 1 1166 -4 2
 Refer: 74 3368 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th2 u1
 LCarets2: 1 0 
@@ -16090,8 +16091,8 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 2865 18 2
-Refer: 644 -1 N 1.09832 0 0 1 1230 -2 2
+Refer: 631 -1 S 1 0 0 1 2865 18 2
+Refer: 633 -1 N 1.09832 0 0 1 1230 -2 2
 Refer: 74 3368 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th2 u2
 LCarets2: 1 0 
@@ -16105,7 +16106,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1545 -87 2
+Refer: 634 -1 N 1 0 0 1 1545 -87 2
 Refer: 340 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th2 r1
 LCarets2: 1 -227 
@@ -16181,7 +16182,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1320 27 2
+Refer: 635 -1 N 1 0 0 1 1320 27 2
 Refer: 344 -1 N 1 0 0 1 -0.000190735 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th3 u1
 LCarets2: 1 0 
@@ -16195,7 +16196,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1970 110 2
+Refer: 631 -1 N 1 0 0 1 1970 110 2
 Refer: 344 -1 N 1 0 0 1 -0.000190735 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th3 u2
 LCarets2: 1 0 
@@ -16351,7 +16352,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2547.11 -45 2
+Refer: 630 -1 N 1 0 0 1 2547.11 -45 2
 Refer: 348 -1 N 1 0 0 1 0.11409 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th3r3 u1
 LCarets2: 1 0 
@@ -16365,7 +16366,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2298.82 -117 2
+Refer: 631 -1 N 1 0 0 1 2298.82 -117 2
 Refer: 348 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th3r3 u2
 LCarets2: 1 0 
@@ -16460,7 +16461,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3147 93 2
+Refer: 630 -1 N 1 0 0 1 3147 93 2
 Refer: 351 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th4 u1
 LCarets2: 1 0 
@@ -16474,7 +16475,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3123 84 2
+Refer: 631 -1 N 1 0 0 1 3123 84 2
 Refer: 351 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1th4 u2
 LCarets2: 1 0 
@@ -17119,7 +17120,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3193 78 2
+Refer: 630 -1 N 1 0 0 1 3193 78 2
 Refer: 361 -1 N 1 0 0 1 1 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1n1r3 u1
 LCarets2: 1 0 
@@ -17133,7 +17134,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3097 69 2
+Refer: 631 -1 N 1 0 0 1 3097 69 2
 Refer: 361 -1 N 1 0 0 1 1 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1n1r3 u2
 LCarets2: 1 0 
@@ -17209,7 +17210,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1314 78 2
+Refer: 635 -1 N 1 0 0 1 1314 78 2
 Refer: 364 -1 N 1 0 0 1 -0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1m1 u1
 LCarets2: 1 0 
@@ -17223,7 +17224,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2028 162 2
+Refer: 631 -1 N 1 0 0 1 2028 162 2
 Refer: 364 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1m1 u2
 LCarets2: 1 0 
@@ -17237,7 +17238,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 777 18 2
+Refer: 634 -1 N 1 0 0 1 777 18 2
 Refer: 364 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1m1 r1
 LCarets2: 1 0 
@@ -17311,7 +17312,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2391 24 2
+Refer: 630 -1 N 1 0 0 1 2391 24 2
 Refer: 368 -1 N 1 0 0 1 -0.000221252 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1r3 u1
 LCarets2: 1 0 
@@ -17325,7 +17326,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2277 -12 2
+Refer: 631 -1 N 1 0 0 1 2277 -12 2
 Refer: 368 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1r3 u2
 LCarets2: 1 0 
@@ -17354,7 +17355,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 616 -1 N 0.952537 0 0 0.762486 856 -666 2
+Refer: 605 -1 N 0.952537 0 0 0.762486 856 -666 2
 Refer: 125 -1 N 0.99156 0 0 0.942849 1 81 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1rh u1
 LCarets2: 1 0 
@@ -17369,7 +17370,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 125 -1 N 0.99156 0 0 0.942849 1 81 2
-Refer: 617 -1 N 0.948785 0 0 0.67603 874 -564 2
+Refer: 606 -1 N 0.948785 0 0 0.67603 874 -564 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" n1rh u2
 LCarets2: 1 0 
 EndChar
@@ -17382,7 +17383,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1500 126 2
+Refer: 635 -1 N 1 0 0 1 1500 126 2
 Refer: 75 3370 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1 u1
 LCarets2: 1 0 
@@ -17396,7 +17397,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2082 54 2
+Refer: 631 -1 N 1 0 0 1 2082 54 2
 Refer: 75 3370 N 1 0 0 1 12 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1 u2
 LCarets2: 1 0 
@@ -17410,7 +17411,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 966 81 2
+Refer: 634 -1 N 1 0 0 1 966 81 2
 Refer: 75 3370 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1 r1
 LCarets2: 1 0 
@@ -17589,7 +17590,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1515 123 2
+Refer: 635 -1 N 1 0 0 1 1515 123 2
 Refer: 384 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1p1 u1
 LCarets2: 1 0 
@@ -17603,7 +17604,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2100 57 2
+Refer: 631 -1 N 1 0 0 1 2100 57 2
 Refer: 384 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1p1 u2
 LCarets2: 1 0 
@@ -17617,7 +17618,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 957 54 2
+Refer: 634 -1 N 1 0 0 1 957 54 2
 Refer: 384 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1p1 r1
 LCarets2: 1 0 
@@ -17709,7 +17710,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2676 -123 2
+Refer: 630 -1 N 1 0 0 1 2676 -123 2
 Refer: 389 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1r3 u1
 LCarets2: 1 0 
@@ -17723,7 +17724,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2538 -201 2
+Refer: 631 -1 N 1 0 0 1 2538 -201 2
 Refer: 389 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1r3 u2
 LCarets2: 1 0 
@@ -17736,7 +17737,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 633 -1 N 0.85395 0 0 0.964062 1798 29 2
+Refer: 622 -1 N 0.85395 0 0 0.964062 1798 29 2
 Refer: 75 3370 N 1 0 0 1 12 0 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p1 l4
@@ -17751,7 +17752,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2475 -228 2
+Refer: 630 -1 N 1 0 0 1 2475 -228 2
 Refer: 392 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1l3 u1
 LCarets2: 1 0 
@@ -17765,7 +17766,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2382 -255 2
+Refer: 631 -1 N 1 0 0 1 2382 -255 2
 Refer: 392 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p1l3 u2
 LCarets2: 1 0 
@@ -17779,7 +17780,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2490 180 2
+Refer: 630 -1 N 1 0 0 1 2490 180 2
 Refer: 76 3371 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2 u1
 LCarets2: 1 0 
@@ -17793,7 +17794,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2409 195 2
+Refer: 631 -1 N 1 0 0 1 2409 195 2
 Refer: 76 3371 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2 u2
 LCarets2: 1 0 
@@ -17883,7 +17884,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2877 24 2
+Refer: 630 -1 N 1 0 0 1 2877 24 2
 Refer: 397 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2r3 u1
@@ -17896,7 +17897,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2751 -30 2
+Refer: 631 -1 N 1 0 0 1 2751 -30 2
 Refer: 397 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2r3 u2
@@ -17909,7 +17910,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 633 -1 S 1 0 0 1 1935 18 2
+Refer: 622 -1 S 1 0 0 1 1935 18 2
 Refer: 76 3371 S 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p2xx l3
@@ -17923,8 +17924,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2508 -411 2
-Refer: 633 -1 N 1 0 0 1 1935 18 2
+Refer: 630 -1 N 1 0 0 1 2508 -411 2
+Refer: 622 -1 N 1 0 0 1 1935 18 2
 Refer: 76 3371 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2l3 u1
@@ -17937,8 +17938,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2542 -416 2
-Refer: 633 -1 N 1 0 0 1 1977 33 2
+Refer: 631 -1 N 1 0 0 1 2542 -416 2
+Refer: 622 -1 N 1 0 0 1 1977 33 2
 Refer: 76 3371 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p2l3 u2
@@ -17951,7 +17952,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1632 104 2
+Refer: 635 -1 N 1 0 0 1 1632 104 2
 Refer: 77 3372 N 1 0 0 1 44 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3 u1
@@ -17964,7 +17965,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2331 120 2
+Refer: 631 -1 N 1 0 0 1 2331 120 2
 Refer: 77 3372 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3 u2
@@ -17977,7 +17978,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1015 36 2
+Refer: 634 -1 N 1 0 0 1 1015 36 2
 Refer: 77 3372 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3 r1
@@ -18085,7 +18086,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2565 -228 2
+Refer: 630 -1 N 1 0 0 1 2565 -228 2
 Refer: 406 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3p3 u1
@@ -18098,7 +18099,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2460 -252 2
+Refer: 631 -1 N 1 0 0 1 2460 -252 2
 Refer: 406 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3p3 u2
@@ -18200,7 +18201,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2838 -6 2
+Refer: 630 -1 N 1 0 0 1 2838 -6 2
 Refer: 409 -1 N 1 0 0 1 -0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3r3 u1
@@ -18213,7 +18214,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2733 3 2
+Refer: 631 -1 N 1 0 0 1 2733 3 2
 Refer: 409 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3r3 u2
@@ -18226,7 +18227,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 633 -1 N 1 0 0 1 1869 18 2
+Refer: 622 -1 N 1 0 0 1 1869 18 2
 Refer: 77 3372 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p3xx l3
@@ -18240,8 +18241,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2457 -369 2
-Refer: 633 -1 N 1 0 0 1 1869 18 2
+Refer: 630 -1 N 1 0 0 1 2457 -369 2
+Refer: 622 -1 N 1 0 0 1 1869 18 2
 Refer: 77 3372 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3l3 u1
@@ -18254,8 +18255,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2379 -336 2
-Refer: 633 -1 N 1 0 0 1 1869 18 2
+Refer: 631 -1 N 1 0 0 1 2379 -336 2
+Refer: 622 -1 N 1 0 0 1 1869 18 2
 Refer: 77 3372 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p3l3 u2
@@ -18504,7 +18505,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1728 39 2
+Refer: 630 -1 N 1 0 0 1 1728 39 2
 Refer: 418 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p4r3 u1
@@ -18517,7 +18518,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1668 51 2
+Refer: 631 -1 N 1 0 0 1 1668 51 2
 Refer: 418 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" p4r3 u2
@@ -18530,7 +18531,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 894 63 2
+Refer: 635 -1 N 1 0 0 1 894 63 2
 Refer: 79 3374 N 1 0 0 1 -13 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1 u1
@@ -18543,7 +18544,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1482 27 2
+Refer: 631 -1 N 1 0 0 1 1482 27 2
 Refer: 79 3374 N 1 0 0 1 -13 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1 u2
@@ -18558,7 +18559,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 79 3374 N 1 0 0 1 -0 0 2
-Refer: 645 -1 N 1 0 0 1 360 -44 2
+Refer: 634 -1 N 1 0 0 1 360 -44 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1 r1
 EndChar
@@ -18651,7 +18652,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1506 87 2
+Refer: 635 -1 N 1 0 0 1 1506 87 2
 Refer: 424 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1p1 u1
@@ -18664,7 +18665,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2235 87 2
+Refer: 631 -1 N 1 0 0 1 2235 87 2
 Refer: 424 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1p1 u2
@@ -18679,7 +18680,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 0 0 2
-Refer: 645 -1 N 1 0 0 1 999 73 2
+Refer: 634 -1 N 1 0 0 1 999 73 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1p1 r1
 EndChar
@@ -18773,7 +18774,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2703 32 2
+Refer: 630 -1 N 1 0 0 1 2703 32 2
 Refer: 428 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1p1r3 u1
@@ -18786,7 +18787,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 2518 -96 2
+Refer: 631 -1 S 1 0 0 1 2518 -96 2
 Refer: 428 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1p1r3 u2
@@ -18879,7 +18880,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2721 90 2
+Refer: 630 -1 N 1 0 0 1 2721 90 2
 Refer: 431 -1 N 1 0 0 1 -0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1m1 u1
@@ -18892,7 +18893,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2625 96 2
+Refer: 631 -1 N 1 0 0 1 2625 96 2
 Refer: 431 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1m1 u2
@@ -18961,7 +18962,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2109.37 -63 2
+Refer: 630 -1 N 1 0 0 1 2109.37 -63 2
 Refer: 434 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1r3 u1
@@ -18974,7 +18975,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2016 -84 2
+Refer: 631 -1 N 1 0 0 1 2016 -84 2
 Refer: 434 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" m1r3 u2
@@ -18988,7 +18989,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 79 3374 N 1 0 0 1 -0 0 2
-Refer: 633 -1 N 0.766371 0 0 1.02352 1224 41 2
+Refer: 622 -1 N 0.766371 0 0 1.02352 1224 41 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" m1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" m1 l4
@@ -19001,7 +19002,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1317 126 2
+Refer: 635 -1 N 1 0 0 1 1317 126 2
 Refer: 80 3375 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 u1
@@ -19014,7 +19015,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1956 102 2
+Refer: 631 -1 N 1 0 0 1 1956 102 2
 Refer: 80 3375 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 u2
@@ -19138,7 +19139,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2324 -433 2
+Refer: 630 -1 N 1 0 0 1 2324 -433 2
 Refer: 447 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1ch1 u1
@@ -19151,7 +19152,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 2241 -417 2
+Refer: 631 -1 S 1 0 0 1 2241 -417 2
 Refer: 447 -1 S 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1ch1 u2
@@ -19313,7 +19314,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 0.891505 0 0 0.962362 2255 -474 2
+Refer: 630 -1 N 0.891505 0 0 0.962362 2255 -474 2
 Refer: 460 -1 N 1 0 0 1 -0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1p1 u1
@@ -19326,7 +19327,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 0.828807 0 0 0.972237 2218 -430 2
+Refer: 631 -1 N 0.828807 0 0 0.972237 2218 -430 2
 Refer: 460 -1 N 1 0 0 1 -0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1p1 u2
@@ -19354,7 +19355,7 @@ LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2304 -444 2
+Refer: 630 -1 N 1 0 0 1 2304 -444 2
 Refer: 79 3374 N 1.11345 0 0 0.801579 336 -625 2
 Refer: 80 3375 N 1.05176 0 0 0.88797 -5 115 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1m1 u1
@@ -19368,7 +19369,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2200 -468 2
+Refer: 631 -1 N 1 0 0 1 2200 -468 2
 Refer: 79 3374 N 1.12066 0 0 0.783521 336 -606 2
 Refer: 80 3375 N 1.05176 0 0 0.88797 -5 115 2
 LCarets2: 1 0 
@@ -19382,7 +19383,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 852 -604 2
+Refer: 634 -1 N 1 0 0 1 852 -604 2
 Refer: 79 3374 N 1.12787 0 0 0.817725 335 -642 2
 Refer: 80 3375 N 1.05176 0 0 0.88797 -5 115 2
 LCarets2: 1 0 
@@ -19480,7 +19481,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2103 -336 2
+Refer: 630 -1 N 1 0 0 1 2103 -336 2
 Refer: 467 -1 N 1 0 0 1 -0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2 u1
@@ -19494,7 +19495,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2013 -348 2
+Refer: 631 -1 N 1 0 0 1 2013 -348 2
 Refer: 467 -1 N 1 0 0 1 -0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2 u2
@@ -19632,7 +19633,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1131 123 2
+Refer: 635 -1 N 1 0 0 1 1131 123 2
 Refer: 83 3378 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3 u1
@@ -19645,7 +19646,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1860 135 2
+Refer: 631 -1 N 1 0 0 1 1860 135 2
 Refer: 83 3378 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3 u2
@@ -19766,7 +19767,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2156 -308 2
+Refer: 630 -1 N 1 0 0 1 2156 -308 2
 Refer: 481 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3p1 u1
@@ -19779,7 +19780,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1928 -352 2
+Refer: 631 -1 N 1 0 0 1 1928 -352 2
 Refer: 481 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3p1 u2
@@ -19793,7 +19794,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 83 3378 N 1 0 0 1 0 0 2
-Refer: 633 -1 N 0.931406 0 0 1.02127 1557 98 2
+Refer: 622 -1 N 0.931406 0 0 1.02127 1557 98 2
 LCarets2: 2 0 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" l3 l4
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx l3
@@ -19807,9 +19808,9 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 2146 -312 2
+Refer: 630 -1 S 1 0 0 1 2146 -312 2
 Refer: 83 3378 S 1 0 0 1 0 0 2
-Refer: 633 -1 S 0.931406 0 0 1.02127 1557 98 2
+Refer: 622 -1 S 0.931406 0 0 1.02127 1557 98 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3 l4 u1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3l3 u1
@@ -19822,9 +19823,9 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2010 -363 2
+Refer: 631 -1 N 1 0 0 1 2010 -363 2
 Refer: 83 3378 N 1 0 0 1 0 0 2
-Refer: 633 -1 N 0.931406 0 0 1.02127 1557 98 2
+Refer: 622 -1 N 0.931406 0 0 1.02127 1557 98 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3 l4 u2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" l3l3 u2
@@ -19837,7 +19838,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1224 99 2
+Refer: 635 -1 N 1 0 0 1 1224 99 2
 Refer: 86 3381 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 u1
@@ -19850,7 +19851,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1764 42 2
+Refer: 631 -1 N 1 0 0 1 1764 42 2
 Refer: 86 3381 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 u2
@@ -19863,7 +19864,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 753 69 2
+Refer: 634 -1 N 1 0 0 1 753 69 2
 Refer: 86 3381 N 1 0 0 1 -0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 r1
@@ -19932,7 +19933,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1614 -18 2
+Refer: 635 -1 N 1 0 0 1 1614 -18 2
 Refer: 490 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1r3 u1
@@ -19945,7 +19946,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 2211 -183 2
+Refer: 631 -1 S 1 0 0 1 2211 -183 2
 Refer: 490 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1r3 u2
@@ -19960,7 +19961,7 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 86 3381 N 1 0 0 1 -0 0 2
-Refer: 633 -1 N 0.905152 0 0 1 1641 9 2
+Refer: 622 -1 N 0.905152 0 0 1 1641 9 2
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" v1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" v1 l4
 LCarets2: 1 0 
@@ -19973,9 +19974,9 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 2015 -447 2
+Refer: 630 -1 S 1 0 0 1 2015 -447 2
 Refer: 86 3381 N 1 0 0 1 -0 0 2
-Refer: 633 -1 S 0.905152 0 0 1 1619 0 2
+Refer: 622 -1 S 0.905152 0 0 1 1619 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1l3 u1
 EndChar
@@ -19987,9 +19988,9 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1913 -462 2
+Refer: 631 -1 N 1 0 0 1 1913 -462 2
 Refer: 86 3381 N 1 0 0 1 -0 0 2
-Refer: 633 -1 N 0.905152 0 0 1 1640 15 2
+Refer: 622 -1 N 0.905152 0 0 1 1640 15 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1l3 u2
 EndChar
@@ -20001,7 +20002,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 643 -1 N 0.974378 0 0 0.984409 -124 190 2
+Refer: 632 -1 N 0.974378 0 0 0.984409 -124 190 2
 Refer: 86 3381 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" v1 xx v1
@@ -20015,8 +20016,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2178 -345 2
-Refer: 643 -1 N 1 0 0 1 -171 207 2
+Refer: 630 -1 N 1 0 0 1 2178 -345 2
+Refer: 632 -1 N 1 0 0 1 -171 207 2
 Refer: 86 3381 N 1 0 0 1 -0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 v2 u1
@@ -20030,8 +20031,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1.27405 0 0 1.10275 2126 -457 2
-Refer: 643 -1 N 1 0 0 1 -198 159 2
+Refer: 631 -1 N 1.27405 0 0 1.10275 2126 -457 2
+Refer: 632 -1 N 1 0 0 1 -198 159 2
 Refer: 86 3381 N 1 0 0 1 -0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 v2 u2
@@ -20387,7 +20388,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2847 93 2
+Refer: 630 -1 N 1 0 0 1 2847 93 2
 Refer: 502 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1ch1 u1
@@ -20400,7 +20401,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2547 -6 2
+Refer: 631 -1 N 1 0 0 1 2547 -6 2
 Refer: 502 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1ch1 u2
@@ -20551,7 +20552,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2659 33 2
+Refer: 630 -1 N 1 0 0 1 2659 33 2
 Refer: 508 -1 N 0.995273 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1r3 u1
@@ -20564,7 +20565,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2577 35 2
+Refer: 631 -1 N 1 0 0 1 2577 35 2
 Refer: 508 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1r3 u2
@@ -20577,7 +20578,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 633 -1 N 1 0 0 1 1559 33 2
+Refer: 622 -1 N 1 0 0 1 1559 33 2
 Refer: 87 3382 N 1 0 0 1 14 18 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" z1xx l3
@@ -20591,8 +20592,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2118 -440 2
-Refer: 633 -1 N 1 0 0 1 1566 -8 2
+Refer: 630 -1 N 1 0 0 1 2118 -440 2
+Refer: 622 -1 N 1 0 0 1 1566 -8 2
 Refer: 87 3382 N 1 0 0 1 12 18 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1l3 u1
@@ -20605,8 +20606,8 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2145 -405 2
-Refer: 633 -1 N 1 0 0 1 1656 -9 2
+Refer: 631 -1 N 1 0 0 1 2145 -405 2
+Refer: 622 -1 N 1 0 0 1 1656 -9 2
 Refer: 87 3382 N 1 0 0 1 27 18 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" z1l3 u2
@@ -20675,7 +20676,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 S 1 0 0 1 1413 93 2
+Refer: 635 -1 S 1 0 0 1 1413 93 2
 Refer: 88 3383 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sh u1
@@ -20688,7 +20689,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2110 96 2
+Refer: 631 -1 N 1 0 0 1 2110 96 2
 Refer: 88 3383 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sh u2
@@ -20701,7 +20702,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 933 30 2
+Refer: 634 -1 N 1 0 0 1 933 30 2
 Refer: 88 3383 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sh r1
@@ -20836,7 +20837,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2218 -363 2
+Refer: 630 -1 N 1 0 0 1 2218 -363 2
 Refer: 529 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sht1 u1
@@ -20849,7 +20850,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2087 -393 2
+Refer: 631 -1 N 1 0 0 1 2087 -393 2
 Refer: 529 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sht1 u2
@@ -20957,7 +20958,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2163 -408 2
+Refer: 630 -1 N 1 0 0 1 2163 -408 2
 Refer: 533 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sht2 u1
@@ -20970,7 +20971,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2064 -393 2
+Refer: 631 -1 N 1 0 0 1 2064 -393 2
 Refer: 533 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" sht2 u2
@@ -21037,7 +21038,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2424 -411 2
+Refer: 630 -1 N 1 0 0 1 2424 -411 2
 Refer: 539 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" shp1 u1
@@ -21050,7 +21051,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2370 -345 2
+Refer: 631 -1 N 1 0 0 1 2370 -345 2
 Refer: 539 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" shp1 u2
@@ -21063,7 +21064,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1017 -498 2
+Refer: 634 -1 N 1 0 0 1 1017 -498 2
 Refer: 539 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" shp1 r1
@@ -21076,7 +21077,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 1566 57 2
+Refer: 635 -1 N 1 0 0 1 1566 57 2
 Refer: 89 3384 N 1 0 0 1 -0 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1 u1
@@ -21089,7 +21090,7 @@ GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2262 156 2
+Refer: 631 -1 N 1 0 0 1 2262 156 2
 Refer: 89 3384 N 1 0 0 1 -0 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1 u2
@@ -21097,569 +21098,90 @@ EndChar
 
 StartChar: s1r1
 Encoding: 549 -1 545
-Width: 2170
+Width: 2301
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-2181 405 m 0,0,1
- 2181 89 2181 89 1984 -171.5 c 128,-1,2
- 1787 -432 1787 -432 1487 -432 c 0,3,4
- 1360 -432 1360 -432 1242 -381.5 c 128,-1,5
- 1124 -331 1124 -331 1124 -219 c 0,6,7
- 1124 -129 1124 -129 1216 -89 c 128,-1,8
- 1308 -49 1308 -49 1408.5 -49 c 128,-1,9
- 1509 -49 1509 -49 1630.5 -93.5 c 128,-1,10
- 1752 -138 1752 -138 1768 -221 c 1,11,12
- 1863 -153 1863 -153 1944 7 c 1,13,14
- 1878 -23 1878 -23 1784 -23 c 0,15,16
- 1585 -23 1585 -23 1489.5 100 c 128,-1,17
- 1394 223 1394 223 1394 415 c 2,18,-1
- 1394 567 l 2,19,20
- 1394 823 1394 823 1145 823 c 0,21,22
- 941 823 941 823 941 584 c 2,23,-1
- 941 0 l 1,24,-1
- 795 0 l 1,25,-1
- 795 584 l 2,26,27
- 795 693 795 693 728.5 758 c 128,-1,28
- 662 823 662 823 543 823 c 256,29,30
- 424 823 424 823 348.5 714 c 128,-1,31
- 273 605 273 605 273 464 c 0,32,33
- 273 182 273 182 490 71 c 1,34,-1
- 416 -30 l 1,35,36
- 143 115 143 115 143 462 c 0,37,38
- 143 659 143 659 254.5 801 c 128,-1,39
- 366 943 366 943 570 943 c 256,40,41
- 774 943 774 943 868 813 c 1,42,43
- 956 943 956 943 1138 943 c 256,44,45
- 1320 943 1320 943 1433 840 c 128,-1,46
- 1546 737 1546 737 1546 555 c 2,47,-1
- 1546 384 l 2,48,49
- 1546 261 1546 261 1604.5 181 c 128,-1,50
- 1663 101 1663 101 1791.5 101 c 128,-1,51
- 1920 101 1920 101 1981.5 210 c 128,-1,52
- 2043 319 2043 319 2043 474 c 0,53,54
- 2043 741 2043 741 1804 849 c 1,55,-1
- 1876 943 l 1,56,57
- 2181 795 2181 795 2181 405 c 0,0,1
-1644 -256 m 0,58,59
- 1644 -214 1644 -214 1561 -191.5 c 128,-1,60
- 1478 -169 1478 -169 1416 -169 c 0,61,62
- 1257 -169 1257 -169 1257 -223 c 0,63,64
- 1257 -265 1257 -265 1336.5 -291 c 128,-1,65
- 1416 -317 1416 -317 1470 -317 c 0,66,67
- 1644 -317 1644 -317 1644 -256 c 0,58,59
+1729.12 -388.749 m 1,0,1
+ 1403.31 -284.623 1403.31 -284.623 1250.28 -304.1 c 0,2,3
+ 1200.13 -310.48 1200.13 -310.48 1188.3 -323.486 c 1,4,-1
+ 1188.3 -323.642 l 2,5,6
+ 1187.68 -329.247 1187.68 -329.247 1190.49 -337.912 c 128,-1,7
+ 1193.3 -346.577 1193.3 -346.577 1206.84 -364.756 c 128,-1,8
+ 1220.37 -382.935 1220.37 -382.935 1243.6 -403.016 c 0,9,10
+ 1313.01 -463.031 1313.01 -463.031 1429.35 -477.71 c 0,11,12
+ 1593.45 -498.414 1593.45 -498.414 1729.12 -388.749 c 1,0,1
+416.385 9.17773 m 128,-1,14
+ 401.75 -12.9814 401.75 -12.9814 375.121 -18.4287 c 128,-1,15
+ 348.492 -23.876 348.492 -23.876 326.324 -9.23828 c 0,16,17
+ 275.048 24.6289 275.048 24.6289 219.132 105.197 c 0,18,19
+ 113.837 256.914 113.837 256.914 102.662 429.926 c 0,20,21
+ 82.1279 747.836 82.1279 747.836 219.995 907.117 c 0,22,23
+ 273.596 969.044 273.596 969.044 344.56 997.264 c 128,-1,24
+ 415.522 1025.48 415.522 1025.48 496.113 1016.63 c 0,25,26
+ 652.801 999.405 652.801 999.405 779.045 856.17 c 0,27,28
+ 847.495 778.507 847.495 778.507 891.976 679.813 c 1,29,30
+ 903.461 706.274 903.461 706.274 916.164 730.815 c 0,31,32
+ 1008.84 909.839 1008.84 909.839 1152.8 975.703 c 0,33,34
+ 1306.09 1045.84 1306.09 1045.84 1439.76 972.394 c 0,35,36
+ 1571.86 899.812 1571.86 899.812 1604.46 721.573 c 0,37,38
+ 1633.73 561.542 1633.73 561.542 1589.7 367.852 c 1,39,40
+ 1559.76 207.994 1559.76 207.994 1629.89 149.484 c 0,41,42
+ 1682.94 105.215 1682.94 105.215 1778.39 127.704 c 0,43,44
+ 1885.25 152.883 1885.25 152.883 1965.95 244.667 c 0,45,46
+ 2047.65 337.585 2047.65 337.585 2065.46 459.49 c 0,47,48
+ 2096.96 675.172 2096.96 675.172 1950.24 914.614 c 0,49,50
+ 1936.37 937.254 1936.37 937.254 1942.71 963.688 c 128,-1,51
+ 1949.06 990.12 1949.06 990.12 1971.7 1004 c 128,-1,52
+ 1994.36 1017.88 1994.36 1017.88 2020.78 1011.53 c 128,-1,53
+ 2047.21 1005.18 2047.21 1005.18 2061.09 982.536 c 0,54,55
+ 2222.59 718.965 2222.59 718.965 2197.79 470.784 c 1,56,57
+ 2199.7 461.194 2199.7 461.194 2198.52 450.809 c 0,58,59
+ 2127.99 -171.854 2127.99 -171.854 1869.59 -436.257 c 0,60,61
+ 1850.62 -455.666 1850.62 -455.666 1830.67 -473.146 c 0,62,63
+ 1644.84 -635.929 1644.84 -635.929 1413.08 -606.688 c 0,64,65
+ 1257.72 -587.086 1257.72 -587.086 1158.57 -501.35 c 0,66,67
+ 1048.48 -406.16 1048.48 -406.16 1059.07 -309.478 c 0,68,69
+ 1061.39 -288.318 1061.39 -288.318 1069.99 -269.47 c 0,70,71
+ 1105.59 -191.467 1105.59 -191.467 1233.87 -175.14 c 0,72,73
+ 1418.76 -151.607 1418.76 -151.607 1780.71 -268.785 c 0,74,75
+ 1805.01 -276.655 1805.01 -276.655 1817.51 -299.075 c 1,76,77
+ 1934.74 -152.521 1934.74 -152.521 2002.58 99.0576 c 1,78,79
+ 1915.86 26.5332 1915.86 26.5332 1808.21 1.16895 c 0,80,81
+ 1649.53 -36.2158 1649.53 -36.2158 1546.6 49.666 c 0,82,83
+ 1417.22 157.617 1417.22 157.617 1462.45 394.574 c 1,84,85
+ 1501.21 563.565 1501.21 563.565 1476.58 698.189 c 0,86,87
+ 1455.1 815.635 1455.1 815.635 1377.16 858.459 c 0,88,89
+ 1300.76 900.436 1300.76 900.436 1206.88 857.488 c 0,90,91
+ 1103.68 810.271 1103.68 810.271 1031.61 671.053 c 0,92,93
+ 998.625 607.327 998.625 607.327 977.853 533.761 c 0,94,95
+ 966.52 493.626 966.52 493.626 958.702 449.907 c 1,96,97
+ 963.673 418.495 963.673 418.495 966.979 386.123 c 0,98,99
+ 983.605 223.249 983.605 223.249 954.796 41.9277 c 0,100,101
+ 950.629 15.7031 950.629 15.7031 928.628 -0.265625 c 128,-1,102
+ 906.626 -16.2344 906.626 -16.2344 880.401 -12.0674 c 0,103,104
+ 858.868 -8.64648 858.868 -8.64648 843.674 8.1123 c 128,-1,105
+ 828.479 24.8711 828.479 24.8711 826.093 44.1426 c 0,106,107
+ 798.448 267.444 798.448 267.444 826.881 449.73 c 1,108,109
+ 818.934 493.589 818.934 493.589 807.327 533.7 c 0,110,111
+ 766.931 673.306 766.931 673.306 681.521 770.211 c 0,112,113
+ 588.56 875.683 588.56 875.683 481.912 887.404 c 0,114,115
+ 430.841 893.018 430.841 893.018 391.867 877.519 c 128,-1,116
+ 352.895 862.02 352.895 862.02 318.288 822.038 c 0,117,118
+ 215.293 703.045 215.293 703.045 232.392 438.305 c 0,119,120
+ 241.237 301.352 241.237 301.352 325.931 179.318 c 0,121,122
+ 367.577 119.311 367.577 119.311 397.969 99.2383 c 0,123,124
+ 420.133 84.5996 420.133 84.5996 425.577 57.9658 c 128,-1,13
+ 431.021 31.333 431.021 31.333 416.385 9.17773 c 128,-1,14
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1 r1
 EndChar
 
-StartChar: s1k1
-Encoding: 550 -1 546
-Width: 2528
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 55 3349 S 1.0862 0 0 0.787474 878 -602 2
-Refer: 89 3384 S 0.992601 0 0 0.8734 1 156 2
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx k1
-EndChar
-
-StartChar: s1k1u1
-Encoding: 551 -1 547
-Width: 2528
-GlyphClass: 3
-LigCaretCntFixed: 1
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 129 -1 N 1.01175 0 0 0.783493 936 -602 2
-Refer: 89 3384 N 0.992601 0 0 0.8734 1 156 2
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1 u1
-LCarets2: 1 0 
-EndChar
-
-StartChar: s1k1u2
-Encoding: 552 -1 548
-Width: 2528
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 130 -1 S 1 0 0 0.809176 771 -618 2
-Refer: 89 3384 N 0.992601 0 0 0.8734 1 156 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1 u2
-EndChar
-
-StartChar: s1k1r1
-Encoding: 553 -1 549
-Width: 2528
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 131 -1 N 1 0 0 0.796444 981 -614 2
-Refer: 89 3384 N 0.992601 0 0 0.8734 1 156 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1 r1
-EndChar
-
-StartChar: s1k1k1
-Encoding: 554 -1 550
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-Refer: 133 -1 N 1 0 0 0.756332 91 -600 2
-Refer: 89 3384 N 1 0 0 0.884542 30 146 2
-LCarets2: 4 0 0 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx k1 xx k1
-EndChar
-
-StartChar: s1k1k1u1
-Encoding: 555 -1 551
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2129 -473 m 0,0,1
- 2129 -550 2129 -550 2075 -594 c 0,2,3
- 2021 -638 2021 -638 1951 -637 c 256,4,5
- 1881 -637 1881 -637 1843 -621 c 1,6,-1
- 1843 -520 l 1,7,8
- 1873 -545 1873 -545 1918 -545 c 256,9,10
- 1963 -545 1963 -545 1992 -524 c 0,11,12
- 2021 -503 2021 -503 2021 -467 c 256,13,14
- 2020 -431 2020 -431 1996 -404 c 0,15,16
- 1972 -377 1972 -377 1935 -377 c 2,17,-1
- 1878 -377 l 1,18,-1
- 1878 -292 l 1,19,-1
- 1947 -292 l 2,20,21
- 1977 -292 1977 -292 1998 -268 c 0,22,23
- 2019 -244 2019 -244 2019 -215 c 0,24,25
- 2018 -156 2018 -156 1940 -132 c 0,26,27
- 1862 -108 1862 -108 1780 -107 c 0,28,29
- 1569 -107 1569 -107 1555 -245 c 1,30,-1
- 1609 -246 l 2,31,32
- 1822 -250 1822 -250 1822 -436 c 0,33,34
- 1822 -527 1822 -527 1768 -582 c 0,35,36
- 1714 -637 1714 -637 1623 -637 c 0,37,38
- 1576 -638 1576 -638 1534 -606 c 0,39,40
- 1492 -574 1492 -574 1487 -527 c 1,41,42
- 1448 -637 1448 -637 1314 -637 c 256,43,44
- 1180 -637 1180 -637 1143 -543 c 1,45,46
- 1116 -637 1116 -637 1020 -637 c 256,47,48
- 924 -636 924 -636 876 -578 c 0,49,50
- 828 -520 828 -520 828 -436 c 0,51,52
- 828 -247 828 -247 1084 -243 c 1,53,54
- 1086 -139 1086 -139 1146 -70 c 0,55,56
- 1206 -1 1206 -1 1313 -1 c 0,57,58
- 1468 -1 1468 -1 1522 -117 c 1,59,60
- 1595 -1 1595 -1 1777 -1 c 0,61,62
- 1893 -1 1893 -1 2010 -54 c 0,63,64
- 2127 -107 2127 -107 2127 -213 c 0,65,66
- 2128 -250 2128 -250 2104 -288 c 0,67,68
- 2080 -326 2080 -326 2045 -336 c 1,69,70
- 2129 -360 2129 -360 2129 -473 c 0,0,1
-1714 -436 m 0,71,72
- 1714 -357 1714 -357 1653 -353 c 0,73,74
- 1576 -348 1576 -348 1548 -348 c 1,75,-1
- 1548 -367 l 2,76,77
- 1548 -534 1548 -534 1631 -534 c 256,78,79
- 1714 -534 1714 -534 1714 -436 c 0,71,72
-1440 -235 m 2,80,81
- 1440 -105 1440 -105 1315 -105 c 0,82,83
- 1264 -105 1264 -105 1229 -143 c 0,84,85
- 1194 -181 1194 -181 1194 -235 c 2,86,-1
- 1194 -243 l 1,87,-1
- 1440 -243 l 1,88,-1
- 1440 -235 l 2,80,81
-1440 -348 m 1,89,-1
- 1194 -348 l 1,90,-1
- 1194 -358 l 2,91,92
- 1194 -540 1194 -540 1317 -540 c 0,93,94
- 1440 -540 1440 -540 1440 -358 c 2,95,-1
- 1440 -348 l 1,89,-1
-1089 -454 m 1,96,-1
- 1084 -348 l 1,97,-1
- 1055 -348 l 2,98,99
- 934 -348 934 -348 934 -436 c 0,100,101
- 934 -537 934 -537 1015 -537 c 0,102,103
- 1089 -537 1089 -537 1089 -454 c 1,96,-1
-EndSplineSet
-Refer: 89 3384 N 1 0 0 1 30 28 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1k1 u1
-EndChar
-
-StartChar: s1k1k1u2
-Encoding: 556 -1 552
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2175 -549 m 0,0,1
- 2175 -875 2175 -875 1533 -875 c 0,2,3
- 1195 -876 1195 -876 983 -748 c 0,4,5
- 771 -620 771 -620 771 -311 c 0,6,7
- 771 -153 771 -153 889 0 c 1,8,-1
- 961 -59 l 1,9,10
- 863 -187 863 -187 863 -319 c 0,11,12
- 863 -781 863 -781 1526 -781 c 0,13,14
- 1716 -780 1716 -780 1896 -730 c 0,15,16
- 2076 -680 2076 -680 2077 -535 c 0,17,18
- 2077 -498 2077 -498 2051 -464 c 0,19,20
- 2025 -430 2025 -430 1988 -430 c 2,21,-1
- 1951 -430 l 1,22,-1
- 1951 -334 l 1,23,-1
- 1988 -334 l 2,24,25
- 2023 -334 2023 -334 2049 -295 c 0,26,27
- 2075 -256 2075 -256 2075 -221 c 0,28,29
- 2075 -157 2075 -157 2012 -128 c 0,30,31
- 1950 -99 1950 -99 1878 -99 c 0,32,33
- 1806 -100 1806 -100 1726 -134 c 0,34,35
- 1646 -168 1646 -168 1637 -245 c 1,36,-1
- 1687 -246 l 2,37,38
- 1887 -250 1887 -250 1887 -437 c 0,39,40
- 1888 -528 1888 -528 1836 -584 c 0,41,42
- 1784 -640 1784 -640 1700 -639 c 0,43,44
- 1602 -639 1602 -639 1575 -521 c 1,45,46
- 1526 -639 1526 -639 1410 -639 c 0,47,48
- 1294 -639 1294 -639 1251 -541 c 1,49,50
- 1214 -639 1214 -639 1129 -639 c 0,51,52
- 1044 -639 1044 -639 1000 -581 c 0,53,54
- 956 -523 956 -523 956 -437 c 0,55,56
- 956 -249 956 -249 1194 -244 c 1,57,58
- 1200 -136 1200 -136 1256 -68 c 0,59,60
- 1312 0 1312 0 1409 0 c 0,61,62
- 1545 0 1545 0 1604 -118 c 1,63,64
- 1688 2 1688 2 1880 2 c 0,65,66
- 1991 2 1991 2 2083 -56 c 0,67,68
- 2175 -114 2175 -114 2175 -225 c 256,69,70
- 2175 -337 2175 -337 2091 -383 c 1,71,72
- 2175 -423 2175 -423 2175 -549 c 0,0,1
-1787 -437 m 0,73,74
- 1787 -347 1787 -347 1662 -347 c 2,75,-1
- 1629 -347 l 1,76,-1
- 1629 -356 l 2,77,78
- 1629 -538 1629 -538 1708 -538 c 256,79,80
- 1787 -538 1787 -538 1787 -437 c 0,73,74
-1529 -237 m 2,81,82
- 1529 -103 1529 -103 1414 -103 c 256,83,84
- 1299 -103 1299 -103 1297 -244 c 1,85,-1
- 1529 -244 l 1,86,-1
- 1529 -237 l 2,81,82
-1529 -347 m 1,87,-1
- 1297 -347 l 1,88,-1
- 1297 -359 l 2,89,90
- 1297 -544 1297 -544 1413 -544 c 256,91,92
- 1529 -544 1529 -544 1529 -347 c 1,87,-1
-1200 -455 m 1,93,-1
- 1194 -347 l 1,94,-1
- 1167 -347 l 2,95,96
- 1052 -347 1052 -347 1052 -437 c 0,97,98
- 1052 -541 1052 -541 1130 -541 c 0,99,100
- 1200 -541 1200 -541 1200 -455 c 1,93,-1
-EndSplineSet
-Refer: 89 3384 N 1 0 0 1 30 28 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1k1 u2
-EndChar
-
-StartChar: s1k1k1r1
-Encoding: 557 -1 553
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2143 -378 m 0,0,1
- 2143 -584 2143 -584 2011 -746 c 0,2,3
- 1879 -908 1879 -908 1674 -907 c 0,4,5
- 1594 -906 1594 -906 1505 -874 c 0,6,7
- 1416 -842 1416 -842 1416 -774 c 0,8,9
- 1416 -666 1416 -666 1623 -666 c 0,10,11
- 1690 -666 1690 -666 1774 -688 c 0,12,13
- 1858 -710 1858 -710 1873 -757 c 1,14,15
- 1950 -705 1950 -705 1994 -588 c 0,16,17
- 2038 -471 2038 -471 2038 -368 c 0,18,19
- 2038 -110 2038 -110 1822 -110 c 0,20,21
- 1662 -110 1662 -110 1635 -250 c 1,22,23
- 1659 -250 1659 -250 1684 -250 c 0,24,25
- 1900 -250 1900 -250 1900 -434 c 0,26,27
- 1900 -518 1900 -518 1841 -574 c 0,28,29
- 1782 -630 1782 -630 1698 -631 c 0,30,31
- 1651 -630 1651 -630 1611 -600 c 0,32,33
- 1571 -570 1571 -570 1564 -525 c 1,34,35
- 1543 -578 1543 -578 1493 -612 c 0,36,37
- 1443 -646 1443 -646 1391 -646 c 0,38,39
- 1252 -646 1252 -646 1219 -550 c 1,40,41
- 1194 -646 1194 -646 1086 -646 c 0,42,43
- 1001 -646 1001 -646 953 -588 c 0,44,45
- 905 -530 905 -530 905 -442 c 0,46,47
- 905 -250 905 -250 1161 -248 c 1,48,49
- 1163 -140 1163 -140 1223 -71 c 0,50,51
- 1283 -2 1283 -2 1389 -2 c 0,52,53
- 1546 -2 1546 -2 1597 -120 c 1,54,55
- 1656 -2 1656 -2 1815 -2 c 256,56,57
- 1974 -2 1974 -2 2058 -108 c 0,58,59
- 2142 -214 2142 -214 2143 -378 c 0,0,1
-1789 -434 m 0,60,61
- 1789 -354 1789 -354 1667 -354 c 2,62,-1
- 1627 -354 l 1,63,-1
- 1627 -356 l 2,64,65
- 1627 -530 1627 -530 1698 -530 c 0,66,67
- 1738 -530 1738 -530 1764 -502 c 0,68,69
- 1790 -474 1790 -474 1789 -434 c 0,60,61
-1517 -241 m 2,70,71
- 1517 -108 1517 -108 1391 -108 c 0,72,73
- 1335 -108 1335 -108 1303 -148 c 0,74,75
- 1271 -188 1271 -188 1271 -248 c 1,76,-1
- 1517 -248 l 1,77,-1
- 1517 -241 l 2,70,71
-1517 -351 m 1,78,-1
- 1271 -354 l 1,79,-1
- 1271 -363 l 2,80,81
- 1271 -548 1271 -548 1394 -548 c 0,82,83
- 1517 -548 1517 -548 1517 -351 c 1,78,-1
-1773 -799 m 0,84,85
- 1773 -744 1773 -744 1625 -744 c 0,86,87
- 1529 -744 1529 -744 1529 -778 c 0,88,89
- 1529 -830 1529 -830 1677 -830 c 0,90,91
- 1773 -830 1773 -830 1773 -799 c 0,84,85
-1165 -459 m 0,92,93
- 1165 -391 1165 -391 1158 -354 c 1,94,-1
- 1131 -354 l 2,95,96
- 1011 -354 1011 -354 1011 -442 c 0,97,98
- 1011 -546 1011 -546 1091 -546 c 0,99,100
- 1165 -546 1165 -546 1165 -459 c 0,92,93
-EndSplineSet
-Refer: 89 3384 S 1 0 0 1 30 28 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1k1 r1
-EndChar
-
-StartChar: s1k1r3
-Encoding: 558 -1 554
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2104 -401 m 0,0,1
- 2104 -560 2104 -560 1964 -646 c 0,2,3
- 1824 -732 1824 -732 1634 -732 c 256,4,5
- 1444 -732 1444 -732 1280 -618 c 0,6,7
- 1116 -504 1116 -504 1116 -307 c 0,8,9
- 1116 -145 1116 -145 1236 5 c 1,10,-1
- 1308 -42 l 1,11,12
- 1203 -167 1203 -167 1203 -313 c 256,13,14
- 1203 -460 1203 -460 1340 -552 c 0,15,16
- 1477 -644 1477 -644 1629 -644 c 256,17,18
- 1781 -644 1781 -644 1893 -587 c 0,19,20
- 2005 -530 2005 -530 2005 -416 c 256,21,22
- 2005 -302 2005 -302 1893 -302 c 1,23,24
- 1894 -406 1894 -406 1844 -476 c 0,25,26
- 1794 -546 1794 -546 1706 -546 c 256,27,28
- 1618 -546 1618 -546 1561 -486 c 1,29,30
- 1515 -548 1515 -548 1448 -548 c 256,31,32
- 1381 -548 1381 -548 1338 -496 c 0,33,34
- 1295 -444 1295 -444 1295 -375 c 256,35,36
- 1294 -304 1294 -304 1346 -254 c 0,37,38
- 1398 -204 1398 -204 1473 -204 c 2,39,-1
- 1504 -204 l 1,40,41
- 1506 -120 1506 -120 1562 -61 c 0,42,43
- 1618 -2 1618 -2 1699 -2 c 0,44,45
- 1780 -2 1780 -2 1836 -58 c 0,46,47
- 1892 -114 1892 -114 1893 -202 c 1,48,49
- 1988 -206 1988 -206 2046 -259 c 0,50,51
- 2104 -312 2104 -312 2104 -401 c 0,0,1
-1787 -204 m 1,52,53
- 1785 -101 1785 -101 1696 -101 c 0,54,55
- 1613 -101 1613 -101 1607 -204 c 1,56,-1
- 1787 -204 l 1,52,53
-1787 -302 m 1,57,-1
- 1607 -302 l 1,58,59
- 1611 -455 1611 -455 1699 -455 c 0,60,61
- 1787 -455 1787 -455 1787 -302 c 1,57,-1
-1452 -452 m 0,62,63
- 1502 -452 1502 -452 1512 -389 c 1,64,-1
- 1504 -302 l 1,65,-1
- 1487 -302 l 2,66,67
- 1391 -302 1391 -302 1391 -377 c 256,68,69
- 1391 -452 1391 -452 1452 -452 c 0,62,63
-EndSplineSet
-Refer: 89 3384 N 1 0 0 1 30 28 2
-LCarets2: 2 0 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1k1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1k1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1k1 xx r3
-EndChar
-
-StartChar: s1k1r3u1
-Encoding: 559 -1 555
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2127 -401 m 0,0,1
- 2127 -543 2127 -543 1996 -631 c 1,2,3
- 2122 -687 2122 -687 2122 -825 c 0,4,5
- 2122 -912 2122 -912 2060 -974 c 0,6,7
- 1998 -1036 1998 -1036 1911 -1037 c 256,8,9
- 1824 -1036 1824 -1036 1761 -974 c 0,10,11
- 1698 -912 1698 -912 1698 -825 c 0,12,13
- 1698 -771 1698 -771 1726 -725 c 1,14,15
- 1689 -729 1689 -729 1654 -729 c 0,16,17
- 1451 -728 1451 -728 1297 -616 c 0,18,19
- 1143 -504 1143 -504 1143 -307 c 0,20,21
- 1143 -147 1143 -147 1261 3 c 1,22,-1
- 1330 -42 l 1,23,24
- 1224 -167 1224 -167 1224 -314 c 256,25,26
- 1224 -461 1224 -461 1352 -554 c 0,27,28
- 1480 -647 1480 -647 1628 -647 c 256,29,30
- 1776 -646 1776 -646 1904 -588 c 0,31,32
- 2032 -530 2032 -530 2033 -408 c 0,33,34
- 2033 -300 2033 -300 1914 -300 c 1,35,36
- 1914 -403 1914 -403 1866 -473 c 0,37,38
- 1818 -543 1818 -543 1730 -543 c 256,39,40
- 1642 -543 1642 -543 1585 -481 c 1,41,42
- 1539 -546 1539 -546 1474 -546 c 256,43,44
- 1409 -546 1409 -546 1366 -496 c 0,45,46
- 1323 -446 1323 -446 1323 -375 c 256,47,48
- 1322 -306 1322 -306 1374 -256 c 0,49,50
- 1426 -206 1426 -206 1497 -206 c 2,51,-1
- 1531 -206 l 1,52,53
- 1530 -122 1530 -122 1586 -64 c 0,54,55
- 1642 -6 1642 -6 1723 -5 c 256,56,57
- 1804 -5 1804 -5 1859 -61 c 0,58,59
- 1914 -117 1914 -117 1914 -204 c 1,60,61
- 2010 -208 2010 -208 2068 -260 c 0,62,63
- 2126 -312 2126 -312 2127 -401 c 0,0,1
-1815 -206 m 1,64,65
- 1815 -98 1815 -98 1721 -98 c 0,66,67
- 1632 -98 1632 -98 1630 -206 c 1,68,-1
- 1815 -206 l 1,64,65
-1815 -300 m 1,69,-1
- 1630 -300 l 1,70,71
- 1630 -457 1630 -457 1722 -457 c 256,72,73
- 1814 -457 1814 -457 1815 -300 c 1,69,-1
-1539 -389 m 1,74,-1
- 1531 -300 l 1,75,-1
- 1512 -300 l 2,76,77
- 1414 -300 1414 -300 1414 -378 c 0,78,79
- 1414 -456 1414 -456 1475 -455 c 0,80,81
- 1536 -455 1536 -455 1539 -389 c 1,74,-1
-1998 -912 m 0,82,83
- 2035 -876 2035 -876 2035 -826 c 0,84,85
- 2035 -774 2035 -774 1998 -738 c 0,86,87
- 1962 -702 1962 -702 1910 -701 c 0,88,89
- 1858 -702 1858 -702 1822 -738 c 0,90,91
- 1786 -774 1786 -774 1787 -826 c 0,92,93
- 1786 -878 1786 -878 1822 -912 c 0,94,95
- 1858 -948 1858 -948 1910 -948 c 0,96,97
- 1962 -948 1962 -948 1998 -912 c 0,82,83
-EndSplineSet
-Refer: 89 3384 N 1 0 0 1 30 28 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1r3 u1
-EndChar
-
-StartChar: s1k1r3u2
-Encoding: 560 -1 556
-Width: 2168
-GlyphClass: 3
-Flags: MW
-LayerCount: 2
-Fore
-SplineSet
-2141 -848 m 4,0,1
- 2141 -943 2141 -943 2072 -1012 c 4,2,3
- 2003 -1081 2003 -1081 1906 -1081 c 260,4,5
- 1808 -1081 1808 -1081 1740 -1012 c 4,6,7
- 1672 -943 1672 -943 1672 -862 c 260,8,9
- 1672 -781 1672 -781 1705 -727 c 5,10,11
- 1679 -730 1679 -730 1654 -730 c 4,12,13
- 1450 -730 1450 -730 1296 -617 c 4,14,15
- 1142 -504 1142 -504 1143 -307 c 4,16,17
- 1143 -148 1143 -148 1261 2 c 5,18,-1
- 1330 -42 l 5,19,20
- 1224 -167 1224 -167 1224 -314 c 260,21,22
- 1224 -461 1224 -461 1352 -554 c 4,23,24
- 1480 -647 1480 -647 1639 -647 c 4,25,26
- 1798 -648 1798 -648 1916 -594 c 4,27,28
- 2034 -540 2034 -540 2033 -408 c 4,29,30
- 2033 -300 2033 -300 1914 -300 c 5,31,32
- 1914 -404 1914 -404 1866 -474 c 4,33,34
- 1818 -544 1818 -544 1730 -544 c 260,35,36
- 1642 -544 1642 -544 1585 -481 c 5,37,38
- 1539 -546 1539 -546 1474 -546 c 260,39,40
- 1409 -546 1409 -546 1366 -496 c 4,41,42
- 1323 -446 1323 -446 1323 -375 c 260,43,44
- 1322 -306 1322 -306 1374 -256 c 4,45,46
- 1426 -206 1426 -206 1497 -206 c 6,47,-1
- 1531 -206 l 5,48,49
- 1530 -122 1530 -122 1586 -64 c 4,50,51
- 1642 -6 1642 -6 1723 -5 c 260,52,53
- 1804 -6 1804 -6 1859 -62 c 4,54,55
- 1914 -118 1914 -118 1914 -204 c 5,56,57
- 2010 -208 2010 -208 2068 -260 c 4,58,59
- 2126 -312 2126 -312 2127 -401 c 4,60,61
- 2127 -541 2127 -541 1998 -631 c 5,62,63
- 2141 -690 2141 -690 2141 -848 c 4,0,1
-1815 -206 m 5,64,65
- 1815 -98 1815 -98 1721 -98 c 4,66,67
- 1632 -98 1632 -98 1630 -206 c 5,68,-1
- 1815 -206 l 5,64,65
-1815 -300 m 5,69,-1
- 1630 -300 l 5,70,71
- 1630 -457 1630 -457 1722 -457 c 260,72,73
- 1814 -457 1814 -457 1815 -300 c 5,69,-1
-1979 -776 m 260,74,75
- 1979 -701 1979 -701 1904 -701 c 260,76,77
- 1829 -701 1829 -701 1829 -776 c 260,78,79
- 1829 -851 1829 -851 1904 -851 c 260,80,81
- 1979 -851 1979 -851 1979 -776 c 260,74,75
-1539 -389 m 5,82,-1
- 1531 -300 l 5,83,-1
- 1512 -300 l 6,84,85
- 1414 -300 1414 -300 1414 -378 c 4,86,87
- 1414 -456 1414 -456 1476 -455 c 4,88,89
- 1538 -455 1538 -455 1539 -389 c 5,82,-1
-2012 -952 m 4,90,91
- 2055 -910 2055 -910 2055 -858 c 260,92,93
- 2055 -806 2055 -806 2033 -769 c 5,94,95
- 2032 -830 2032 -830 1994 -868 c 4,96,97
- 1956 -906 1956 -906 1904 -905 c 260,98,99
- 1852 -906 1852 -906 1814 -868 c 4,100,101
- 1776 -830 1776 -830 1775 -779 c 5,102,103
- 1757 -810 1757 -810 1757 -860 c 260,104,105
- 1758 -910 1758 -910 1802 -952 c 4,106,107
- 1846 -994 1846 -994 1908 -995 c 4,108,109
- 1970 -994 1970 -994 2012 -952 c 4,90,91
-EndSplineSet
-Refer: 89 3384 S 1 0 0 1 30 28 2
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1k1r3 u2
-EndChar
-
 StartChar: s1th1
-Encoding: 561 -1 557
+Encoding: 561 -1 546
 Width: 2289
 GlyphClass: 3
 Flags: MW
@@ -21673,7 +21195,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
-Encoding: 562 -1 558
+Encoding: 562 -1 547
 Width: 2289
 GlyphClass: 3
 Flags: MW
@@ -21686,7 +21208,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1u2
-Encoding: 563 -1 559
+Encoding: 563 -1 548
 Width: 2289
 GlyphClass: 3
 Flags: MW
@@ -21699,7 +21221,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1r1
-Encoding: 564 -1 560
+Encoding: 564 -1 549
 Width: 2328
 GlyphClass: 3
 Flags: MW
@@ -21712,7 +21234,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1th1r3
-Encoding: 565 -1 561
+Encoding: 565 -1 550
 Width: 2478
 GlyphClass: 3
 Flags: MW
@@ -21822,39 +21344,39 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1th1r3u1
-Encoding: 566 -1 562
+Encoding: 566 -1 551
 Width: 2360
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2781 -342 2
-Refer: 561 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 2781 -342 2
+Refer: 550 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th1r3 u1
 EndChar
 
 StartChar: s1th1r3u2
-Encoding: 567 -1 563
+Encoding: 567 -1 552
 Width: 2360
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2580 -405 2
-Refer: 561 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2580 -405 2
+Refer: 550 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th1r3 u2
 EndChar
 
 StartChar: s1th2
-Encoding: 568 -1 564
+Encoding: 568 -1 553
 Width: 3249
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 644 -1 S 1.0254 0 0 1.01063 1878 9 2
+Refer: 633 -1 S 1.0254 0 0 1.01063 1878 9 2
 Refer: 89 3384 N 1 0 0 1 -0 28 2
 LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th2
@@ -21862,118 +21384,48 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u1
-Encoding: 569 -1 565
+Encoding: 569 -1 554
 Width: 3488
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3681 141 2
-Refer: 644 -1 N 1.04646 0 0 1.01652 1873 15 2
+Refer: 630 -1 N 1 0 0 1 3681 141 2
+Refer: 633 -1 N 1.04646 0 0 1.01652 1873 15 2
 Refer: 89 3384 N 1 0 0 1 -0 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th2 u1
 EndChar
 
 StartChar: s1th2u2
-Encoding: 570 -1 566
+Encoding: 570 -1 555
 Width: 3398
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3576 109 2
-Refer: 644 -1 N 1 0 0 1 1935 15 2
+Refer: 631 -1 N 1 0 0 1 3576 109 2
+Refer: 633 -1 N 1 0 0 1 1935 15 2
 Refer: 89 3384 N 1 0 0 1 30 28 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th2 u2
 EndChar
 
 StartChar: s1th2r1
-Encoding: 571 -1 567
-Width: 3257
+Encoding: 571 -1 556
+Width: 3249
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-3260 -8 m 2,0,1
- 3260 -215 3260 -215 3136 -324.5 c 128,-1,2
- 3012 -434 3012 -434 2847 -434 c 256,3,4
- 2682 -434 2682 -434 2579.5 -372 c 128,-1,5
- 2477 -310 2477 -310 2477 -228 c 256,6,7
- 2477 -146 2477 -146 2564.5 -102.5 c 128,-1,8
- 2652 -59 2652 -59 2765 -59 c 256,9,10
- 2878 -59 2878 -59 2973 -101 c 128,-1,11
- 3068 -143 3068 -143 3089 -197 c 1,12,13
- 3134 -125 3134 -125 3134 -8 c 2,14,-1
- 3134 0 l 1,15,-1
- 2104 0 l 1,16,-1
- 2104 108 l 1,17,-1
- 2439 108 l 1,18,-1
- 2439 539 l 2,19,20
- 2439 706 2439 706 2557.5 824.5 c 128,-1,21
- 2676 943 2676 943 2847 943 c 256,22,23
- 3018 943 3018 943 3137.5 829 c 128,-1,24
- 3257 715 3257 715 3257 551 c 2,25,-1
- 3257 47 l 1,26,-1
- 3260 49 l 1,27,-1
- 3260 -8 l 2,0,1
-2170 472 m 0,28,29
- 2170 256 2170 256 2077.5 116 c 128,-1,30
- 1985 -24 1985 -24 1787 -24 c 256,31,32
- 1589 -24 1589 -24 1491.5 99.5 c 128,-1,33
- 1394 223 1394 223 1394 415 c 2,34,-1
- 1394 568 l 2,35,36
- 1394 823 1394 823 1145 823 c 0,37,38
- 941 823 941 823 941 584 c 2,39,-1
- 941 0 l 1,40,-1
- 795 0 l 1,41,-1
- 795 584 l 2,42,43
- 795 696 795 696 726 759.5 c 128,-1,44
- 657 823 657 823 554 823 c 0,45,46
- 421 823 421 823 347 714 c 128,-1,47
- 273 605 273 605 273 464 c 0,48,49
- 273 182 273 182 490 71 c 1,50,-1
- 416 -30 l 1,51,52
- 143 120 143 120 143 462 c 0,53,54
- 143 659 143 659 254.5 801 c 128,-1,55
- 366 943 366 943 570 943 c 256,56,57
- 774 943 774 943 868 814 c 1,58,59
- 956 943 956 943 1142 943 c 256,60,61
- 1328 943 1328 943 1437 836.5 c 128,-1,62
- 1546 730 1546 730 1546 556 c 2,63,-1
- 1546 384 l 2,64,65
- 1546 260 1546 260 1605 180.5 c 128,-1,66
- 1664 101 1664 101 1790 101 c 256,67,68
- 1916 101 1916 101 1979.5 207.5 c 128,-1,69
- 2043 314 2043 314 2043 474 c 0,70,71
- 2043 742 2043 742 1804 850 c 1,72,-1
- 1876 943 l 1,73,74
- 2170 800 2170 800 2170 472 c 0,28,29
-3122 108 m 1,75,-1
- 3122 544 l 2,76,77
- 3122 656 3122 656 3041 737 c 128,-1,78
- 2960 818 2960 818 2846 818 c 0,79,80
- 2732 818 2732 818 2654 736 c 128,-1,81
- 2576 654 2576 654 2576 541 c 2,82,-1
- 2576 108 l 1,83,-1
- 3122 108 l 1,75,-1
-2810 -321 m 0,84,85
- 2976 -321 2976 -321 2976 -260 c 0,86,87
- 2976 -236 2976 -236 2922 -204.5 c 128,-1,88
- 2868 -173 2868 -173 2786 -173 c 256,89,90
- 2704 -173 2704 -173 2659.5 -192 c 128,-1,91
- 2615 -211 2615 -211 2615 -238 c 0,92,93
- 2615 -265 2615 -265 2671 -293 c 128,-1,94
- 2727 -321 2727 -321 2810 -321 c 0,84,85
-EndSplineSet
+Refer: 634 -1 N 1 0 0 1 2202 -36 2
+Refer: 553 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1th2 r1
 EndChar
 
 StartChar: s1n1
-Encoding: 572 -1 568
+Encoding: 572 -1 557
 Width: 2285
 GlyphClass: 3
 Flags: MW
@@ -21987,7 +21439,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx n1
 EndChar
 
 StartChar: s1n1u1
-Encoding: 573 -1 569
+Encoding: 573 -1 558
 Width: 2285
 GlyphClass: 3
 Flags: MW
@@ -22000,7 +21452,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1n1u2
-Encoding: 574 -1 570
+Encoding: 574 -1 559
 Width: 2459
 GlyphClass: 3
 Flags: MW
@@ -22013,54 +21465,74 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1r3
-Encoding: 575 -1 571
-Width: 2441
+Encoding: 575 -1 560
+Width: 2580
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-2446 448 m 0,0,1
- 2446 24 2446 24 2132 -177 c 128,-1,2
- 1818 -378 1818 -378 1316 -378 c 256,3,4
- 814 -378 814 -378 479.5 -170 c 128,-1,5
- 145 38 145 38 145 467 c 0,6,7
- 145 731 145 731 268 943 c 1,8,-1
- 366 886 l 1,9,10
- 260 707 260 707 260 488 c 0,11,12
- 260 94 260 94 558 -82 c 128,-1,13
- 856 -258 856 -258 1310 -258 c 0,14,15
- 1829 -258 1829 -258 2124 -17 c 1,16,17
- 2096 -22 2096 -22 2055 -22 c 0,18,19
- 1863 -22 1863 -22 1766 99 c 128,-1,20
- 1669 220 1669 220 1669 416 c 2,21,-1
- 1669 568 l 2,22,23
- 1669 823 1669 823 1418 823 c 0,24,25
- 1214 823 1214 823 1214 585 c 2,26,-1
- 1214 0 l 1,27,-1
- 1069 0 l 1,28,-1
- 1069 585 l 2,29,30
- 1069 694 1069 694 1001.5 758.5 c 128,-1,31
- 934 823 934 823 814 823 c 256,32,33
- 694 823 694 823 621 716 c 128,-1,34
- 548 609 548 609 548 465 c 0,35,36
- 548 183 548 183 762 71 c 1,37,-1
- 689 -30 l 1,38,39
- 415 116 415 116 415 462 c 0,40,41
- 415 661 415 661 527.5 802 c 128,-1,42
- 640 943 640 943 844 943 c 0,43,44
- 1048 943 1048 943 1142 814 c 1,45,46
- 1232 943 1232 943 1412 943 c 0,47,48
- 1592 943 1592 943 1705.5 840 c 128,-1,49
- 1819 737 1819 737 1819 556 c 2,50,-1
- 1819 384 l 2,51,52
- 1819 266 1819 266 1879 183.5 c 128,-1,53
- 1939 101 1939 101 2052 101 c 0,54,55
- 2195 101 2195 101 2256 210.5 c 128,-1,56
- 2317 320 2317 320 2317 474 c 0,57,58
- 2317 741 2317 741 2077 849 c 1,59,-1
- 2150 943 l 1,60,61
- 2446 797 2446 797 2446 448 c 0,0,1
+1741.47 394.444 m 1,0,1
+ 1780.06 563.405 1780.06 563.405 1756.95 689.602 c 128,-1,2
+ 1733.85 815.798 1733.85 815.798 1656.82 858.117 c 128,-1,3
+ 1579.8 900.436 1579.8 900.436 1481.26 855.354 c 128,-1,4
+ 1382.72 810.271 1382.72 810.271 1310.66 671.053 c 0,5,6
+ 1259.68 572.584 1259.68 572.584 1237.75 449.907 c 1,7,8
+ 1268.14 257.83 1268.14 257.83 1233.84 41.9277 c 0,9,10
+ 1229.67 15.7031 1229.67 15.7031 1207.67 -0.265625 c 128,-1,11
+ 1185.67 -16.2344 1185.67 -16.2344 1161.84 -12.4482 c 128,-1,12
+ 1138 -8.66113 1138 -8.66113 1123.09 8.02344 c 128,-1,13
+ 1108.17 24.707 1108.17 24.707 1105.27 43.0918 c 0,14,15
+ 1077.57 267.941 1077.57 267.941 1105.92 449.73 c 1,16,17
+ 1070.45 645.54 1070.45 645.54 969.175 760.441 c 128,-1,18
+ 867.902 875.344 867.902 875.344 765.429 886.6 c 128,-1,19
+ 662.956 897.856 662.956 897.856 597.332 822.038 c 0,20,21
+ 494.337 703.045 494.337 703.045 511.436 438.305 c 0,22,23
+ 522.643 264.789 522.643 264.789 644.895 129.906 c 0,24,25
+ 666.246 106.349 666.246 106.349 682.712 95.4746 c 128,-1,26
+ 699.177 84.5996 699.177 84.5996 704.621 57.9658 c 128,-1,27
+ 710.064 31.333 710.064 31.333 695.429 9.17773 c 128,-1,28
+ 680.793 -12.9814 680.793 -12.9814 654.164 -18.4287 c 0,29,30
+ 592.701 -31.0022 592.701 -31.0022 492.791 112.956 c 128,-1,31
+ 392.881 256.914 392.881 256.914 381.706 429.926 c 0,32,33
+ 361.172 747.836 361.172 747.836 499.039 907.117 c 0,34,35
+ 609.148 1034.33 609.148 1034.33 770.716 1016.62 c 128,-1,36
+ 932.283 998.907 932.283 998.907 1058.09 856.17 c 0,37,38
+ 1126.54 778.507 1126.54 778.507 1171.02 679.813 c 1,39,40
+ 1266.64 900.121 1266.64 900.121 1436.45 977.809 c 0,41,42
+ 1585.14 1045.84 1585.14 1045.84 1717.8 972.943 c 128,-1,43
+ 1850.47 900.052 1850.47 900.052 1885.77 709.191 c 0,44,45
+ 1912.64 560.832 1912.64 560.832 1868.74 367.851 c 1,46,47
+ 1838.8 207.994 1838.8 207.994 1908.93 149.484 c 0,48,49
+ 1961.99 105.215 1961.99 105.215 2063.14 129.049 c 128,-1,50
+ 2164.3 152.883 2164.3 152.883 2245.5 245.233 c 128,-1,51
+ 2326.69 337.584 2326.69 337.584 2344.5 459.49 c 0,52,53
+ 2376 675.172 2376 675.172 2229.29 914.614 c 0,54,55
+ 2215.41 937.254 2215.41 937.254 2221.75 963.688 c 128,-1,56
+ 2228.1 990.12 2228.1 990.12 2250.75 1004 c 128,-1,57
+ 2273.4 1017.88 2273.4 1017.88 2299.83 1011.53 c 128,-1,58
+ 2326.26 1005.18 2326.26 1005.18 2340.13 982.536 c 0,59,60
+ 2501.63 718.962 2501.63 718.962 2476.83 470.778 c 1,61,62
+ 2478.83 460.804 2478.83 460.804 2477.47 450.01 c 0,63,64
+ 2410.7 -81.0195 2410.7 -81.0195 2072.63 -349.321 c 0,65,66
+ 1803.57 -562.857 1803.57 -562.857 1442.95 -568.207 c 128,-1,67
+ 1082.33 -573.556 1082.33 -573.556 770.312 -421.84 c 128,-1,68
+ 458.294 -270.124 458.294 -270.124 280.508 -29.1982 c 0,69,70
+ 64.0752 264.1 64.0752 264.1 107.15 599.094 c 0,71,72
+ 131.758 790.465 131.758 790.465 243.261 977.642 c 0,73,74
+ 256.852 1000.46 256.852 1000.46 283.199 1007.13 c 128,-1,75
+ 309.547 1013.81 309.547 1013.81 332.369 1000.22 c 128,-1,76
+ 355.189 986.623 355.189 986.623 361.863 960.271 c 128,-1,77
+ 368.536 933.919 368.536 933.919 354.944 911.108 c 0,78,79
+ 257.254 747.119 257.254 747.119 236.088 582.514 c 0,80,81
+ 199.67 299.289 199.67 299.289 385.11 47.9912 c 0,82,83
+ 543.906 -167.199 543.906 -167.199 827.627 -305.155 c 128,-1,84
+ 1111.35 -443.111 1111.35 -443.111 1434.38 -438.319 c 128,-1,85
+ 1757.41 -433.528 1757.41 -433.528 1991.81 -247.497 c 0,86,87
+ 2147.6 -123.854 2147.6 -123.854 2238.16 66.9482 c 1,88,89
+ 2166.91 19.9395 2166.91 19.9395 2081.55 -0.174805 c 0,90,91
+ 1928.58 -36.2158 1928.58 -36.2158 1825.65 49.666 c 0,92,93
+ 1696.63 157.312 1696.63 157.312 1741.47 394.444 c 1,0,1
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1 r4
@@ -22068,233 +21540,74 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: s1r3u1
-Encoding: 576 -1 572
-Width: 2441
+Encoding: 576 -1 561
+Width: 2580
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2150 943 m 1,0,1
- 2446 798 2446 798 2446 449 c 0,2,3
- 2446 100 2446 100 2216 -106 c 1,4,5
- 2305 -133 2305 -133 2360.5 -204.5 c 128,-1,6
- 2416 -276 2416 -276 2416 -380 c 256,7,8
- 2416 -484 2416 -484 2336 -565.5 c 128,-1,9
- 2256 -647 2256 -647 2142 -647 c 256,10,11
- 2028 -647 2028 -647 1948 -565.5 c 128,-1,12
- 1868 -484 1868 -484 1868 -371 c 0,13,14
- 1868 -334 1868 -334 1878 -298 c 1,15,16
- 1634 -378 1634 -378 1318 -378 c 0,17,18
- 811 -378 811 -378 478 -170.5 c 128,-1,19
- 145 37 145 37 145 467 c 0,20,21
- 145 730 145 730 268 943 c 1,22,-1
- 366 885 l 1,23,24
- 260 706 260 706 260 487 c 0,25,26
- 260 94 260 94 558 -82 c 128,-1,27
- 856 -258 856 -258 1310 -258 c 0,28,29
- 1827 -258 1827 -258 2124 -16 c 1,30,31
- 2086 -20 2086 -20 2051 -20 c 0,32,33
- 1863 -20 1863 -20 1766 99 c 128,-1,34
- 1669 218 1669 218 1669 415 c 2,35,-1
- 1669 567 l 2,36,37
- 1669 823 1669 823 1418 823 c 0,38,39
- 1214 823 1214 823 1214 584 c 2,40,-1
- 1214 0 l 1,41,-1
- 1069 0 l 1,42,-1
- 1069 584 l 2,43,44
- 1069 693 1069 693 1001.5 758 c 128,-1,45
- 934 823 934 823 814 823 c 256,46,47
- 694 823 694 823 621 716 c 128,-1,48
- 548 609 548 609 548 464 c 0,49,50
- 548 182 548 182 762 71 c 1,51,-1
- 689 -30 l 1,52,53
- 415 115 415 115 415 462 c 0,54,55
- 415 662 415 662 528 802.5 c 128,-1,56
- 641 943 641 943 844 943 c 256,57,58
- 1047 943 1047 943 1142 813 c 1,59,60
- 1228 943 1228 943 1410 943 c 0,61,62
- 1592 943 1592 943 1705.5 840 c 128,-1,63
- 1819 737 1819 737 1819 555 c 2,64,-1
- 1819 384 l 2,65,66
- 1819 265 1819 265 1879 183 c 128,-1,67
- 1939 101 1939 101 2052 101 c 0,68,69
- 2195 101 2195 101 2256 210 c 128,-1,70
- 2317 319 2317 319 2317 474 c 0,71,72
- 2317 741 2317 741 2077 849 c 1,73,-1
- 2150 943 l 1,0,1
-2256 -485 m 128,-1,75
- 2303 -437 2303 -437 2303 -370 c 256,76,77
- 2303 -303 2303 -303 2256 -256 c 128,-1,78
- 2209 -209 2209 -209 2142 -209 c 256,79,80
- 2075 -209 2075 -209 2027 -256 c 128,-1,81
- 1979 -303 1979 -303 1979 -370 c 256,82,83
- 1979 -437 1979 -437 2027 -485 c 128,-1,84
- 2075 -533 2075 -533 2142 -533 c 256,85,74
- 2209 -533 2209 -533 2256 -485 c 128,-1,75
-EndSplineSet
+Refer: 630 -1 N 1 0 0 1 2904 -3 2
+Refer: 560 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1r3 u1
 EndChar
 
 StartChar: s1r3u2
-Encoding: 577 -1 573
-Width: 2441
+Encoding: 577 -1 562
+Width: 2580
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2150 943 m 1,0,1
- 2446 797 2446 797 2446 444 c 128,-1,2
- 2446 91 2446 91 2204 -118 c 1,3,4
- 2298 -148 2298 -148 2355.5 -228 c 128,-1,5
- 2413 -308 2413 -308 2413 -420 c 256,6,7
- 2413 -532 2413 -532 2324.5 -622.5 c 128,-1,8
- 2236 -713 2236 -713 2110 -713 c 256,9,10
- 1984 -713 1984 -713 1894 -623 c 128,-1,11
- 1804 -533 1804 -533 1804 -409 c 0,12,13
- 1804 -362 1804 -362 1819 -317 c 1,14,15
- 1597 -379 1597 -379 1318 -379 c 0,16,17
- 814 -379 814 -379 479.5 -171 c 128,-1,18
- 145 37 145 37 145 466 c 0,19,20
- 145 731 145 731 268 943 c 1,21,-1
- 366 886 l 1,22,23
- 260 707 260 707 260 487 c 0,24,25
- 260 93 260 93 558 -83 c 128,-1,26
- 856 -259 856 -259 1310 -259 c 0,27,28
- 1829 -259 1829 -259 2124 -18 c 1,29,30
- 2082 -23 2082 -23 2050 -23 c 0,31,32
- 1857 -23 1857 -23 1763 98 c 128,-1,33
- 1669 219 1669 219 1669 415 c 2,34,-1
- 1669 567 l 2,35,36
- 1669 823 1669 823 1418 823 c 0,37,38
- 1214 823 1214 823 1214 584 c 2,39,-1
- 1214 0 l 1,40,-1
- 1069 0 l 1,41,-1
- 1069 584 l 2,42,43
- 1069 693 1069 693 1001.5 758 c 128,-1,44
- 934 823 934 823 814 823 c 256,45,46
- 694 823 694 823 621 715.5 c 128,-1,47
- 548 608 548 608 548 464 c 0,48,49
- 548 182 548 182 762 70 c 1,50,-1
- 689 -31 l 1,51,52
- 415 115 415 115 415 461 c 0,53,54
- 415 660 415 660 528 801.5 c 128,-1,55
- 641 943 641 943 844.5 943 c 128,-1,56
- 1048 943 1048 943 1142 813 c 1,57,58
- 1232 943 1232 943 1412 943 c 128,-1,59
- 1592 943 1592 943 1705.5 839.5 c 128,-1,60
- 1819 736 1819 736 1819 555 c 2,61,-1
- 1819 383 l 2,62,63
- 1819 265 1819 265 1879 182.5 c 128,-1,64
- 1939 100 1939 100 2052 100 c 0,65,66
- 2195 100 2195 100 2256 209.5 c 128,-1,67
- 2317 319 2317 319 2317 473 c 0,68,69
- 2317 741 2317 741 2077 849 c 1,70,-1
- 2150 943 l 1,0,1
-2175 -383 m 128,-1,72
- 2204 -355 2204 -355 2204 -314 c 256,73,74
- 2204 -273 2204 -273 2175 -245 c 128,-1,75
- 2146 -217 2146 -217 2105 -217 c 256,76,77
- 2064 -217 2064 -217 2036 -245 c 128,-1,78
- 2008 -273 2008 -273 2008 -314 c 256,79,80
- 2008 -355 2008 -355 2036 -383 c 128,-1,81
- 2064 -411 2064 -411 2105 -411 c 256,82,71
- 2146 -411 2146 -411 2175 -383 c 128,-1,72
-2246.5 -544 m 128,-1,84
- 2303 -487 2303 -487 2303 -421 c 256,85,86
- 2303 -355 2303 -355 2273 -308 c 1,87,88
- 2273 -384 2273 -384 2224.5 -433 c 128,-1,89
- 2176 -482 2176 -482 2107 -482 c 128,-1,90
- 2038 -482 2038 -482 1990 -434 c 128,-1,91
- 1942 -386 1942 -386 1939 -320 c 1,92,93
- 1918 -362 1918 -362 1918 -424 c 256,94,95
- 1918 -486 1918 -486 1974 -543.5 c 128,-1,96
- 2030 -601 2030 -601 2110 -601 c 256,97,83
- 2190 -601 2190 -601 2246.5 -544 c 128,-1,84
-EndSplineSet
+Refer: 631 -1 N 1 0 0 1 2667 -147 2
+Refer: 560 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1r3 u2
 EndChar
 
 StartChar: s1l3
-Encoding: 578 -1 574
-Width: 2237
+Encoding: 578 -1 563
+Width: 2300
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-2004 486 m 256,0,1
- 2004 762 2004 762 1765 854 c 1,2,-1
- 1837 943 l 1,3,4
- 1980 883 1980 883 2056 765 c 0,5,6
- 2132 647 2132 647 2131 497 c 0,7,8
- 2131 290 2131 290 2038 158 c 0,9,10
- 1945 26 1945 26 1748 25 c 256,11,12
- 1550 24 1550 24 1452 142 c 0,13,14
- 1354 260 1354 260 1354 443 c 2,15,-1
- 1354 588 l 2,16,17
- 1354 823 1354 823 1106 823 c 0,18,19
- 902 823 902 823 902 605 c 2,20,-1
- 902 42 l 1,21,-1
- 756 42 l 1,22,-1
- 756 605 l 2,23,24
- 756 710 756 710 687 766 c 0,25,26
- 618 822 618 822 514 823 c 0,27,28
- 378 822 378 822 306 722 c 0,29,30
- 234 622 234 622 234 490 c 0,31,32
- 234 216 234 216 451 115 c 1,33,-1
- 376 19 l 1,34,35
- 104 155 104 155 104 487 c 0,36,37
- 104 673 104 673 216 808 c 0,38,39
- 328 943 328 943 531 943 c 256,40,41
- 735 943 735 943 829 821 c 1,42,43
- 918 943 918 943 1103 943 c 256,44,45
- 1288 943 1288 943 1398 843 c 0,46,47
- 1508 743 1508 743 1507 575 c 2,48,-1
- 1507 410 l 2,49,50
- 1507 298 1507 298 1567 222 c 0,51,52
- 1627 146 1627 146 1753 145 c 256,53,54
- 1880 145 1880 145 1942 247 c 0,55,56
- 2004 349 2004 349 2004 486 c 256,0,1
-EndSplineSet
-Refer: 633 -1 N 0.905152 0 0 1 2064 -3 2
+Refer: 89 3384 N 1 0 0 1 -0.226418 36 2
+Refer: 622 -1 N 0.905152 0 0 1 2057.77 -3 2
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" s1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" s1 l4
 LCarets2: 1 0 
 EndChar
 
 StartChar: s1l3u1
-Encoding: 579 -1 575
-Width: 2237
+Encoding: 579 -1 564
+Width: 2432
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2541 -357 2
-Refer: 574 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 S 1 0 0 1 2625 -432 2
+Refer: 563 -1 N 1 0 0 1 0.000144958 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1l3 u1
 EndChar
 
 StartChar: s1l3u2
-Encoding: 580 -1 576
-Width: 2237
+Encoding: 580 -1 565
+Width: 2300
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2440 -356 2
-Refer: 574 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2619 -327 2
+Refer: 563 -1 N 1 0 0 1 0.000144958 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1l3 u2
 EndChar
 
 StartChar: s1s1
-Encoding: 581 -1 577
+Encoding: 581 -1 566
 Width: 2249
 GlyphClass: 3
 Flags: MW
@@ -22308,33 +21621,33 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
-Encoding: 582 -1 578
+Encoding: 582 -1 567
 Width: 2249
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2652 -384 2
-Refer: 577 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 2652 -384 2
+Refer: 566 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1s1 u1
 EndChar
 
 StartChar: s1s1u2
-Encoding: 583 -1 579
+Encoding: 583 -1 568
 Width: 2249
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2532 -363 2
-Refer: 577 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2532 -363 2
+Refer: 566 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" s1s1 u2
 EndChar
 
 StartChar: s1rhrh
-Encoding: 584 -1 580
+Encoding: 584 -1 569
 Width: 2225
 GlyphClass: 3
 Flags: MW
@@ -22349,13 +21662,13 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
-Encoding: 585 -1 581
+Encoding: 585 -1 570
 Width: 2225
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2607 -498 2
+Refer: 630 -1 N 1 0 0 1 2607 -498 2
 Refer: 89 3384 N 1 0 0 1 30 28 2
 Refer: 82 3377 N 0.904874 0 0 0.670187 1221 -597 2
 Refer: 82 3377 N 0.904874 0 0 0.670187 336 -603 2
@@ -22364,13 +21677,13 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: s1rhrhu2
-Encoding: 586 -1 582
+Encoding: 586 -1 571
 Width: 2225
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2508 -489 2
+Refer: 631 -1 N 1 0 0 1 2508 -489 2
 Refer: 89 3384 N 1 0 0 1 30 28 2
 Refer: 82 3377 N 0.904874 0 0 0.670187 1221 -597 2
 Refer: 82 3377 N 0.904874 0 0 0.670187 336 -603 2
@@ -22379,7 +21692,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1u1
-Encoding: 587 -1 583
+Encoding: 587 -1 572
 Width: 2204
 GlyphClass: 3
 Flags: MW
@@ -22437,7 +21750,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1u2
-Encoding: 588 -1 584
+Encoding: 588 -1 573
 Width: 2256
 GlyphClass: 3
 Flags: MW
@@ -22504,7 +21817,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1r1
-Encoding: 589 -1 585
+Encoding: 589 -1 574
 Width: 2244
 GlyphClass: 3
 Flags: MW
@@ -22560,7 +21873,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1n1
-Encoding: 590 -1 586
+Encoding: 590 -1 575
 Width: 2656
 GlyphClass: 3
 Flags: MW
@@ -22622,7 +21935,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx n1
 EndChar
 
 StartChar: h1n1u1
-Encoding: 591 -1 587
+Encoding: 591 -1 576
 Width: 3076
 GlyphClass: 3
 Flags: MW
@@ -22693,7 +22006,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1n1u2
-Encoding: 592 -1 588
+Encoding: 592 -1 577
 Width: 3350
 GlyphClass: 3
 Flags: MW
@@ -22771,7 +22084,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: h1m1
-Encoding: 593 -1 589
+Encoding: 593 -1 578
 Width: 2271
 GlyphClass: 3
 Flags: MW
@@ -22830,46 +22143,46 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx m1
 EndChar
 
 StartChar: h1m1u1
-Encoding: 594 -1 590
+Encoding: 594 -1 579
 Width: 2271
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2721 36 2
-Refer: 589 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 2721 36 2
+Refer: 578 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" h1m1 u1
 EndChar
 
 StartChar: h1m1u2
-Encoding: 595 -1 591
+Encoding: 595 -1 580
 Width: 2271
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2610 36 2
-Refer: 589 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2610 36 2
+Refer: 578 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" h1m1 u2
 EndChar
 
 StartChar: h1m1r1
-Encoding: 596 -1 592
+Encoding: 596 -1 581
 Width: 2271
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 1323 -54 2
-Refer: 589 -1 N 1 0 0 1 0 0 2
+Refer: 634 -1 N 1 0 0 1 1323 -54 2
+Refer: 578 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" h1m1 r1
 EndChar
 
 StartChar: h1r3
-Encoding: 597 -1 593
+Encoding: 597 -1 582
 Width: 2522
 GlyphClass: 3
 Flags: MW
@@ -22924,39 +22237,39 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: h1r3u1
-Encoding: 598 -1 594
+Encoding: 598 -1 583
 Width: 2522
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2781 57 2
-Refer: 593 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 2781 57 2
+Refer: 582 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" h1r3 u1
 EndChar
 
 StartChar: h1r3u2
-Encoding: 599 -1 595
+Encoding: 599 -1 584
 Width: 2522
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2706 96 2
-Refer: 593 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2706 96 2
+Refer: 582 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" h1r3 u2
 EndChar
 
 StartChar: h1l3
-Encoding: 600 -1 596
+Encoding: 600 -1 585
 Width: 2220
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 633 -1 S 1 0 0 1 1977 18 2
+Refer: 622 -1 S 1 0 0 1 1977 18 2
 Refer: 90 3385 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" h1xx l3
@@ -22964,33 +22277,33 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: lhu1
-Encoding: 601 -1 597
+Encoding: 601 -1 586
 Width: 1401
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2157 -357 2
+Refer: 630 -1 N 1 0 0 1 2157 -357 2
 Refer: 84 3379 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" lh u1
 EndChar
 
 StartChar: lhu2
-Encoding: 602 -1 598
+Encoding: 602 -1 587
 Width: 1401
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2022 -378 2
+Refer: 631 -1 N 1 0 0 1 2022 -378 2
 Refer: 84 3379 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" lh u2
 EndChar
 
 StartChar: lhlh
-Encoding: 603 -1 599
+Encoding: 603 -1 588
 Width: 2526
 GlyphClass: 3
 Flags: MW
@@ -23004,59 +22317,59 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
-Encoding: 604 -1 600
+Encoding: 604 -1 589
 Width: 2526
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 3381 -375 2
-Refer: 599 -1 S 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 3381 -375 2
+Refer: 588 -1 S 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" lhlh u1
 EndChar
 
 StartChar: lhlhu2
-Encoding: 605 -1 601
+Encoding: 605 -1 590
 Width: 2526
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 3198 -360 2
-Refer: 599 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 3198 -360 2
+Refer: 588 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" lhlh u2
 EndChar
 
 StartChar: zhu1
-Encoding: 606 -1 602
+Encoding: 606 -1 591
 Width: 1282
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 646 -1 N 1 0 0 1 489 63 2
+Refer: 635 -1 N 1 0 0 1 489 63 2
 Refer: 85 3380 N 1 0 0 1 0 19 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zh u1
 EndChar
 
 StartChar: zhu2
-Encoding: 607 -1 603
+Encoding: 607 -1 592
 Width: 1282
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1437 162 2
+Refer: 631 -1 N 1 0 0 1 1437 162 2
 Refer: 85 3380 N 1 0 0 1 0 19 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zh u2
 EndChar
 
 StartChar: zhk1
-Encoding: 608 -1 604
+Encoding: 608 -1 593
 Width: 1353
 GlyphClass: 3
 Flags: MW
@@ -23070,7 +22383,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx k1
 EndChar
 
 StartChar: zhk1u1
-Encoding: 609 -1 605
+Encoding: 609 -1 594
 Width: 1304
 GlyphClass: 3
 Flags: MW
@@ -23139,7 +22452,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1u2
-Encoding: 610 -1 606
+Encoding: 610 -1 595
 Width: 1291
 GlyphClass: 3
 Flags: MW
@@ -23207,7 +22520,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1k1
-Encoding: 611 -1 607
+Encoding: 611 -1 596
 Width: 1585
 GlyphClass: 3
 Flags: MW
@@ -23221,7 +22534,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhk1k1u1
-Encoding: 612 -1 608
+Encoding: 612 -1 597
 Width: 1587
 GlyphClass: 3
 Flags: MW
@@ -23234,7 +22547,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhk1k1u2
-Encoding: 613 -1 609
+Encoding: 613 -1 598
 Width: 1632
 GlyphClass: 3
 Flags: MW
@@ -23247,7 +22560,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhch1
-Encoding: 614 -1 610
+Encoding: 614 -1 599
 Width: 1398
 GlyphClass: 3
 Flags: MW
@@ -23261,33 +22574,33 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx ch1
 EndChar
 
 StartChar: zhch1u1
-Encoding: 615 -1 611
+Encoding: 615 -1 600
 Width: 1380
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1914 -498 2
-Refer: 610 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 1914 -498 2
+Refer: 599 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zhch1 u1
 EndChar
 
 StartChar: zhch1u2
-Encoding: 616 -1 612
+Encoding: 616 -1 601
 Width: 1394
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1827 -504 2
-Refer: 610 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 1827 -504 2
+Refer: 599 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zhch1 u2
 EndChar
 
 StartChar: zhv1
-Encoding: 617 -1 613
+Encoding: 617 -1 602
 Width: 1424
 GlyphClass: 3
 Flags: MW
@@ -23302,46 +22615,46 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: zhv1u1
-Encoding: 618 -1 614
+Encoding: 618 -1 603
 Width: 1424
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 S 1 0 0 1 1902 -384 2
-Refer: 613 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 S 1 0 0 1 1902 -384 2
+Refer: 602 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zh v2 u1
 EndChar
 
 StartChar: zhv1u2
-Encoding: 619 -1 615
+Encoding: 619 -1 604
 Width: 1424
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 S 1 0 0 1 1707 -468 2
-Refer: 613 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 S 1 0 0 1 1707 -468 2
+Refer: 602 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" zh v2 u2
 EndChar
 
 StartChar: rhu1
-Encoding: 620 -1 616
+Encoding: 620 -1 605
 Width: 1142
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1410 78 2
+Refer: 630 -1 N 1 0 0 1 1410 78 2
 Refer: 82 3377 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" rh u1
 EndChar
 
 StartChar: rhu2
-Encoding: 621 -1 617
+Encoding: 621 -1 606
 Width: 1196
 VWidth: 0
 GlyphClass: 3
@@ -23349,13 +22662,13 @@ Flags: MW
 LayerCount: 2
 Fore
 Refer: 82 3377 N 1 0 0 1 -0 0 2
-Refer: 642 -1 N 1 0 0 1 1242 87 2
+Refer: 631 -1 N 1 0 0 1 1242 87 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" rh u2
 EndChar
 
 StartChar: rhrh
-Encoding: 622 -1 618
+Encoding: 622 -1 607
 Width: 1308
 GlyphClass: 3
 Flags: MW
@@ -23405,34 +22718,34 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
-Encoding: 623 -1 619
+Encoding: 623 -1 608
 Width: 1308
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 1572 -381 2
-Refer: 618 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 1572 -381 2
+Refer: 607 -1 N 1 0 0 1 0 0 2
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" rhrh u1
 LCarets2: 1 0 
 EndChar
 
 StartChar: rhrhu2
-Encoding: 624 -1 620
+Encoding: 624 -1 609
 Width: 1308
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 1464 -393 2
-Refer: 618 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 1464 -393 2
+Refer: 607 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" rhrh u2
 EndChar
 
 StartChar: k2r3
-Encoding: 625 -1 621
+Encoding: 625 -1 610
 Width: 2042
 GlyphClass: 2
 Flags: MW
@@ -23492,81 +22805,103 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k2r3u1
-Encoding: 626 -1 622
+Encoding: 626 -1 611
 Width: 2042
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 641 -1 N 1 0 0 1 2478 15 2
-Refer: 621 -1 N 1 0 0 1 0 0 2
+Refer: 630 -1 N 1 0 0 1 2478 15 2
+Refer: 610 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k2r3 u1
 EndChar
 
 StartChar: k2r3u2
-Encoding: 627 -1 623
+Encoding: 627 -1 612
 Width: 2168
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 642 -1 N 1 0 0 1 2385 -6 2
-Refer: 621 -1 N 1 0 0 1 0 0 2
+Refer: 631 -1 N 1 0 0 1 2385 -6 2
+Refer: 610 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" k2r3 u2
 EndChar
 
 StartChar: th2r1
-Encoding: 628 -1 624
+Encoding: 628 -1 613
 Width: 1557
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 645 -1 N 1 0 0 1 624 14 2
+Refer: 634 -1 N 1 0 0 1 624 14 2
 Refer: 71 3365 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" th2 r1
 EndChar
 
 StartChar: th2r3
-Encoding: 629 -1 625
-Width: 1697
+Encoding: 629 -1 614
+Width: 1980
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-1701 -21 m 1,0,1
- 1674 -373 1674 -373 1040 -373 c 0,2,3
- 143 -373 143 -373 143 447 c 0,4,5
- 143 727 143 727 312 951 c 1,6,-1
- 408 887 l 1,7,8
- 263 683 263 683 263 447 c 0,9,10
- 263 -253 263 -253 1025 -253 c 0,11,12
- 1566 -253 1566 -253 1566 -4 c 0,13,14
- 1566 0 1566 0 455 0 c 1,15,-1
- 455 920 l 1,16,-1
- 591 920 l 1,17,-1
- 591 115 l 1,18,-1
- 880 115 l 1,19,-1
- 880 543 l 2,20,21
- 880 710 880 710 999.5 827.5 c 128,-1,22
- 1119 945 1119 945 1290 945 c 256,23,24
- 1461 945 1461 945 1579.5 832.5 c 128,-1,25
- 1698 720 1698 720 1698 555 c 2,26,-1
- 1698 12 l 1,27,-1
- 1701 12 l 1,28,-1
- 1701 -21 l 1,0,1
-1564 115 m 1,29,-1
- 1564 548 l 2,30,31
- 1564 661 1564 661 1482.5 742 c 128,-1,32
- 1401 823 1401 823 1288 823 c 256,33,34
- 1175 823 1175 823 1096.5 741 c 128,-1,35
- 1018 659 1018 659 1018 546 c 2,36,-1
- 1018 115 l 1,37,-1
- 1564 115 l 1,29,-1
+1332.3 92.1816 m 1,0,1
+ 1365.67 91.1777 1365.67 91.1777 1420.87 89.6221 c 128,-1,2
+ 1476.06 88.0664 1476.06 88.0664 1550.12 105.786 c 128,-1,3
+ 1624.18 123.505 1624.18 123.505 1669.72 177.829 c 128,-1,4
+ 1715.27 232.154 1715.27 232.154 1739.36 353.524 c 1,5,6
+ 1781.72 631.523 1781.72 631.523 1656.48 775.051 c 0,7,8
+ 1571.85 872.035 1571.85 872.035 1439.74 882.9 c 128,-1,9
+ 1307.63 893.767 1307.63 893.767 1204.72 827.01 c 128,-1,10
+ 1101.8 760.253 1101.8 760.253 1084.03 646.353 c 0,11,12
+ 1051.03 434.834 1051.03 434.834 1319.28 165.033 c 0,13,14
+ 1350.92 133.201 1350.92 133.201 1332.3 92.1816 c 1,0,1
+1204.83 96.1748 m 1,15,16
+ 914.022 400.039 914.022 400.039 955.585 666.394 c 0,17,18
+ 982.315 837.699 982.315 837.699 1128.2 932.333 c 128,-1,19
+ 1274.09 1026.97 1274.09 1026.97 1454.6 1012.12 c 128,-1,20
+ 1635.11 997.271 1635.11 997.271 1754.43 860.524 c 0,21,22
+ 1919.93 670.85 1919.93 670.85 1867.44 331.104 c 1,23,24
+ 1815.83 67.3937 1815.83 67.3937 1774.25 -10.6328 c 0,25,26
+ 1607.91 -320.646 1607.91 -320.646 1202.45 -390.067 c 0,27,28
+ 958.387 -431.855 958.387 -431.855 725.79 -367.35 c 128,-1,29
+ 493.194 -302.844 493.194 -302.844 328.542 -130.965 c 0,30,31
+ 223.445 -21.2539 223.445 -21.2539 163.809 121.862 c 128,-1,32
+ 104.176 264.971 104.176 264.971 100.271 416.856 c 128,-1,33
+ 96.3682 568.735 96.3682 568.735 148.571 714.725 c 128,-1,34
+ 200.774 860.711 200.774 860.711 300.1 975.68 c 0,35,36
+ 317.46 995.774 317.46 995.774 344.568 997.755 c 128,-1,37
+ 371.676 999.736 371.676 999.736 391.779 982.372 c 128,-1,38
+ 411.879 965.007 411.879 965.007 413.855 937.896 c 128,-1,39
+ 415.833 910.783 415.833 910.783 398.472 890.691 c 0,40,41
+ 315.013 794.088 315.013 794.088 270.98 670.952 c 128,-1,42
+ 226.948 547.815 226.948 547.815 230.229 420.196 c 128,-1,43
+ 233.509 292.576 233.509 292.576 283.809 171.864 c 128,-1,44
+ 334.106 51.1533 334.106 51.1533 422.419 -41.0352 c 0,45,46
+ 562.357 -187.118 562.357 -187.118 763.732 -242.966 c 128,-1,47
+ 965.108 -298.813 965.108 -298.813 1160.36 -265.383 c 128,-1,48
+ 1355.61 -231.951 1355.61 -231.951 1459.08 -163.909 c 128,-1,49
+ 1562.55 -95.8672 1562.55 -95.8672 1623.53 -8.25488 c 1,50,51
+ 1524.57 -43.3525 1524.57 -43.3525 1411.63 -40.1699 c 128,-1,52
+ 1298.7 -36.9863 1298.7 -36.9863 1156.63 -32.3252 c 128,-1,53
+ 1014.57 -27.6631 1014.57 -27.6631 930.148 -30.4941 c 0,54,55
+ 759.293 -35.4404 759.293 -35.4404 663.605 47.3477 c 128,-1,56
+ 567.918 130.137 567.918 130.137 536.969 262.21 c 0,57,58
+ 479.685 506.668 479.685 506.668 615.313 952.598 c 0,59,60
+ 623.042 978.01 623.042 978.01 647.025 990.805 c 128,-1,61
+ 671.009 1003.6 671.009 1003.6 696.415 995.871 c 128,-1,62
+ 721.821 988.143 721.821 988.143 734.619 964.162 c 128,-1,63
+ 747.416 940.182 747.416 940.182 739.688 914.77 c 0,64,65
+ 556.316 311.865 556.316 311.865 742.207 150.756 c 0,66,67
+ 805.443 95.9492 805.443 95.9492 909.979 99.1787 c 128,-1,68
+ 1014.52 102.408 1014.52 102.408 1098.43 99.6543 c 128,-1,69
+ 1182.34 96.9014 1182.34 96.9014 1204.83 96.1748 c 1,15,16
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th2
@@ -23574,47 +22909,20 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th3l3
-Encoding: 630 -1 626
-Width: 1038
+Encoding: 630 -1 615
+Width: 1287
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
 Fore
-SplineSet
-1040 285 m 0,0,1
- 1040 170 1040 170 953 98 c 0,2,3
- 866 26 866 26 734 26 c 256,4,5
- 602 26 602 26 547 49 c 1,6,-1
- 547 166 l 1,7,8
- 586 142 586 142 696 142 c 0,9,10
- 908 142 908 142 908 290 c 0,11,12
- 908 431 908 431 718 431 c 2,13,-1
- 615 431 l 1,14,-1
- 615 548 l 1,15,-1
- 716 548 l 2,16,17
- 908 548 908 548 908 675 c 0,18,19
- 908 752 908 752 835 788 c 0,20,21
- 762 824 762 824 670 824 c 0,22,23
- 474 824 474 824 370 713 c 0,24,25
- 266 602 266 602 266 434 c 256,26,27
- 266 266 266 266 364 61 c 1,28,-1
- 244 26 l 1,29,30
- 143 240 143 240 143 452 c 0,31,32
- 144 664 144 664 278 804 c 0,33,34
- 412 944 412 944 662 943 c 0,35,36
- 816 942 816 942 928 876 c 0,37,38
- 1040 810 1040 810 1040 682 c 0,39,40
- 1040 622 1040 622 1002 564 c 0,41,42
- 964 506 964 506 913 489 c 1,43,44
- 1040 436 1040 436 1040 285 c 0,0,1
-EndSplineSet
-Refer: 633 -1 N 0.647022 0 0 1 1103 -3 2
+Refer: 72 3366 N 1 0 0 1 -0.536232 0 2
+Refer: 622 -1 N 0.744385 0 0 0.842134 1169.69 -3.42935 2
 LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" th3 l4
 EndChar
 
 StartChar: y1v1
-Encoding: 631 -1 627
+Encoding: 631 -1 616
 Width: 1721
 GlyphClass: 2
 Flags: MW
@@ -23685,7 +22993,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx v1
 EndChar
 
 StartChar: y1v1u1
-Encoding: 632 -1 628
+Encoding: 632 -1 617
 Width: 1721
 GlyphClass: 2
 Flags: MW
@@ -23771,7 +23079,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: y1v1u2
-Encoding: 633 -1 629
+Encoding: 633 -1 618
 Width: 1783
 GlyphClass: 2
 Flags: MW
@@ -23865,7 +23173,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: dotrephy1y1
-Encoding: 634 -1 630
+Encoding: 634 -1 619
 Width: 1775
 GlyphClass: 3
 Flags: MW
@@ -23928,7 +23236,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 loo
 EndChar
 
 StartChar: dotrephl3l3
-Encoding: 635 -1 631
+Encoding: 635 -1 620
 Width: 1664
 GlyphClass: 3
 Flags: MW
@@ -23942,7 +23250,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" dotreph l3 xx l3
 EndChar
 
 StartChar: dotrephv1v1
-Encoding: 636 -1 632
+Encoding: 636 -1 621
 Width: 1735
 GlyphClass: 3
 Flags: MW
@@ -23957,7 +23265,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph v1 xx v1
 EndChar
 
 StartChar: l4
-Encoding: 637 -1 633
+Encoding: 637 -1 622
 Width: 0
 GlyphClass: 3
 Flags: MW
@@ -24001,7 +23309,7 @@ Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
 StartChar: y1xx
-Encoding: 638 -1 634
+Encoding: 638 -1 623
 Width: 1864
 GlyphClass: 3
 Flags: MW
@@ -24014,7 +23322,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" y1 xx
 EndChar
 
 StartChar: l3xx
-Encoding: 639 -1 635
+Encoding: 639 -1 624
 Width: 1634
 GlyphClass: 3
 Flags: MW
@@ -24027,7 +23335,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" l3 xx
 EndChar
 
 StartChar: v1xx
-Encoding: 640 -1 636
+Encoding: 640 -1 625
 Width: 1732
 GlyphClass: 3
 Flags: MW
@@ -24040,7 +23348,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" v1 xx
 EndChar
 
 StartChar: rh_half
-Encoding: 91 3386 637
+Encoding: 91 3386 626
 Width: 1496
 Flags: W
 LayerCount: 2
@@ -24078,7 +23386,7 @@ EndSplineSet
 EndChar
 
 StartChar: n2
-Encoding: 74 3369 638
+Encoding: 74 3369 627
 Width: 1853
 Flags: W
 LayerCount: 2
@@ -24087,7 +23395,7 @@ Refer: 330 -1 N -1 0 0 1 1849 0 2
 EndChar
 
 StartChar: l1
-Encoding: 109 3426 639
+Encoding: 109 3426 628
 Width: 0
 Flags: W
 LayerCount: 2
@@ -24096,7 +23404,7 @@ Refer: 48 3340 S 0.730476 0 0 0.626556 -1306 -605 2
 EndChar
 
 StartChar: r2
-Encoding: 99 3396 640
+Encoding: 99 3396 629
 Width: 1454
 Flags: W
 LayerCount: 2
@@ -24155,7 +23463,7 @@ EndSplineSet
 EndChar
 
 StartChar: u_sign_drop
-Encoding: 641 -1 641
+Encoding: 641 -1 630
 Width: 2048
 VWidth: 0
 Flags: W
@@ -24188,7 +23496,7 @@ EndSplineSet
 EndChar
 
 StartChar: uu_sign_drop
-Encoding: 642 -1 642
+Encoding: 642 -1 631
 Width: 2048
 VWidth: 0
 Flags: W
@@ -24228,7 +23536,7 @@ EndSplineSet
 EndChar
 
 StartChar: va_sign
-Encoding: 643 -1 643
+Encoding: 643 -1 632
 Width: 2048
 VWidth: 0
 LayerCount: 2
@@ -24266,7 +23574,7 @@ EndSplineSet
 EndChar
 
 StartChar: th2_half
-Encoding: 644 -1 644
+Encoding: 644 -1 633
 Width: 1339
 Flags: W
 LayerCount: 2
@@ -24297,7 +23605,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalic_r_sign_drop
-Encoding: 645 -1 645
+Encoding: 645 -1 634
 Width: 957
 VWidth: 0
 Flags: W
@@ -24328,7 +23636,7 @@ EndSplineSet
 EndChar
 
 StartChar: u_drop_sign_big
-Encoding: 646 -1 646
+Encoding: 646 -1 635
 Width: 612
 VWidth: 0
 Flags: W
