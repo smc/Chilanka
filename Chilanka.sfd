@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1413549660
+ModificationTime: 1413550823
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -792,7 +792,7 @@ EndChar
 
 StartChar: space
 Encoding: 1 32 1
-Width: 400
+Width: 560
 GlyphClass: 2
 Flags: MWO
 LayerCount: 2
