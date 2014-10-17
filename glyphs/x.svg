@@ -30,7 +30,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
      inkscape:zoom="0.23122392"
-     inkscape:cx="1059.0403"
+     inkscape:cx="466.54105"
      inkscape:cy="955.5878"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,6 +80,16 @@
          id="path5706-0-7"
          d="M 9859.9519,14.886134 9055.5487,-860.66499"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:111.34872437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5706-0-4"
+         d="M 10219.981,41.303191 11261.627,-1308.2147"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:92.67124176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5706-0-7-9"
+         d="M 11312.031,21.305255 10270.385,-1328.2129"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:92.67124176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

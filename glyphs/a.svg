@@ -26,9 +26,9 @@
      inkscape:window-height="853"
      id="namedview33"
      showgrid="true"
-     inkscape:zoom="0.11561196"
-     inkscape:cx="2901.8586"
-     inkscape:cy="444.71537"
+     inkscape:zoom="0.1635"
+     inkscape:cx="2779.6547"
+     inkscape:cy="1334.6822"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -74,4 +74,16 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1360,1410 c 0,0 80,-1074 413.0286,-1324.91129 C 2145.5965,-195.61243 2400,1408 2400,1408"
+     id="path4138"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1492,798 728,0"
+     id="path4140"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
 </svg>
