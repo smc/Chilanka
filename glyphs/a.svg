@@ -12,7 +12,7 @@
    height="2048"
    width="4000"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="g.svg">
+   sodipodi:docname="a.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,29 +26,30 @@
      inkscape:window-height="853"
      id="namedview33"
      showgrid="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-grids="false"
-     inkscape:zoom="0.23122392"
-     inkscape:cx="1080.6643"
-     inkscape:cy="1115.6058"
+     inkscape:zoom="0.11561196"
+     inkscape:cx="2901.8586"
+     inkscape:cy="444.71537"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-6">
+     inkscape:current-layer="svg2992"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4162" />
     <sodipodi:guide
        orientation="0,1"
-       position="400,600"
+       position="2560,1600"
        id="guide4164"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        orientation="0,1"
-       position="-880,1600"
-       id="guide4166" />
+       position="-1360,600"
+       id="guide4166"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs5498" />
@@ -60,21 +61,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(5944.9542,1347.6942)"
+     transform="matrix(1.1293357,0,0,0.99178138,2327.6427,2170.9425)"
      id="layer1">
-    <g
-       id="layer1-6"
-       transform="translate(-14814.53,16.043327)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4165"
-         d="m 9674.7351,-585.08822 c -17.0596,-233.4471 -172.9667,-317.7706 -366.5293,-250.4415 -434.0073,155.8482 -363.4373,980.71407 -20.4723,863.747872 181.603,-9.4932 412.3343,-570.532802 386.8458,-608.692072 139.5678,1063.78044 -280.5658,1358.22624 -763.3759,1064.85894"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       id="path4165-7"
+       d="m -1181.8525,-1426.4919 c -17.0596,-233.4472 -172.9667,-317.7706 -366.5292,-250.4415 -434.0073,155.8482 -363.4374,980.71405 -20.4724,863.74785 181.603,-9.4933 412.3343,-570.53285 386.8458,-608.69215 -27.4512,302.8612 -27.4512,494.86115 8.7799,648.15155"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -12,7 +12,7 @@
    height="2048"
    width="4000"
    inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="g.svg">
+   sodipodi:docname="b.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,13 +29,13 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
-     inkscape:zoom="0.23122392"
-     inkscape:cx="1080.6643"
-     inkscape:cy="1115.6058"
+     inkscape:zoom="0.327"
+     inkscape:cx="410.40368"
+     inkscape:cy="1409.06"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-6">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid4162" />
@@ -60,21 +60,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      transform="translate(5944.9542,1347.6942)"
      id="layer1">
-    <g
-       id="layer1-6"
-       transform="translate(-14814.53,16.043327)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4165"
-         d="m 9674.7351,-585.08822 c -17.0596,-233.4471 -172.9667,-317.7706 -366.5293,-250.4415 -434.0073,155.8482 -363.4373,980.71407 -20.4723,863.747872 181.603,-9.4932 412.3343,-570.532802 386.8458,-608.692072 139.5678,1063.78044 -280.5658,1358.22624 -763.3759,1064.85894"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       id="path4165-7-7-4"
+       d="m -5691.3932,-512.56784 c 771.7462,-980.45016 1209.481,545.577137 421.8493,574.750185 -400.7392,15.161827 -429.2941,-644.934645 -432.9783,-390.984095 -2.6425,182.14836 -28.7236,354.423108 -16.533,370.621434 30.6635,-300.253644 37.6418,-1329.592984 37.6418,-1329.592984"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:136.80305481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
   </g>
 </svg>
