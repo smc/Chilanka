@@ -30,7 +30,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
      inkscape:zoom="0.23122392"
-     inkscape:cx="466.54105"
+     inkscape:cx="-125.9582"
      inkscape:cy="1128.5803"
      inkscape:window-x="1598"
      inkscape:window-y="-3"
@@ -73,8 +73,9 @@
       <path
          inkscape:connector-curvature="0"
          id="path5525-42"
-         d="m 9064.5303,-857.99798 c -143.6803,1309.1698 709.4739,996.618 651.8198,4.2201 -1.5118,-26.0221 -47.2355,800.889397 12.3167,892.089997"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 9064.5303,-857.99798 c -329.6472,1231.32318 765.6965,1122.03755 651.8198,4.2201 -2.6418,-25.93176 -51.4976,829.21061 94.4881,905.064433"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="csc" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 10136.746,-1307.6984 c -30.274,1159.04963 147.224,1346.029116 531.952,1331.413504 358.959,-8.649624 622.772,-357.681244 449.78,-1348.063204"
