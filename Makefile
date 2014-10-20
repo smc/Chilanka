@@ -14,6 +14,7 @@ webfonts:
 	@echo "Generating webfonts"
 	@sfntly -w ${font}.ttf ${font}.woff;
 	@sfntly -e -x ${font}.ttf ${font}.eot;
+	woff2_compress ${font}.ttf;
 
 test: compile
 # Test the fonts
