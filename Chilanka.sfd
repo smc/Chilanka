@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1413961945
+ModificationTime: 1413966568
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -762,12 +762,12 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
+WinInfo: 108 27 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
-BeginChars: 682 682
+BeginChars: 683 682
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -20810,12 +20810,12 @@ EndChar
 
 StartChar: shnhu2
 Encoding: 538 -1 538
-Width: 2306
+Width: 2569
 GlyphClass: 3
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1 0 0 0.713059 -12 -606 2
+Refer: 264 -1 S 1 0 0 0.713059 -12 -606 2
 Refer: 88 3383 N 1.07418 0 0 0.908876 140 168 2
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" shnh u2
