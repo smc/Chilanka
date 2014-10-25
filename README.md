@@ -5,3 +5,5 @@ A Malayalam handwriting style font
 
 
 ![Sample text rendering](http://thottingal.in/fonts/Chilanka/sample1.png "Sample text rendering")
+
+Latest version: [download](http://thottingal.in/fonts/Chilanka/Chilanka.ttf)
