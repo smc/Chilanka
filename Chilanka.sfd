@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1414385057
+ModificationTime: 1414676885
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -757,7 +757,6 @@ LangName: 1100 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DRoNPw0yD
 LangName: 1033 "" "" "Regular" "Chilanka2014SMC" "" "1.0.0-alpha.20141027" "" "" "" "Santhosh Thottingal <santhosh.thottingal@gmail.com>" "Handwriting style font for Malayalam+AAoA" "https://savannah.nongnu.org/projects/smc" "http://smc.org.in+AAoACgAA-hussain.rachana@gmail.com; psuresh@riseup.net; psuresh@gmx.com; santhosh.thottingal@gmail.com; rajeeshknambiar@gmail.com" "Digitized data copyright (c) 2014, Santhosh Thottingal, Kavya Manohar,+AAoA-Swathanthra Malayalam Computing(http://smc.org.in) with reserved font name +ACIA-Chilanka+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Chilanka" "Regular" "Chilanka" 
 GaspTable: 1 65535 15 1
 Encoding: Custom
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
@@ -768,7 +767,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
-BeginChars: 684 677
+BeginChars: 678 678
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -22624,7 +22623,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: l4
-Encoding: 616 -1 613
+Encoding: 613 -1 613
 Width: 0
 GlyphClass: 3
 Flags: MW
@@ -22668,7 +22667,7 @@ Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
 StartChar: rh_half
-Encoding: 620 3386 614
+Encoding: 614 3386 614
 Width: 1496
 Flags: W
 LayerCount: 2
@@ -22706,7 +22705,7 @@ EndSplineSet
 EndChar
 
 StartChar: n2
-Encoding: 621 3369 615
+Encoding: 615 3369 615
 Width: 1853
 Flags: W
 LayerCount: 2
@@ -22715,7 +22714,7 @@ Refer: 330 -1 N -1 0 0 1 1849 0 2
 EndChar
 
 StartChar: l1
-Encoding: 622 3426 616
+Encoding: 616 3426 616
 Width: 0
 Flags: W
 LayerCount: 2
@@ -22724,7 +22723,7 @@ Refer: 48 3340 S 0.730476 0 0 0.626556 -1306 -605 2
 EndChar
 
 StartChar: r2
-Encoding: 623 3396 617
+Encoding: 617 3396 617
 Width: 1454
 Flags: W
 LayerCount: 2
@@ -22783,7 +22782,7 @@ EndSplineSet
 EndChar
 
 StartChar: u_sign_drop
-Encoding: 624 -1 618
+Encoding: 618 -1 618
 Width: 2048
 VWidth: 0
 Flags: W
@@ -22816,7 +22815,7 @@ EndSplineSet
 EndChar
 
 StartChar: uu_sign_drop
-Encoding: 625 -1 619
+Encoding: 619 -1 619
 Width: 2048
 VWidth: 0
 Flags: W
@@ -22856,7 +22855,7 @@ EndSplineSet
 EndChar
 
 StartChar: va_sign
-Encoding: 626 -1 620
+Encoding: 620 -1 620
 Width: 2048
 VWidth: 0
 LayerCount: 2
@@ -22894,7 +22893,7 @@ EndSplineSet
 EndChar
 
 StartChar: th2_half
-Encoding: 627 -1 621
+Encoding: 621 -1 621
 Width: 1339
 Flags: W
 LayerCount: 2
@@ -22925,7 +22924,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalic_r_sign_drop
-Encoding: 628 -1 622
+Encoding: 622 -1 622
 Width: 957
 VWidth: 0
 Flags: W
@@ -22956,7 +22955,7 @@ EndSplineSet
 EndChar
 
 StartChar: u_drop_sign_big
-Encoding: 629 -1 623
+Encoding: 623 -1 623
 Width: 612
 VWidth: 0
 Flags: W
@@ -22986,7 +22985,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 630 97 624
+Encoding: 624 97 624
 Width: 1095
 VWidth: 0
 Flags: MW
@@ -23027,7 +23026,7 @@ Kerns2: 633 -492 "'kern' Horizontal Kerning in Latin lookup 0-2"  643 -164 "'ker
 EndChar
 
 StartChar: b
-Encoding: 631 98 625
+Encoding: 625 98 625
 Width: 1199
 VWidth: 0
 Flags: MW
@@ -23070,7 +23069,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 632 99 626
+Encoding: 626 99 626
 Width: 964
 VWidth: 0
 Flags: MW
@@ -23101,7 +23100,7 @@ Kerns2: 638 -164 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: d
-Encoding: 633 100 627
+Encoding: 627 100 627
 Width: 1192
 VWidth: 0
 Flags: MW
@@ -23111,7 +23110,7 @@ Refer: 625 98 S -0.999823 0.0188055 0.0188055 0.999823 1191.1 12 2
 EndChar
 
 StartChar: e
-Encoding: 634 101 628
+Encoding: 628 101 628
 Width: 1156
 VWidth: 0
 Flags: MW
@@ -23153,7 +23152,7 @@ Kerns2: 628 -164 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: f
-Encoding: 635 102 629
+Encoding: 629 102 629
 Width: 1106
 VWidth: 0
 Flags: MW
@@ -23199,7 +23198,7 @@ Kerns2: 629 -355 "'kern' Horizontal Kerning in Latin lookup 0-2"  649 -382 "'ker
 EndChar
 
 StartChar: g
-Encoding: 636 103 630
+Encoding: 630 103 630
 Width: 1119
 VWidth: 0
 Flags: MW
@@ -23245,7 +23244,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 637 104 631
+Encoding: 631 104 631
 Width: 1120
 VWidth: 0
 Flags: MW
@@ -23285,7 +23284,7 @@ Kerns2: 643 -136 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: i
-Encoding: 638 105 632
+Encoding: 632 105 632
 Width: 455
 VWidth: 0
 Flags: MW
@@ -23318,7 +23317,7 @@ Kerns2: 643 -164 "'kern' Horizontal Kerning in Latin lookup 0-2"  633 -328 "'ker
 EndChar
 
 StartChar: j
-Encoding: 639 106 633
+Encoding: 633 106 633
 Width: 865
 VWidth: 0
 Flags: MW
@@ -23354,7 +23353,7 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 640 107 634
+Encoding: 634 107 634
 Width: 1071
 VWidth: 0
 Flags: MW
@@ -23396,7 +23395,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 641 108 635
+Encoding: 635 108 635
 Width: 363
 VWidth: 0
 Flags: MW
@@ -23419,7 +23418,7 @@ Kerns2: 635 137 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: m
-Encoding: 642 109 636
+Encoding: 636 109 636
 Width: 1619
 VWidth: 0
 Flags: MW
@@ -23472,7 +23471,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 643 110 637
+Encoding: 637 110 637
 Width: 1295
 VWidth: 0
 Flags: MW
@@ -23511,7 +23510,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 644 111 638
+Encoding: 638 111 638
 Width: 1209
 VWidth: 0
 Flags: MW
@@ -23546,7 +23545,7 @@ Kerns2: 633 -465 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: p
-Encoding: 645 112 639
+Encoding: 639 112 639
 Width: 1199
 VWidth: 0
 Flags: MW
@@ -23556,7 +23555,7 @@ Refer: 625 98 S 1 0 0 -1 0.000652313 998 2
 EndChar
 
 StartChar: q
-Encoding: 646 113 640
+Encoding: 640 113 640
 Width: 1194
 VWidth: 0
 Flags: MW
@@ -23566,7 +23565,7 @@ Refer: 625 98 S -0.999904 -0.0138394 0.0138394 -0.999904 1193.43 1013 2
 EndChar
 
 StartChar: r
-Encoding: 647 114 641
+Encoding: 641 114 641
 Width: 827
 VWidth: 0
 Flags: MW
@@ -23602,7 +23601,7 @@ Kerns2: 638 -245 "'kern' Horizontal Kerning in Latin lookup 0-2"  624 -300 "'ker
 EndChar
 
 StartChar: s
-Encoding: 648 115 642
+Encoding: 642 115 642
 Width: 1056
 VWidth: 0
 Flags: MW
@@ -23644,7 +23643,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 649 116 643
+Encoding: 643 116 643
 Width: 812
 VWidth: 0
 Flags: MW
@@ -23685,7 +23684,7 @@ Kerns2: 624 -109 "'kern' Horizontal Kerning in Latin lookup 0-2"  638 -137 "'ker
 EndChar
 
 StartChar: u
-Encoding: 650 117 644
+Encoding: 644 117 644
 Width: 1114
 VWidth: 0
 Flags: MW
@@ -23722,7 +23721,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 651 118 645
+Encoding: 645 118 645
 Width: 975
 VWidth: 0
 Flags: MW
@@ -23748,7 +23747,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 652 119 646
+Encoding: 646 119 646
 Width: 1544
 VWidth: 0
 Flags: MW
@@ -23794,7 +23793,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 653 120 647
+Encoding: 647 120 647
 Width: 1139
 VWidth: 0
 Flags: MW
@@ -23834,7 +23833,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 654 122 648
+Encoding: 648 122 648
 Width: 1173
 VWidth: 0
 Flags: MW
@@ -23873,7 +23872,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 655 121 649
+Encoding: 649 121 649
 Width: 961
 VWidth: 0
 Flags: MW
@@ -23911,7 +23910,7 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 656 65 650
+Encoding: 650 65 650
 Width: 1370
 VWidth: 1000
 Flags: W
@@ -23948,7 +23947,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 657 66 651
+Encoding: 651 66 651
 Width: 1155
 VWidth: 0
 Flags: W
@@ -23990,7 +23989,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 658 67 652
+Encoding: 652 67 652
 Width: 1370
 VWidth: 0
 Flags: W
@@ -24020,7 +24019,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 659 68 653
+Encoding: 653 68 653
 Width: 1093
 VWidth: 0
 Flags: W
@@ -24050,7 +24049,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 660 69 654
+Encoding: 654 69 654
 Width: 1298
 Flags: W
 LayerCount: 2
@@ -24091,7 +24090,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 661 70 655
+Encoding: 655 70 655
 Width: 1285
 VWidth: 0
 Flags: W
@@ -24132,7 +24131,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 662 71 656
+Encoding: 656 71 656
 Width: 1851
 VWidth: 0
 Flags: W
@@ -24182,7 +24181,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 663 72 657
+Encoding: 657 72 657
 Width: 1110
 VWidth: 0
 Flags: W
@@ -24218,7 +24217,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 664 73 658
+Encoding: 658 73 658
 Width: 342
 VWidth: 0
 Flags: W
@@ -24240,7 +24239,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 665 74 659
+Encoding: 659 74 659
 Width: 993
 VWidth: 0
 Flags: W
@@ -24268,7 +24267,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 666 75 660
+Encoding: 660 75 660
 Width: 1211
 VWidth: 0
 Flags: W
@@ -24307,7 +24306,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 667 76 661
+Encoding: 661 76 661
 Width: 1267
 VWidth: 0
 Flags: W
@@ -24337,7 +24336,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 668 77 662
+Encoding: 662 77 662
 Width: 1497
 VWidth: 0
 Flags: W
@@ -24379,7 +24378,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 669 78 663
+Encoding: 663 78 663
 Width: 1264
 VWidth: 0
 Flags: W
@@ -24411,7 +24410,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 670 79 664
+Encoding: 664 79 664
 Width: 1702
 VWidth: 0
 Flags: W
@@ -24451,7 +24450,7 @@ EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 671 80 665
+Encoding: 665 80 665
 Width: 983
 VWidth: 0
 Flags: W
@@ -24482,7 +24481,7 @@ EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 672 81 666
+Encoding: 666 81 666
 Width: 1796
 VWidth: 0
 Flags: W
@@ -24528,7 +24527,7 @@ EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 673 82 667
+Encoding: 667 82 667
 Width: 1372
 VWidth: 0
 Flags: W
@@ -24568,7 +24567,7 @@ EndSplineSet
 EndChar
 
 StartChar: S
-Encoding: 674 83 668
+Encoding: 668 83 668
 Width: 1372
 VWidth: 0
 Flags: W
@@ -24616,7 +24615,7 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 675 84 669
+Encoding: 669 84 669
 Width: 1389
 VWidth: 0
 Flags: W
@@ -24647,7 +24646,7 @@ Kerns2: 638 -437 "'kern' Horizontal Kerning in Latin lookup 0-2"  631 -164 "'ker
 EndChar
 
 StartChar: U
-Encoding: 676 85 670
+Encoding: 670 85 670
 Width: 1370
 VWidth: 0
 Flags: W
@@ -24680,7 +24679,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 677 86 671
+Encoding: 671 86 671
 Width: 1246
 VWidth: 0
 Flags: W
@@ -24708,7 +24707,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 678 87 672
+Encoding: 672 87 672
 Width: 1840
 VWidth: 0
 Flags: W
@@ -24757,7 +24756,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 679 88 673
+Encoding: 673 88 673
 Width: 1421
 VWidth: 0
 Flags: W
@@ -24793,7 +24792,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 680 89 674
+Encoding: 674 89 674
 Width: 1272
 VWidth: 0
 Flags: W
@@ -24822,7 +24821,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 681 90 675
+Encoding: 675 90 675
 Width: 1473
 VWidth: 0
 Flags: W
@@ -24859,7 +24858,7 @@ EndSplineSet
 EndChar
 
 StartChar: aam
-Encoding: 682 -1 676
+Encoding: 676 -1 676
 Width: 1604
 Flags: W
 LayerCount: 2
@@ -24869,6 +24868,103 @@ Refer: 92 3390 N 1 0 0 1 -0.143692 0 2
 LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni25CC a2 anuswara
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anuswara
+EndChar
+
+StartChar: ml_rr
+Encoding: 677 3424 677
+Width: 1859
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+756.58 539.073 m 1,0,1
+ 850.154 499.941 850.154 499.941 1024.89 432.979 c 1,2,3
+ 1159.02 489.63 1159.02 489.63 1275.83 541.521 c 1,4,5
+ 1105.55 677.357 1105.55 677.357 1075.67 772.792 c 0,6,7
+ 1063.26 812.425 1063.26 812.425 1070.5 862.247 c 128,-1,8
+ 1077.74 912.07 1077.74 912.07 1125.06 945.203 c 128,-1,9
+ 1172.39 978.337 1172.39 978.337 1239.3 988.232 c 0,10,11
+ 1364.08 1006.69 1364.08 1006.69 1506.54 956.822 c 128,-1,12
+ 1648.99 906.959 1648.99 906.959 1686.61 806.2 c 0,13,14
+ 1744.13 652.107 1744.13 652.107 1511.11 507.951 c 0,15,16
+ 1473.54 484.71 1473.54 484.71 1196.62 365.008 c 1,17,18
+ 1374.2 292.563 1374.2 292.563 1483.32 238.946 c 0,19,20
+ 1740.57 112.542 1740.57 112.542 1757.24 -25.8252 c 0,21,22
+ 1768.69 -120.824 1768.69 -120.824 1715.98 -196.465 c 128,-1,23
+ 1663.28 -272.105 1663.28 -272.105 1561.25 -321.554 c 0,24,25
+ 1377.39 -410.666 1377.39 -410.666 1092.58 -410.727 c 128,-1,26
+ 807.764 -410.788 807.764 -410.788 591.532 -319.7 c 0,27,28
+ 346.096 -216.309 346.096 -216.309 340.632 -22.6201 c 0,29,30
+ 337.384 92.4971 337.384 92.4971 561.061 216.151 c 0,31,32
+ 671.028 276.944 671.028 276.944 854.149 359.169 c 1,33,34
+ 228.88 604.818 228.88 604.818 130.514 743.497 c 0,35,36
+ 70.2188 828.501 70.2188 828.501 129.066 902.276 c 0,37,38
+ 166.157 948.781 166.157 948.781 231.429 966.299 c 128,-1,39
+ 296.7 983.817 296.7 983.817 398.129 986.406 c 0,40,41
+ 651.234 992.865 651.234 992.865 823.536 910.75 c 0,42,43
+ 942.978 853.827 942.978 853.827 947.443 759.03 c 128,-1,44
+ 951.91 664.232 951.91 664.232 832.352 583.718 c 0,45,46
+ 800.48 562.254 800.48 562.254 756.58 539.073 c 1,0,1
+1026.95 292.784 m 1,47,48
+ 609.151 115.609 609.151 115.609 501.038 17.7529 c 0,49,50
+ 474.324 -6.42676 474.324 -6.42676 472.654 -18.083 c 128,-1,51
+ 470.985 -29.7383 470.985 -29.7383 472.654 -38.835 c 0,52,53
+ 490.494 -136.076 490.494 -136.076 662.258 -208.43 c 128,-1,54
+ 834.021 -280.782 834.021 -280.782 1090.78 -280.728 c 128,-1,55
+ 1347.53 -280.673 1347.53 -280.673 1504.56 -204.57 c 0,56,57
+ 1579.64 -168.178 1579.64 -168.178 1606.84 -129.091 c 0,58,59
+ 1664.03 -46.8887 1664.03 -46.8887 1579.12 25.6914 c 0,60,61
+ 1520.41 75.875 1520.41 75.875 1400.84 134.626 c 128,-1,62
+ 1281.27 193.377 1281.27 193.377 1026.95 292.784 c 1,47,48
+235.657 825.6 m 1,63,64
+ 282.633 751.219 282.633 751.219 598.662 607.538 c 1,65,66
+ 604.029 610.831 604.029 610.831 630.807 622.326 c 128,-1,67
+ 657.585 633.821 657.585 633.821 708.906 662.188 c 128,-1,68
+ 760.229 690.557 760.229 690.557 790.266 719.61 c 128,-1,69
+ 820.302 748.664 820.302 748.664 817.59 753.857 c 0,70,71
+ 800.627 786.33 800.627 786.33 685.959 823.557 c 128,-1,72
+ 571.29 860.783 571.29 860.783 422.882 856.995 c 128,-1,73
+ 274.473 853.207 274.473 853.207 235.657 825.6 c 1,63,64
+1409.58 602.834 m 1,74,75
+ 1525.58 658.16 1525.58 658.16 1561.09 725.302 c 0,76,77
+ 1568.13 738.622 1568.13 738.622 1566.83 746.336 c 128,-1,78
+ 1565.53 754.051 1565.53 754.051 1564.82 760.73 c 1,79,80
+ 1548.52 804.395 1548.52 804.395 1449.96 838.895 c 128,-1,81
+ 1351.39 873.396 1351.39 873.396 1275.81 862.219 c 128,-1,82
+ 1200.23 851.041 1200.23 851.041 1197.7 833.604 c 0,83,84
+ 1191.2 788.871 1191.2 788.871 1321.52 673.535 c 0,85,86
+ 1360.67 638.887 1360.67 638.887 1409.58 602.834 c 1,74,75
+908.05 -181.016 m 128,-1,88
+ 892.441 -202.5 892.441 -202.5 865.596 -206.755 c 128,-1,89
+ 838.751 -211.009 838.751 -211.009 787.044 -173.445 c 128,-1,90
+ 735.337 -135.882 735.337 -135.882 686.296 -77.8477 c 128,-1,91
+ 637.254 -19.8125 637.254 -19.8125 652.086 39.75 c 0,92,93
+ 677.224 140.693 677.224 140.693 790.648 145.823 c 0,94,95
+ 942.448 152.689 942.448 152.689 1045.12 52.6689 c 1,96,97
+ 1076.42 82.0947 1076.42 82.0947 1122.92 102.152 c 0,98,99
+ 1222.37 145.049 1222.37 145.049 1337.59 126.575 c 128,-1,100
+ 1452.81 108.101 1452.81 108.101 1468.62 20.21 c 0,101,102
+ 1481.4 -50.9014 1481.4 -50.9014 1428.5 -100.072 c 128,-1,103
+ 1375.6 -149.242 1375.6 -149.242 1294.11 -194.246 c 0,104,105
+ 1270.87 -207.086 1270.87 -207.086 1244.75 -199.555 c 128,-1,106
+ 1218.63 -192.024 1218.63 -192.024 1205.79 -168.773 c 128,-1,107
+ 1192.95 -145.52 1192.95 -145.52 1200.48 -119.403 c 128,-1,108
+ 1208.02 -93.2881 1208.02 -93.2881 1231.26 -80.4492 c 0,109,110
+ 1308.02 -38.0527 1308.02 -38.0527 1334.23 -6.43652 c 1,111,112
+ 1259.15 19.3369 1259.15 19.3369 1174.41 -17.2148 c 0,113,114
+ 1139.15 -32.4258 1139.15 -32.4258 1127.32 -47.917 c 128,-1,115
+ 1115.49 -63.4082 1115.49 -63.4082 1115.49 -86 c 128,-1,116
+ 1115.49 -108.533 1115.49 -108.533 1100.66 -126.877 c 128,-1,117
+ 1085.83 -145.22 1085.83 -145.22 1061.52 -150.083 c 128,-1,118
+ 1037.2 -154.945 1037.2 -154.945 1014.58 -139.865 c 128,-1,119
+ 991.964 -124.785 991.964 -124.785 984.627 -88.0986 c 128,-1,120
+ 977.29 -51.4131 977.29 -51.4131 915.83 -11.5801 c 128,-1,121
+ 854.37 28.252 854.37 28.252 784.598 14.0576 c 1,122,123
+ 805.627 -26.2607 805.627 -26.2607 893.668 -90.2236 c 0,124,125
+ 915.157 -105.836 915.157 -105.836 919.408 -132.686 c 128,-1,87
+ 923.659 -159.535 923.659 -159.535 908.05 -181.016 c 128,-1,88
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
