@@ -9,3 +9,5 @@ A Malayalam handwriting style font
 Latest version: [download](http://smc.org.in/downloads/fonts/chilanka/Chilanka.ttf)
 
 Announcement: (http://blog.smc.org.in/new-handwriting-style-font-for-malayalam-chilanka/)
+
+License: OFL 1.1
