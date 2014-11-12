@@ -10,7 +10,7 @@ compile:
 	@echo "Generating ${font}.ttf"
 	@./generate.pe ${font}.sfd;
 
-webfonts:
+webfonts:compile
 	@echo "Generating webfonts"
 	@sfntly -w ${font}.ttf ${font}.woff;
 	@sfntly -e -x ${font}.ttf ${font}.eot;
