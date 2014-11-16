@@ -4,7 +4,7 @@ FullName: Chilanka
 FamilyName: Chilanka
 Weight: Book
 Copyright: Digitized data copyright (c) 2014, Santhosh Thottingal, Kavya Manohar,\nSwathanthra Malayalam Computing(http://smc.org.in) with reserved font name "Chilanka".
-Version: 1.0.0-beta.20141112
+Version: 1.0.0-beta.20141116
 ItalicAngle: 0
 UnderlinePosition: -600
 UnderlineWidth: 100
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1416145780
+ModificationTime: 1416145916
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
