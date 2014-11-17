@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1416199662
+ModificationTime: 1416205362
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -766,7 +766,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -7760,7 +7760,6 @@ Encoding: 150 -1 150
 Width: 1733
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "chandrakkala" 870 1200 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7775,7 +7774,6 @@ Encoding: 151 -1 151
 Width: 1862
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "chandrakkala" 870 1200 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7790,7 +7788,6 @@ Encoding: 152 -1 152
 Width: 1733
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "chandrakkala" 870 1200 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7871,7 +7868,7 @@ LayerCount: 2
 Back
 Fore
 SplineSet
--644 241 m 1152,-1,210
+-644 241 m 1024
 1013 405 m 0,0,1
  1013 485 1013 485 1117 482 c 0,2,3
  1119 482 l 0,4,5
@@ -7943,7 +7940,6 @@ Encoding: 155 -1 155
 Width: 1572
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "chandrakkala" 760 1200 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -8037,7 +8033,6 @@ Width: 1600
 GlyphClass: 3
 LigCaretCntFixed: 1
 Flags: MW
-AnchorPoint: "chandrakkala" 667 1077 basechar 0
 LayerCount: 2
 Back
 Fore
