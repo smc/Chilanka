@@ -766,7 +766,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 352 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -23357,7 +23357,7 @@ SplineSet
  835.855 943.71 835.855 943.71 848.66 919.733 c 128,-1,0
  861.465 895.756 861.465 895.756 853.749 870.346 c 128,-1,1
 EndSplineSet
-Kerns2: 625 -164 "'kern' Horizontal Kerning in Latin lookup 0-2"
+Kerns2: 620 -382 "'kern' Horizontal Kerning in Latin lookup 0-2" 625 -164 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: d
@@ -23739,6 +23739,7 @@ SplineSet
  199.098 984 199.098 984 216.098 963 c 4,60,61
  264.098 902 264.098 902 293.098 796 c 5,0,1
 EndSplineSet
+Kerns2: 620 -300 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: n
@@ -23779,6 +23780,7 @@ SplineSet
  97.877 944.251 97.877 944.251 100.303 971.322 c 128,-1,0
  102.728 998.395 102.728 998.395 123.105 1015.42 c 128,-1,1
 EndSplineSet
+Kerns2: 620 -355 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: o
@@ -23826,6 +23828,7 @@ LayerCount: 2
 Back
 Fore
 Refer: 612 98 S 1 0 0 -1 0.000652313 998 2
+Kerns2: 620 -328 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: q
@@ -23873,7 +23876,7 @@ SplineSet
  106.188 35 106.188 35 101.688 54.5 c 128,-1,0
  97.1875 74 97.1875 74 104.688 97.5 c 128,-1,1
 EndSplineSet
-Kerns2: 625 -245 "'kern' Horizontal Kerning in Latin lookup 0-2" 611 -300 "'kern' Horizontal Kerning in Latin lookup 0-2" 613 -246 "'kern' Horizontal Kerning in Latin lookup 0-2" 615 -246 "'kern' Horizontal Kerning in Latin lookup 0-2"
+Kerns2: 620 -382 "'kern' Horizontal Kerning in Latin lookup 0-2" 625 -245 "'kern' Horizontal Kerning in Latin lookup 0-2" 611 -300 "'kern' Horizontal Kerning in Latin lookup 0-2" 613 -246 "'kern' Horizontal Kerning in Latin lookup 0-2" 615 -246 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: s
@@ -24024,6 +24027,7 @@ SplineSet
  96.7803 980 96.7803 980 113.28 1002 c 128,-1,0
  129.78 1024 129.78 1024 155.78 1027.5 c 128,-1,1
 EndSplineSet
+Kerns2: 620 -410 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: w
@@ -24152,6 +24156,7 @@ SplineSet
  324.051 174 324.051 174 283.051 137 c 5,32,33
  848.051 124 848.051 124 967.051 131 c 5,0,1
 EndSplineSet
+Kerns2: 620 -191 "'kern' Horizontal Kerning in Latin lookup 0-2"
 EndChar
 
 StartChar: y
