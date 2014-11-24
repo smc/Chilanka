@@ -8,15 +8,15 @@ all: compile test webfonts
 
 compile:
 	@echo "Generating ${font}.ttf"
-	@./generate.pe ${font}.sfd;
+	@fontforge -lang=ff -c "Open('${font}.sfd'); Generate('${font}.ttf')";
 
 webfonts:compile
-	@echo "Generating webfonts"
+	@echo "Generating webfonts";
 	@sfntly -w ${font}.ttf ${font}.woff;
 	@sfntly -e -x ${font}.ttf ${font}.eot;
-	woff2_compress ${font}.ttf;
+	@[ -x `which woff2_compress` ] && woff2_compress ${font}.ttf;
 
 test: compile
 # Test the fonts
 	@echo "Testing font ${font}";
-	@hb-view ${font}.ttf --debug --text-file tests/tests.txt --output-file tests/${font}.pdf;
+	@hb-view ${font}.ttf --text-file tests/tests.txt --output-file tests/${font}.pdf;
