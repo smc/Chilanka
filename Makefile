@@ -17,4 +17,4 @@ webfonts:compile
 	@[ -x `which woff2_compress` ] && woff2_compress ${font}.ttf;
 
 install: compile
-	@install -D -m 0644 ${font}.ttf ${DESTDIR}/${fontpath}/$${font}.ttf;
+	@install -D -m 0644 ${font}.ttf ${DESTDIR}/${fontpath}/${font}.ttf;
