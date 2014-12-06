@@ -790,12 +790,12 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 32 11
+WinInfo: 352 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "dotreph" "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
-BeginChars: 703 703
+BeginChars: 703 702
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -25180,22 +25180,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aam
-Encoding: 663 -1 663
-Width: 1604
-Flags: W
-LayerCount: 2
-Back
-Fore
-Refer: 39 3330 N 1 0 0 1 751.856 36 2
-Refer: 92 3390 N 1 0 0 1 -0.143692 0 2
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni25CC a2 anuswara
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anuswara
-EndChar
-
 StartChar: ml_rr
-Encoding: 664 3424 664
+Encoding: 664 3424 663
 Width: 1859
 VWidth: 0
 Flags: W
@@ -25293,7 +25279,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_ll
-Encoding: 665 3425 665
+Encoding: 665 3425 664
 Width: 2162
 VWidth: 0
 Flags: W
@@ -25370,7 +25356,7 @@ EndSplineSet
 EndChar
 
 StartChar: k1xx
-Encoding: 666 -1 666
+Encoding: 666 -1 665
 Width: 1605
 Flags: W
 AnchorPoint: "dotreph" 757.882 1195.02 basechar 0
@@ -25437,7 +25423,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k1 xx
 EndChar
 
 StartChar: k2xx
-Encoding: 667 -1 667
+Encoding: 667 -1 666
 Width: 1733
 Flags: W
 AnchorPoint: "dotreph" 875.882 1195.02 basechar 0
@@ -25492,7 +25478,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k2 xx
 EndChar
 
 StartChar: k3xx
-Encoding: 668 -1 668
+Encoding: 668 -1 667
 Width: 1595
 Flags: W
 AnchorPoint: "dotreph" 757.882 1195.02 basechar 0
@@ -25540,7 +25526,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k3 xx
 EndChar
 
 StartChar: k4xx
-Encoding: 669 -1 669
+Encoding: 669 -1 668
 Width: 2692
 Flags: W
 AnchorPoint: "dotreph" 1419.25 1195.02 basechar 0
@@ -25611,7 +25597,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k4 xx
 EndChar
 
 StartChar: ngxx
-Encoding: 670 -1 670
+Encoding: 670 -1 669
 Width: 1734
 Flags: W
 AnchorPoint: "dotreph" 833.882 1195.02 basechar 0
@@ -25685,7 +25671,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ng xx
 EndChar
 
 StartChar: ch1xx
-Encoding: 671 -1 671
+Encoding: 671 -1 670
 Width: 1754
 Flags: W
 AnchorPoint: "dotreph" 775.882 1195.02 basechar 0
@@ -25734,7 +25720,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch1 xx
 EndChar
 
 StartChar: ch2xx
-Encoding: 672 -1 672
+Encoding: 672 -1 671
 Width: 2361
 Flags: W
 AnchorPoint: "dotreph" 998.882 1195.02 basechar 0
@@ -25805,7 +25791,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch2 xx
 EndChar
 
 StartChar: ch3xx
-Encoding: 673 -1 673
+Encoding: 673 -1 672
 Width: 1841
 Flags: W
 AnchorPoint: "dotreph" 874.882 1195.02 basechar 0
@@ -25881,7 +25867,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch3 xx
 EndChar
 
 StartChar: ch4xx
-Encoding: 674 -1 674
+Encoding: 674 -1 673
 Width: 3078
 Flags: W
 AnchorPoint: "dotreph" 1414.88 1195.02 basechar 0
@@ -25963,7 +25949,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch4 xx
 EndChar
 
 StartChar: njxx
-Encoding: 675 -1 675
+Encoding: 675 -1 674
 Width: 2195
 Flags: W
 AnchorPoint: "dotreph" 1185.88 1195.02 basechar 0
@@ -26037,7 +26023,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" nj xx
 EndChar
 
 StartChar: t1xx
-Encoding: 676 -1 676
+Encoding: 676 -1 675
 Width: 1058
 Flags: W
 AnchorPoint: "dotreph" 563.882 1195.02 basechar 0
@@ -26103,7 +26089,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t1 xx
 EndChar
 
 StartChar: t2xx
-Encoding: 677 -1 677
+Encoding: 677 -1 676
 Width: 1201
 Flags: W
 AnchorPoint: "dotreph" 612.882 1195.02 basechar 0
@@ -26140,7 +26126,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t2 xx
 EndChar
 
 StartChar: t3xx
-Encoding: 678 -1 678
+Encoding: 678 -1 677
 Width: 2300
 Flags: W
 AnchorPoint: "dotreph" 1372.88 1195.02 basechar 0
@@ -26153,7 +26139,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t3 xx
 EndChar
 
 StartChar: t4xx
-Encoding: 679 -1 679
+Encoding: 679 -1 678
 Width: 2362
 Flags: W
 AnchorPoint: "dotreph" 1272.88 1195.02 basechar 0
@@ -26232,7 +26218,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t4 xx
 EndChar
 
 StartChar: nhxx
-Encoding: 680 -1 680
+Encoding: 680 -1 679
 Width: 2540
 Flags: W
 AnchorPoint: "dotreph" 1326.88 1195.02 basechar 0
@@ -26321,7 +26307,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" nh xx
 EndChar
 
 StartChar: th1xx
-Encoding: 681 -1 681
+Encoding: 681 -1 680
 Width: 1788
 Flags: W
 AnchorPoint: "dotreph" 849.882 1195.02 basechar 0
@@ -26381,7 +26367,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th1 xx
 EndChar
 
 StartChar: th2xx
-Encoding: 682 -1 682
+Encoding: 682 -1 681
 Width: 1557
 Flags: W
 AnchorPoint: "dotreph" 747.882 1195.02 basechar 0
@@ -26423,7 +26409,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th2 xx
 EndChar
 
 StartChar: th3xx
-Encoding: 683 -1 683
+Encoding: 683 -1 682
 Width: 1291
 Flags: W
 AnchorPoint: "dotreph" 757.882 1195.02 basechar 0
@@ -26477,7 +26463,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th3 xx
 EndChar
 
 StartChar: th4xx
-Encoding: 684 -1 684
+Encoding: 684 -1 683
 Width: 1589
 Flags: W
 AnchorPoint: "dotreph" 832.882 1195.02 basechar 0
@@ -26532,7 +26518,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th4 xx
 EndChar
 
 StartChar: n1xx
-Encoding: 685 -1 685
+Encoding: 685 -1 684
 Width: 1780
 Flags: W
 AnchorPoint: "dotreph" 827.882 1195.02 basechar 0
@@ -26587,7 +26573,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" n1 xx
 EndChar
 
 StartChar: p1xx
-Encoding: 686 -1 686
+Encoding: 686 -1 685
 Width: 1913
 Flags: W
 AnchorPoint: "dotreph" 945.882 1063.02 basechar 0
@@ -26632,7 +26618,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p1 xx
 EndChar
 
 StartChar: p2xx
-Encoding: 687 -1 687
+Encoding: 687 -1 686
 Width: 2113
 Flags: W
 AnchorPoint: "dotreph" 1145.88 1196.02 basechar 0
@@ -26687,7 +26673,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p2 xx
 EndChar
 
 StartChar: p3xx
-Encoding: 688 -1 688
+Encoding: 688 -1 687
 Width: 1990
 Flags: W
 AnchorPoint: "dotreph" 812.882 1195.02 basechar 0
@@ -26760,7 +26746,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p3 xx
 EndChar
 
 StartChar: p4xx
-Encoding: 689 -1 689
+Encoding: 689 -1 688
 Width: 1387
 Flags: W
 AnchorPoint: "dotreph" 753.882 1195.02 basechar 0
@@ -26813,7 +26799,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p4 xx
 EndChar
 
 StartChar: m1xx
-Encoding: 690 -1 690
+Encoding: 690 -1 689
 Width: 1309
 Flags: W
 AnchorPoint: "dotreph" 713.882 1195.02 basechar 0
@@ -26864,7 +26850,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" m1 xx
 EndChar
 
 StartChar: y1xx
-Encoding: 691 -1 691
+Encoding: 691 -1 690
 Width: 1864
 Flags: W
 AnchorPoint: "dotreph" 779.882 1195.02 basechar 0
@@ -26925,7 +26911,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" y1 xx
 EndChar
 
 StartChar: r3xx
-Encoding: 692 -1 692
+Encoding: 692 -1 691
 Width: 1393
 Flags: W
 LayerCount: 2
@@ -26967,7 +26953,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" r3 xx
 EndChar
 
 StartChar: rhxx
-Encoding: 693 -1 693
+Encoding: 693 -1 692
 Width: 1142
 Flags: W
 LayerCount: 2
@@ -27001,7 +26987,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" rh xx
 EndChar
 
 StartChar: l3xx
-Encoding: 694 -1 694
+Encoding: 694 -1 693
 Width: 1648
 Flags: W
 AnchorPoint: "dotreph" 933.882 1195.02 basechar 0
@@ -27054,7 +27040,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" l3 xx
 EndChar
 
 StartChar: lhxx
-Encoding: 695 -1 695
+Encoding: 695 -1 694
 Width: 1426
 Flags: W
 AnchorPoint: "dotreph" 690.423 1195.02 basechar 0
@@ -27133,7 +27119,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" lh xx
 EndChar
 
 StartChar: zhxx
-Encoding: 696 -1 696
+Encoding: 696 -1 695
 Width: 1260
 Flags: W
 AnchorPoint: "dotreph" 600 1234 basechar 0
@@ -27196,7 +27182,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" zh xx
 EndChar
 
 StartChar: v1xx
-Encoding: 697 -1 697
+Encoding: 697 -1 696
 Width: 1692
 Flags: W
 AnchorPoint: "dotreph" 849.882 1195.02 basechar 0
@@ -27251,7 +27237,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" v1 xx
 EndChar
 
 StartChar: z1xx
-Encoding: 698 -1 698
+Encoding: 698 -1 697
 Width: 1728
 Flags: W
 AnchorPoint: "dotreph" 849.882 1195.02 basechar 0
@@ -27306,7 +27292,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" z1 xx
 EndChar
 
 StartChar: shxx
-Encoding: 699 -1 699
+Encoding: 699 -1 698
 Width: 1885
 Flags: W
 AnchorPoint: "dotreph" 794.882 1068.02 basechar 0
@@ -27366,7 +27352,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" sh xx
 EndChar
 
 StartChar: s1xx
-Encoding: 700 -1 700
+Encoding: 700 -1 699
 Width: 2301
 Flags: W
 AnchorPoint: "dotreph" 890.882 1195.02 basechar 0
@@ -27425,7 +27411,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" s1 xx
 EndChar
 
 StartChar: h1xx
-Encoding: 701 -1 701
+Encoding: 701 -1 700
 Width: 2220
 Flags: W
 AnchorPoint: "dotreph" 890.882 1068.02 basechar 0
@@ -27484,7 +27470,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" h1 xx
 EndChar
 
 StartChar: null
-Encoding: 702 -1 702
+Encoding: 702 -1 701
 Width: 0
 VWidth: 0
 GlyphClass: 2
