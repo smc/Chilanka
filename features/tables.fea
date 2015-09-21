@@ -12,7 +12,13 @@
 	k2r3u2 th2r1 th2r3 th3l3 rh_half n2 l1 r2 u_sign_drop uu_sign_drop 
 	va_sign th2_half vocalic_r_sign_drop u_drop_sign_big a b c d e f g h i 
 	j k l m n o p q r s t u v w x z y A B C D E F G H I J K L M N O P Q R S 
-	T U V W X Y Z ml_rr ml_ll onequarter onehalf threequarters ];
+	T U V W X Y Z ml_rr ml_ll onequarter onehalf threequarters 
+	ellipsis plusminus multiply logicalnot infinity approxequal notequal 
+	circumflex caron Acircumflex Ecircumflex Icircumflex Ocircumflex Ucircumflex
+	acircumflex ecircumflex icircumflex ocircumflex ucircumflex
+	tilde Atilde Ntilde Otilde atilde ntilde otilde
+	dieresis Adieresis Edieresis Idieresis Odieresis Udieresis adieresis
+	edieresis idieresis odieresis udieresis];
 @GDEF_Ligature = [y2u2 v2 k1cil l3cil lhcil r3cil k1u1 k1u2 k1r1 k1l1 k1k1 
 	k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1k1r3u1 k1k1r3u2 k1nh k1nhu1 k1nhu2 k1th1 
 	k1th1u1 k1th1u2 k1th1r1 k1r3 k1r3u1 k1r3u2 k1l3 k1l3u1 k1l3u2 k1sh 
