@@ -5,13 +5,14 @@ fonts=Chilanka
 feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
+version=1.1.0
 default: compile
 all: compile webfonts
 
 compile:
 	@for font in `echo ${fonts}`;do \
 		echo "Generating $$font.ttf";\
-		$(PY) $(buildscript) $$font.sfd $(feature);\
+		$(PY) $(buildscript) $$font.sfd $(feature) $(version);\
 	done;
 
 webfonts:compile
@@ -33,3 +34,5 @@ test: compile
 		echo "Testing font $${font}";\
 		hb-view $${font}.ttf --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
 	done;
+clean:
+	@rm -rf *.ttf *.sfd-* *.woff* *.eot
