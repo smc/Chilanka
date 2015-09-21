@@ -18,7 +18,11 @@
 	acircumflex ecircumflex icircumflex ocircumflex ucircumflex
 	tilde Atilde Ntilde Otilde atilde ntilde otilde
 	dieresis Adieresis Edieresis Idieresis Odieresis Udieresis adieresis
-	edieresis idieresis odieresis udieresis];
+	edieresis idieresis odieresis udieresis
+	acute Aacute Eacute Iacute Oacute Uacute aacute
+	eacute iacute oacute uacute
+	grave Agrave Egrave Igrave Ograve Ugrave agrave
+	egrave igrave ograve ugrave];
 @GDEF_Ligature = [y2u2 v2 k1cil l3cil lhcil r3cil k1u1 k1u2 k1r1 k1l1 k1k1 
 	k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1k1r3u1 k1k1r3u2 k1nh k1nhu1 k1nhu2 k1th1 
 	k1th1u1 k1th1u2 k1th1r1 k1r3 k1r3u1 k1r3u2 k1l3 k1l3u1 k1l3u2 k1sh 
