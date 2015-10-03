@@ -26,12 +26,12 @@
 	ugrave yacute ydieresis macron questiondown periodcentered degree 
 	backslash underscore Eth Aring aring divide exclamdown guillemotleft 
 	guillemotright guilsinglleft guilsinglright asciicircum uni00A0 cent 
-	copyright bracketleft bracketright brokenbar NameMe.66062 currency 
+	copyright bracketleft bracketright brokenbar currency 
 	currency sterling yen section ordmasculine fraction Euro ordfeminine 
 	registered uni00B2 uni00B3 mu uni00B9 oslash Oslash Yacute germandbls 
 	Thorn thorn minus uni2074 ae AE endash emdash quoteleft quoteright 
 	quotesinglbase quotereversed quotedblright quotedblbase cedilla 
-	Ccedilla ccedilla oe OE dotlessi eth uni2215];
+	Ccedilla ccedilla oe OE dotlessi eth bullet uni2215];
 @GDEF_Ligature = [y2u2 v2 k1cil l3cil lhcil r3cil k1u1 k1u2 k1r1 k1l1 k1k1 
 	k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1k1r3u1 k1k1r3u2 k1nh k1nhu1 k1nhu2 k1th1 
 	k1th1u1 k1th1u2 k1th1r1 k1r3 k1r3u1 k1r3u2 k1l3 k1l3u1 k1l3u2 k1sh 
