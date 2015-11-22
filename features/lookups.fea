@@ -103,6 +103,8 @@ lookup akhn_conditional_stacking {
     sub y1' xx' p1'  by y1p1;
     ignore sub zh' xx' ch1' [xx r1 r2];
     sub zh' xx' ch1'  by zhch1;
+    ignore sub k1' xx' s1' [xx r1 r2];
+    sub k1' xx' s1' by k1s1;
 } akhn_conditional_stacking;
 
 lookup blwf_la_sign_mlym {
