@@ -1,7 +1,7 @@
 Chilanka Font
 ============
 
-Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has comprehensive Malayalam glyph set contains most of unique Malayalam conjuncts.
+Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts.
 
 The glyph strokes are of uniform width with round ends giving the impression of written with either a thin felt-tip pen, or a ball-point pen. Sharp corners are completely avoided and gives the fine touch of beautiful curves of Malayalam script. The style is not the handwriting style of designer, but is based on many handwriting samples he observed. A uniform set was selected from them for the font. Even though the style is handwriting, the glyphs follow the horizontal baseline and can be used for body text too.
 
