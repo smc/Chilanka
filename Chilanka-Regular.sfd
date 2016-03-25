@@ -3,7 +3,7 @@ FontName: Chilanka-Regular
 FullName: Chilanka Regular
 FamilyName: Chilanka
 Weight: Regular
-Copyright: Digitized data copyright (c) 2014-2016, Santhosh Thottingal, Kavya Manohar,\nSwathanthra Malayalam Computing(http://smc.org.in).
+Copyright: Copyright 2014 The Chilanka Project Authors (http://smc.org.in)
 Version: 1.2.0
 ItalicAngle: 0
 UnderlinePosition: -600
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1458883251
+ModificationTime: 1458895452
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
