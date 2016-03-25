@@ -5,7 +5,7 @@ fonts=Chilanka
 feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
-version=1.1.0
+version=1.2.0
 default: compile
 all: compile webfonts
 
