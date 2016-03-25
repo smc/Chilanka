@@ -5,7 +5,7 @@ fonts=Chilanka-Regular
 feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
-version=1.2.0
+version=1.2
 default: compile
 all: compile
 

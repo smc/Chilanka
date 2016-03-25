@@ -76,8 +76,9 @@ for lookup in font.gpos_lookups:
 
 # Merge the new featurefile
 font.mergeFeature(sys.argv[2])
+font.version = sys.argv[3]
 font.appendSFNTName('English (US)', 'Version',
-                    sys.argv[3] + '+' + time.strftime('%Y%m%d'))
+                    sys.argv[3] + '.0+' + time.strftime('%Y%m%d'))
 font.selection.all()
 font.correctReferences()
 font.simplify()
