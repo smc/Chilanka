@@ -34,5 +34,9 @@ test: compile
 		echo "Testing font $${font}";\
 		hb-view $${font}.ttf --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
 	done;
+dist:
+	@for font in `echo ${fonts}`;do \
+		cp $${font}.ttf ttf/$${font}.ttf;\
+	done;
 clean:
 	@rm -rf *.ttf *.sfd-* *.woff* *.eot
