@@ -1,0 +1,36 @@
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos xx quotesingle 200;
+    pos xx quotedbl 200;
+    pos xx quoteleft 200;
+    pos xx quoteright 200;
+    pos n1rh i1 200;
+    pos n1rh i2 200;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script mlm2;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script mlym;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+@nomark = [  ];
+
+
