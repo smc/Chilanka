@@ -14,3 +14,15 @@ Latest version: [download](http://smc.org.in/downloads/fonts/chilanka/Chilanka.t
 Announcement: (http://blog.smc.org.in/new-handwriting-style-font-for-malayalam-chilanka/)
 
 License: OFL 1.1
+
+Building from source
+--------------------
+1. Install fontforge and python-fontforge
+2. Install the python libraries required for build script:
+    ```
+    pip install -r tools/requirements.txt
+    ```
+3. Build the ttf, woff, woff2 files: 
+   ``` 
+   make
+   ```

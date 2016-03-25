@@ -11,6 +11,7 @@ import fontforge
 import psMat
 from tempfile import mkstemp
 from fontTools.ttLib import TTFont
+from fontTools.ttx import makeOutputFileName
 
 
 def flattenNestedReferences(font, ref, new_transform=(1, 0, 0, 1, 0, 0)):
@@ -60,8 +61,9 @@ def validateGlyphs(font):
         if refs:
             glyph.references = refs
 
-font = fontforge.open(sys.argv[1])
-outfont = sys.argv[1].replace(".sfd", ".ttf")
+infont = sys.argv[1]
+font = fontforge.open(infont)
+outfont = infont.replace(".sfd", ".ttf")
 tmpfont = mkstemp(suffix=os.path.basename(outfont))[1]
 
 # Remove all GSUB lookups
@@ -122,6 +124,17 @@ for tag in ('GPOS', 'GSUB'):
     font[tag].compile(font)
 
 font.save(outfont)
+# Generate WOFF
+woffFileName = makeOutputFileName(infont, outputDir=None, extension='.woff')
+print("Processing %s => %s" % (infont, woffFileName))
+font.flavor = "woff"
+font.save(woffFileName, reorderTables=False)
+# Generate WOFF2
+woff2FileName = makeOutputFileName(infont, outputDir=None, extension='.woff2')
+print("Processing %s => %s" % (infont, woff2FileName))
+font.flavor = "woff2"
+font.save(woff2FileName, reorderTables=False)
+
 font.close()
 
 os.remove(tmpfont)

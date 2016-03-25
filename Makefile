@@ -7,20 +7,12 @@ PY=python2.7
 buildscript=tools/build.py
 version=1.2.0
 default: compile
-all: compile webfonts
+all: compile
 
-compile:
+compile: clean
 	@for font in `echo ${fonts}`;do \
 		echo "Generating $$font.ttf";\
 		$(PY) $(buildscript) $$font.sfd $(feature) $(version);\
-	done;
-
-webfonts:compile
-	@echo "Generating webfonts";
-	@for font in `echo ${fonts}`;do \
-		sfntly -w $${font}.ttf $${font}.woff;\
-		sfntly -e -x $${font}.ttf $${font}.eot;\
-		[ -x `which woff2_compress` ] && woff2_compress $${font}.ttf;\
 	done;
 
 install: compile
