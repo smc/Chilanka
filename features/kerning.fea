@@ -8,6 +8,8 @@ lookup kernHorizontalKerninglookup0 {
     pos xx quotedbl 200;
     pos xx quoteleft 200;
     pos xx quoteright 200;
+    pos xx parenleft 100;
+    pos xx parenright 200;
     pos n1rh i1 200;
     pos n1rh i2 200;
 } kernHorizontalKerninglookup0;
