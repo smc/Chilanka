@@ -67,13 +67,13 @@ lookup akhn_conjuncts {
     sub m1 xx m1  by m1m1;
     sub y1 xx k1  by y1k1;
     sub y1 xx k1 xx k1  by y1k1k1;
-    sub y1 xx ch1  by y1ch1;
+    #sub y1 xx ch1  by y1ch1;
     sub y1 xx th1  by y1th1;
     sub y1 xx th1 xx th1  by y1th1th1;
     sub y1 xx n1  by y1n1;
     sub y1 xx m1  by y1m1;
     sub y1 xx y1  by y1y1;
-    sub l3 xx p1  by l3p1;
+    #sub l3 xx p1  by l3p1;
     sub l3 xx l3  by l3l3;
     sub v1 xx v1  by v1v1;
     sub z1 xx ch1  by z1ch1;
@@ -99,12 +99,15 @@ lookup akhn_conjuncts {
 }  akhn_conjuncts;
 
 lookup akhn_conditional_stacking {
-    ignore sub y1' xx' p1' [r1 r2];
+    ignore sub y1' xx' [p1 ch1]' [xx r1 r2];
     sub y1' xx' p1'  by y1p1;
+    sub y1' xx' ch1' by y1ch1;
     ignore sub zh' xx' ch1' [xx r1 r2];
     sub zh' xx' ch1'  by zhch1;
     ignore sub k1' xx' s1' [xx r1 r2];
     sub k1' xx' s1' by k1s1;
+    ignore sub l3' xx' p1' [xx r1 r2];
+    sub l3' xx' p1'  by l3p1;
 } akhn_conditional_stacking;
 
 lookup blwf_la_sign_mlym {
