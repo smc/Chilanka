@@ -115,7 +115,7 @@ def opentype(infont, type, feature, version):
     font.mergeFeature(feature)
     font.version = version
     font.appendSFNTName('English (US)', 'Version',
-                        'Version ' + version + '.0+' + time.strftime('%Y%m%d'))
+                        'Version ' + version + '; ' + time.strftime('%Y%m%d'))
     font.selection.all()
     font.correctReferences()
     font.simplify()
