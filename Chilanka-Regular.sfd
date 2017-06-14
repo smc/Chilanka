@@ -3,14 +3,15 @@ FontName: Chilanka-Regular
 FullName: Chilanka Regular
 FamilyName: Chilanka
 Weight: Regular
-Copyright: Copyright 2014 The Chilanka Project Authors (http://smc.org.in)
-Version: 1.2.0
+Copyright: Copyright (c) 2014, Santhosh Thottingal, Kavya Manohar, Swathanthra Malayalam Computing with Reserved Font Name Chilanka.
+Version: 1.2
 ItalicAngle: 0
 UnderlinePosition: -600
 UnderlineWidth: 100
 Ascent: 1434
 Descent: 614
 InvalidEm: 0
+sfntRevision: 0x00013333
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -20,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1458899525
+ModificationTime: 1497431187
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +56,7 @@ OS2Vendor: 'SMC '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800003.00002000.00000000.00000000
 MarkAttachClasses: 2
-"nomark" 0
+"nomark" 0 
 DEI: 91125
 ShortTable: maxp 16
   0
@@ -76,7 +77,7 @@ ShortTable: maxp 16
   0
 EndShort
 LangName: 1100 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DRoNPw0yDRkNTQ0V"
-LangName: 1033 "" "" "" "" "" "1.2.0" "" "" "" "Santhosh Thottingal (santhosh.thottingal@gmail.com)" "Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts.+AAoACgAA-The glyph strokes are of uniform width with round ends giving the impression of written with either a thin felt-tip pen, or a ball-point pen. Sharp corners are completely avoided and gives the fine touch of beautiful curves of Malayalam script. The style is not the handwriting style of designer, but is based on many handwriting samples he observed. A uniform set was selected from them for the font. Even though the style is handwriting, the glyphs follow the horizontal baseline and can be used for body text too.+AAoACgAA-The font was released in 2014 and nowadays used widely in comic strips, inviitation letters etc. In 2016, latin glyphs were added matching the style of Malayalam glyphs. This is one of the popular fonts released by Swathanthra Malayam Computing project. Chilanka is developed using Inkscape and Fontforge. The souce code including the SVG drawings can be found at https://gitlab.com/smc/chilanka" "http://smc.org.in" "http://thottingal.in" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Chilanka"
+LangName: 1033 "" "" "" "" "" "1.2" "" "" "Swathanthra Malayalam Computing(SMC)" "Santhosh Thottingal <santhosh.thottingal@gmail.com>" "Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts.+AAoACgAA-The glyph strokes are of uniform width with round ends giving the impression of written with either a thin felt-tip pen, or a ball-point pen. Sharp corners are completely avoided and gives the fine touch of beautiful curves of Malayalam script. The style is not the handwriting style of designer, but is based on many handwriting samples he observed. A uniform set was selected from them for the font. Even though the style is handwriting, the glyphs follow the horizontal baseline and can be used for body text too.+AAoACgAA-The font was released in 2014 and nowadays used widely in comic strips, inviitation letters etc. In 2016, latin glyphs were added matching the style of Malayalam glyphs. This is one of the popular fonts released by Swathanthra Malayam Computing project. Chilanka is developed using Inkscape and Fontforge. The souce code including the SVG drawings can be found at https://gitlab.com/smc/chilanka" "https://smc.org.in" "http://thottingal.in" "Copyright (c) 2014, Santhosh Thottingal, Kavya Manohar, Swathanthra Malayalam Computing with Reserved Font Name Chilanka.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Chilanka" "Regular"
 GaspTable: 1 65535 15 1
 Encoding: Custom
 Compacted: 1
@@ -85,12 +86,12 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 594 27 9
+WinInfo: 0 64 19
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "dotreph" ""
-BeginChars: 66064 839
+AnchorClass2: "dotreph""" 
+BeginChars: 66064 838
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -26846,9 +26847,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-
 StartChar: currency
-Encoding: 164 164 789
+Encoding: 164 164 788
 Width: 1401
 VWidth: 0
 Flags: W
@@ -26914,7 +26914,7 @@ EndSplineSet
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 790
+Encoding: 163 163 789
 Width: 1272
 VWidth: 0
 Flags: W
@@ -26964,7 +26964,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 165 165 791
+Encoding: 165 165 790
 Width: 1165
 VWidth: 0
 Flags: W
@@ -27026,7 +27026,7 @@ EndSplineSet
 EndChar
 
 StartChar: section
-Encoding: 167 167 792
+Encoding: 167 167 791
 Width: 834
 VWidth: 0
 Flags: W
@@ -27078,7 +27078,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 793
+Encoding: 186 186 792
 Width: 658
 VWidth: 0
 Flags: W
@@ -27088,7 +27088,7 @@ Refer: 768 176 N 0.702608 0 0 0.762598 29.8134 413.78 2
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 794
+Encoding: 8260 8260 793
 Width: 1039
 Flags: W
 LayerCount: 2
@@ -27109,7 +27109,7 @@ EndSplineSet
 EndChar
 
 StartChar: Euro
-Encoding: 8364 8364 795
+Encoding: 8364 8364 794
 Width: 2048
 VWidth: 0
 LayerCount: 2
@@ -27184,7 +27184,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 796
+Encoding: 170 170 795
 Width: 893
 VWidth: 0
 Flags: W
@@ -27219,7 +27219,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 174 174 797
+Encoding: 174 174 796
 Width: 1700
 VWidth: 0
 Flags: W
@@ -27293,7 +27293,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 178 178 798
+Encoding: 178 178 797
 Width: 597
 VWidth: 0
 Flags: W
@@ -27333,7 +27333,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 179 179 799
+Encoding: 179 179 798
 Width: 547
 VWidth: 0
 Flags: W
@@ -27373,7 +27373,7 @@ EndSplineSet
 EndChar
 
 StartChar: mu
-Encoding: 181 181 800
+Encoding: 181 181 799
 Width: 1228
 VWidth: 0
 Flags: W
@@ -27420,7 +27420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 185 185 801
+Encoding: 185 185 800
 Width: 309
 VWidth: 0
 Flags: W
@@ -27446,7 +27446,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 802
+Encoding: 248 248 801
 Width: 1209
 VWidth: 0
 Flags: W
@@ -27494,7 +27494,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 803
+Encoding: 216 216 802
 Width: 1702
 VWidth: 0
 Flags: W
@@ -27550,7 +27550,7 @@ EndSplineSet
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 804
+Encoding: 221 221 803
 Width: 1272
 VWidth: 0
 Flags: W
@@ -27580,7 +27580,7 @@ Refer: 741 180 S 1 0 0 1 627 138 2
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 805
+Encoding: 223 223 804
 Width: 1084
 VWidth: 0
 Flags: W
@@ -27625,7 +27625,7 @@ EndSplineSet
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 806
+Encoding: 222 222 805
 Width: 993
 VWidth: 0
 Flags: W
@@ -27664,7 +27664,7 @@ EndSplineSet
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 807
+Encoding: 254 254 806
 Width: 1088
 VWidth: 0
 Flags: W
@@ -27711,7 +27711,7 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 808
+Encoding: 8722 8722 807
 Width: 783
 Flags: W
 LayerCount: 2
@@ -27732,7 +27732,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2074
-Encoding: 8308 8308 809
+Encoding: 8308 8308 808
 Width: 738
 VWidth: 0
 Flags: W
@@ -27775,7 +27775,7 @@ EndSplineSet
 EndChar
 
 StartChar: ae
-Encoding: 230 230 810
+Encoding: 230 230 809
 Width: 1975
 VWidth: 0
 Flags: W
@@ -27842,7 +27842,7 @@ EndSplineSet
 EndChar
 
 StartChar: AE
-Encoding: 198 198 811
+Encoding: 198 198 810
 Width: 2201
 VWidth: 0
 Flags: W
@@ -27895,7 +27895,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 812
+Encoding: 8211 8211 811
 Width: 783
 Flags: W
 LayerCount: 2
@@ -27916,7 +27916,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 813
+Encoding: 8212 8212 812
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -27937,7 +27937,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 814
+Encoding: 8216 8216 813
 Width: 423
 VWidth: 1000
 Flags: W
@@ -27957,27 +27957,27 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 815
+Encoding: 8217 8217 814
 Width: 422
 VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 814 8216 N -0.999906 0.0136973 -0.0136973 -0.999906 436.894 2298.48 2
+Refer: 813 8216 N -0.999906 0.0136973 -0.0136973 -0.999906 436.894 2298.48 2
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 816
+Encoding: 8218 8218 815
 Width: 422
 VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 814 8216 N -0.999906 0.0136973 -0.0136973 -0.999906 436.895 1095.48 2
+Refer: 813 8216 N -0.999906 0.0136973 -0.0136973 -0.999906 436.895 1095.48 2
 EndChar
 
 StartChar: quotereversed
-Encoding: 8220 8220 817
+Encoding: 8220 8220 816
 Width: 713
 VWidth: 1000
 Flags: W
@@ -28006,29 +28006,29 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 818
+Encoding: 8221 8221 817
 Width: 669
 VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 814 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 436.895 2299.48 2
-Refer: 814 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 683.895 2301.48 2
+Refer: 813 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 436.895 2299.48 2
+Refer: 813 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 683.895 2301.48 2
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 819
+Encoding: 8222 8222 818
 Width: 669
 VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 814 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 683.895 1097.48 2
-Refer: 814 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 436.895 1095.48 2
+Refer: 813 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 683.895 1097.48 2
+Refer: 813 8216 S -0.999906 0.0136973 -0.0136973 -0.999906 436.895 1095.48 2
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 820
+Encoding: 184 184 819
 Width: 674
 VWidth: 0
 Flags: W
@@ -28064,7 +28064,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 821
+Encoding: 199 199 820
 Width: 1370
 VWidth: 0
 Flags: W
@@ -28118,7 +28118,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 822
+Encoding: 231 231 821
 Width: 964
 VWidth: 0
 Flags: W
@@ -28170,7 +28170,7 @@ EndSplineSet
 EndChar
 
 StartChar: oe
-Encoding: 339 339 823
+Encoding: 339 339 822
 Width: 2048
 VWidth: 0
 LayerCount: 2
@@ -28236,7 +28236,7 @@ EndSplineSet
 EndChar
 
 StartChar: OE
-Encoding: 338 338 824
+Encoding: 338 338 823
 Width: 2105
 VWidth: 0
 Flags: W
@@ -28288,7 +28288,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 825
+Encoding: 305 305 824
 Width: 371
 VWidth: 0
 Flags: W
@@ -28313,7 +28313,7 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 240 240 826
+Encoding: 240 240 825
 Width: 1149
 VWidth: 0
 Flags: W
@@ -28368,7 +28368,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 827
+Encoding: 8725 8725 826
 Width: 1039
 Flags: W
 LayerCount: 2
@@ -28389,7 +28389,7 @@ EndSplineSet
 EndChar
 
 StartChar: k1s1
-Encoding: 66063 -1 828
+Encoding: 66063 -1 827
 Width: 1679
 Flags: W
 LayerCount: 2
@@ -28399,7 +28399,7 @@ Refer: 55 3349 N 0.95 0 0 0.95 79.7734 98 2
 EndChar
 
 StartChar: ml_5
-Encoding: 832 3435 829
+Encoding: 832 3435 828
 Width: 1751
 VWidth: 0
 Flags: W
@@ -28466,7 +28466,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_0
-Encoding: 827 3430 830
+Encoding: 827 3430 829
 Width: 1168
 VWidth: 0
 Flags: W
@@ -28502,7 +28502,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_6
-Encoding: 833 3436 831
+Encoding: 833 3436 830
 Width: 2613
 VWidth: 0
 Flags: W
@@ -28568,7 +28568,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_1
-Encoding: 828 3431 832
+Encoding: 828 3431 831
 Width: 1736
 VWidth: 0
 Flags: W
@@ -28619,7 +28619,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_2
-Encoding: 829 3432 833
+Encoding: 829 3432 832
 Width: 1789
 VWidth: 0
 Flags: W
@@ -28660,7 +28660,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_3
-Encoding: 830 3433 834
+Encoding: 830 3433 833
 Width: 2420
 VWidth: 0
 Flags: W
@@ -28717,7 +28717,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_4
-Encoding: 831 3434 835
+Encoding: 831 3434 834
 Width: 1490
 VWidth: 0
 Flags: W
@@ -28762,7 +28762,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_7
-Encoding: 834 3437 836
+Encoding: 834 3437 835
 Width: 1378
 VWidth: 0
 Flags: W
@@ -28807,7 +28807,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_8
-Encoding: 835 3438 837
+Encoding: 835 3438 836
 Width: 1750
 VWidth: 0
 Flags: W
@@ -28869,7 +28869,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_9
-Encoding: 836 3439 838
+Encoding: 836 3439 837
 Width: 2051
 VWidth: 0
 Flags: W
