@@ -13,7 +13,7 @@
    height="2048"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.91pre2 r13516"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="ന്ര.svg">
   <defs
      id="defs5498">
@@ -27,8 +27,8 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="880"
-     inkscape:window-width="1600"
+     inkscape:window-height="1685"
+     inkscape:window-width="3200"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -38,17 +38,18 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.32102648"
-     inkscape:cx="-360.78674"
-     inkscape:cy="1075.2073"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:zoom="0.227"
+     inkscape:cx="-3097.7819"
+     inkscape:cy="872.5516"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="horizontal"
        position="0,600"
-       id="guide5596" />
+       id="guide5596"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3769"
@@ -56,14 +57,17 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="4px"
+       spacingx="4"
        units="px"
        dotted="true"
-       spacingy="4px" />
+       spacingy="4"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="0,1"
        position="-1040,1600"
-       id="guide2985" />
+       id="guide2985"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
