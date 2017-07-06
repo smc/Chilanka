@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="2048"
+   width="2133.3333"
+   height="2184.5334"
    id="svg2992"
    version="1.1"
-   inkscape:version="0.91pre2 r13516"
-   sodipodi:docname="യ.svg">
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="യ.svg"
+   viewBox="0 0 2000 2048">
   <defs
      id="defs5498">
     <inkscape:path-effect
@@ -23,8 +24,8 @@
        is_visible="true" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="853"
-     inkscape:window-width="1600"
+     inkscape:window-height="1685"
+     inkscape:window-width="3200"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -35,16 +36,17 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.227"
-     inkscape:cx="336.71573"
-     inkscape:cy="1167.8463"
-     inkscape:window-x="1598"
-     inkscape:window-y="-3"
+     inkscape:cx="-305.4299"
+     inkscape:cy="796.93024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="horizontal"
        position="0,600"
-       id="guide5596" />
+       id="guide5596"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3769"
@@ -52,14 +54,17 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="4px"
+       spacingx="4.0000002"
        units="px"
        dotted="true"
-       spacingy="4px" />
+       spacingy="3.9999998"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="0,1"
        position="-1040,1600"
-       id="guide2985" />
+       id="guide2985"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -92,5 +97,16 @@
        id="path4141"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -3240.0002,-343.99984 c 91.9754,-397.86335 657.2816,-345.0326 552.0001,287.999985 -105.2816,633.032595 -914.1958,490.029675 -1008.0001,47.9999979 -93.8043,-442.0296729 238.9277,-758.2548029 480,-239.9999929 241.0723,518.25481 658.5673,831.88743 864.0001,470.24997 205.4328,-361.63746 -336,-1142.24993 0,-1247.99992"
+       id="path4141-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -2066.3184,925.04688 a 65.0065,65.0065 0 0 0 -17.1953,3.20117 c -55.3061,17.40661 -100.1155,53.85945 -125.4394,99.75195 -25.3239,45.8925 -33.0797,97.5715 -32.9082,151.2168 0.3428,107.2905 32.098,228.4497 66.0976,355.8379 33.9997,127.3881 71.0145,260.0823 86.7422,379.0215 15.7277,118.9392 8.8448,221.0534 -31.4961,292.0683 -44.6949,78.6794 -92.0934,110.676 -143.1347,120.17 -51.0414,9.494 -113.9774,-5.1943 -185.0645,-48.6778 -5.2333,-3.2011 -10.5416,-6.8682 -15.8242,-10.3711 62.6026,-75.6683 108.4106,-174.8457 128.6601,-296.6015 55.7777,-335.3777 -70.4915,-549.5226 -247.1836,-603.4219 -149.0944,-45.4808 -316.8206,30.0096 -397.248,191.6953 -33.2089,-39.3806 -68.246,-69.5002 -105.3535,-90.6855 -81.3501,-46.4443 -176.0061,-40.9608 -244.6231,6 -137.2339,93.9214 -192.0902,307.8818 -141.2949,547.2421 54.4829,256.7373 307.2228,417.3551 559.8867,430.5664 121.3587,6.3457 245.59,-21.9382 349.1504,-94.2558 15.2413,11.0056 30.5746,21.2964 45.9942,30.7285 89.0997,54.5018 184.1233,82.8048 276.6738,65.5898 92.5505,-17.2149 174.3749,-81.6282 232.3965,-183.7675 62.3755,-109.8038 64.8509,-240.8795 47.3379,-373.3203 -17.5131,-132.4409 -56.3362,-269.3155 -90.0157,-395.504 -33.6794,-126.1884 -61.4451,-242.6127 -61.7011,-322.7304 -0.128,-40.0589 6.547,-69.5411 16.7285,-87.9922 10.1815,-18.4511 21.9526,-29.5258 50.6465,-38.5566 a 65.0065,65.0065 0 0 0 -21.8321,-127.20512 z m -614.125,558.35932 c 20.1485,-0.4731 40.2053,2.3094 59.4493,8.1797 102.6344,31.3084 206.3788,160.0951 156.875,457.75 -17.1422,103.072 -53.2346,179.492 -100.8497,236.0801 -108.6249,-104.5667 -218.4821,-260.7789 -304.0957,-444.8301 -7.306,-15.7064 -14.7252,-30.7032 -22.2382,-45.1523 a 65.0065,65.0065 0 0 0 2.6328,-8.793 c 31.9015,-137.9982 120.9167,-201.1842 208.2265,-203.2344 z m -527.9004,79.6446 c 16.8265,-0.5514 35.269,4.993 58.2227,18.0976 45.9073,26.2093 106.3953,92.1785 163.1856,214.2657 88.8617,191.0341 199.8154,355.7805 320.8339,474.2207 -70.8489,40.2381 -153.9296,57.0397 -238.8086,52.6015 -201.5646,-10.5394 -400.1844,-142.438 -439.5058,-327.7304 -43.009,-202.6694 21.5997,-367.8378 87.5488,-412.9727 16.4873,-11.2837 31.697,-17.931 48.5234,-18.4824 z"
+       id="path4141-3-6"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
