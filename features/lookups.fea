@@ -696,7 +696,7 @@ lookup haln_chillu {
 
 lookup abvm_dotreph {
   lookupflag 0;
-    markClass [dotreph anuswaraabove] <anchor -604 1076> @dotreph;
+    markClass [dotreph anuswaraabove verticalbarvirama] <anchor -604 1076> @dotreph;
     pos base [k1 k3 th3 k1xx k3xx th3xx ] <anchor 758 1195> mark @dotreph;
     pos base [k2 k2xx ] <anchor 876 1195> mark @dotreph;
     pos base [k4 k4xx ] <anchor 1419 1195> mark @dotreph;
