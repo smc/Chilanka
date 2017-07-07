@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1499412029
+ModificationTime: 1499416395
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -90,7 +90,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "dotreph""" 
-BeginChars: 66064 853
+BeginChars: 66064 855
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -29706,6 +29706,26 @@ SplineSet
  1140 150 1140 150 1140 386 c 4,116,117
  1139 474 1139 474 1110 584 c 5,102,103
 EndSplineSet
+EndChar
+
+StartChar: ml_ii_archaic
+Encoding: 3423 3423 853
+Width: 2442
+Flags: W
+LayerCount: 2
+Fore
+Refer: 39 3330 N 0.654213 0 0 0.724933 34.5784 170.662 2
+Refer: 39 3330 N 0.65268 0 0 0.729292 1851.73 171.152 2
+Refer: 81 3376 N 1 0 0 1 525 0 2
+EndChar
+
+StartChar: l2
+Encoding: 3427 3427 854
+Width: 0
+Flags: WO
+LayerCount: 2
+Fore
+Refer: 664 3425 N 0.623876 0 0 0.593286 -1292.39 -596.959 2
 EndChar
 EndChars
 EndSplineFont
