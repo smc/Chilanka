@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1499593068
+ModificationTime: 1514722102
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,39 +58,21 @@ OS2UnicodeRanges: 80800003.00002000.00000000.00000000
 MarkAttachClasses: 2
 "nomark" 0 
 DEI: 91125
-ShortTable: maxp 16
-  0
-  0
-  0
-  0
-  0
-  0
-  0
-  2
-  1
-  2
-  22
-  0
-  256
-  0
-  0
-  0
-EndShort
 LangName: 1100 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DRoNPw0yDRkNTQ0V"
 LangName: 1033 "" "" "" "" "" "1.2" "" "" "Swathanthra Malayalam Computing(SMC)" "Santhosh Thottingal <santhosh.thottingal@gmail.com>" "Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts.+AAoACgAA-The glyph strokes are of uniform width with round ends giving the impression of written with either a thin felt-tip pen, or a ball-point pen. Sharp corners are completely avoided and gives the fine touch of beautiful curves of Malayalam script. The style is not the handwriting style of designer, but is based on many handwriting samples he observed. A uniform set was selected from them for the font. Even though the style is handwriting, the glyphs follow the horizontal baseline and can be used for body text too.+AAoACgAA-The font was released in 2014 and nowadays used widely in comic strips, inviitation letters etc. In 2016, latin glyphs were added matching the style of Malayalam glyphs. This is one of the popular fonts released by Swathanthra Malayam Computing project. Chilanka is developed using Inkscape and Fontforge. The souce code including the SVG drawings can be found at https://gitlab.com/smc/chilanka" "https://smc.org.in" "http://thottingal.in" "Copyright (c) 2014, Santhosh Thottingal, Kavya Manohar, Swathanthra Malayalam Computing with Reserved Font Name Chilanka.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Chilanka" "Regular"
 GaspTable: 1 65535 15 1
-Encoding: Custom
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3288 24 9
+WinInfo: 66000 12 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 286720 143360 95573 0 -1048576 95573 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "dotreph""" 
-BeginChars: 66064 864
+BeginChars: 66069 870
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -26813,7 +26795,7 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 66062 8226 787
+Encoding: 8226 8226 787
 Width: 876
 Flags: W
 LayerCount: 2
@@ -28373,7 +28355,7 @@ EndSplineSet
 EndChar
 
 StartChar: k1s1
-Encoding: 66063 -1 827
+Encoding: 66062 -1 827
 Width: 1679
 Flags: W
 LayerCount: 2
@@ -28383,7 +28365,7 @@ Refer: 55 3349 N 0.95 0 0 0.95 79.7734 98 2
 EndChar
 
 StartChar: ml_5
-Encoding: 832 3435 828
+Encoding: 3435 3435 828
 Width: 1751
 VWidth: 0
 Flags: W
@@ -28450,7 +28432,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_0
-Encoding: 827 3430 829
+Encoding: 3430 3430 829
 Width: 1168
 VWidth: 0
 Flags: W
@@ -28486,7 +28468,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_6
-Encoding: 833 3436 830
+Encoding: 3436 3436 830
 Width: 2613
 VWidth: 0
 Flags: W
@@ -28552,7 +28534,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_1
-Encoding: 828 3431 831
+Encoding: 3431 3431 831
 Width: 1736
 VWidth: 0
 Flags: W
@@ -28603,7 +28585,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_2
-Encoding: 829 3432 832
+Encoding: 3432 3432 832
 Width: 1789
 VWidth: 0
 Flags: W
@@ -28644,7 +28626,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_3
-Encoding: 830 3433 833
+Encoding: 3433 3433 833
 Width: 2420
 VWidth: 0
 Flags: W
@@ -28701,7 +28683,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_4
-Encoding: 831 3434 834
+Encoding: 3434 3434 834
 Width: 1490
 VWidth: 0
 Flags: W
@@ -28746,7 +28728,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_7
-Encoding: 834 3437 835
+Encoding: 3437 3437 835
 Width: 1378
 VWidth: 0
 Flags: W
@@ -28791,7 +28773,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_8
-Encoding: 835 3438 836
+Encoding: 3438 3438 836
 Width: 1750
 VWidth: 0
 Flags: W
@@ -28853,7 +28835,7 @@ EndSplineSet
 EndChar
 
 StartChar: ml_9
-Encoding: 836 3439 837
+Encoding: 3439 3439 837
 Width: 2051
 VWidth: 0
 Flags: W
@@ -30362,6 +30344,144 @@ SplineSet
  2770 219 2770 219 2725 306.5 c 128,-1,139
  2680 394 2680 394 2667 423 c 1,132,133
 EndSplineSet
+EndChar
+
+StartChar: ch1ch1.alt1
+Encoding: 66063 -1 864
+Width: 1818
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 60 3354 S 1 0 0 1 0.0512821 12 2
+Refer: 607 -1 S 1 0 0 1 -86.9487 270 2
+EndChar
+
+StartChar: ch1ch1u1.alt1
+Encoding: 66064 -1 865
+Width: 1818
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 605 -1 S 1 0 0 1 2070 -272 2
+Refer: 60 3354 S 1 0 0 1 0.0512821 10 2
+Refer: 607 -1 S 1 0 0 1 -86.9487 268 2
+EndChar
+
+StartChar: ch1ch1u2.alt1
+Encoding: 66065 -1 866
+Width: 1818
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 606 -1 S 1 0 0 1 1875 -290 2
+Refer: 60 3354 S 1 0 0 1 0.0512821 13 2
+Refer: 607 -1 S 1 0 0 1 -86.9487 271 2
+EndChar
+
+StartChar: lhlh.alt1
+Encoding: 66066 -1 867
+Width: 2424
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1585 768 m 1,0,1
+ 1698 1069 1698 1069 1895 1069 c 0,2,3
+ 2016 1069 2016 1069 2110 955 c 0,4,5
+ 2270 760 2270 760 2270 429 c 0,6,7
+ 2270 318 2270 318 2248 191 c 0,8,9
+ 2199 -67 2199 -67 1898 -188 c 0,10,11
+ 1696 -270 1696 -270 1322 -301 c 0,12,13
+ 1249 -307 1249 -307 1068 -319 c 0,14,15
+ 629 -347 629 -347 629 -403 c 0,16,17
+ 629 -433 629 -433 716 -459.5 c 128,-1,18
+ 803 -486 803 -486 1039 -486 c 0,19,20
+ 1653.75 -486 1653.75 -486 2268.5 -486 c 0,21,22
+ 2278 -486 2278 -486 2301.5 -500 c 128,-1,23
+ 2325 -514 2325 -514 2325 -546 c 128,-1,24
+ 2325 -578 2325 -578 2306 -597 c 128,-1,25
+ 2287 -616 2287 -616 2273.5 -616 c 2,26,27
+ 1039 -616 l 2,28,29
+ 784 -616 784 -616 687.5 -587 c 128,-1,30
+ 591 -558 591 -558 545 -515 c 128,-1,31
+ 499 -472 499 -472 499 -405 c 0,32,33
+ 499 -254 499 -254 760 -217 c 0,34,35
+ 866 -202 866 -202 1067.5 -188.5 c 128,-1,36
+ 1269 -175 1269 -175 1312 -172 c 0,37,38
+ 1666 -142 1666 -142 1849 -68 c 0,39,40
+ 2139 49.5 2139 49.5 2139 455.5 c 0,41,42
+ 2139 758.915492958 2139 758.915492958 1980 900 c 0,43,44
+ 1906.923674 965.133247089 1906.923674 965.133247089 1847 927 c 0,45,46
+ 1686 828 1686 828 1627 366 c 1,47,48
+ 1624 222 1624 222 1603 57 c 0,49,50
+ 1596.12068966 0.98275862069 1596.12068966 0.98275862069 1535.15576694 0.98275862069 c 0,51,52
+ 1512.01724138 0.98275862069 1512.01724138 0.98275862069 1493 20 c 128,-1,53
+ 1474 39 1474 39 1474 53 c 0,54,55
+ 1474 186 1474 186 1497 375 c 1,56,57
+ 1497 390 1497 390 1497 405 c 0,58,59
+ 1497 931 1497 931 1294.5 931 c 0,60,61
+ 1186.26470588 931 1186.26470588 931 1093.63235294 719.5 c 128,-1,62
+ 1001 508 1001 508 991 222 c 1,63,64
+ 992 177 992 177 992 138 c 128,-1,65
+ 992 99 992 99 991.5 68.5 c 128,-1,66
+ 991 38 991 38 972 19.5 c 128,-1,67
+ 953 1 953 1 927 1 c 128,-1,68
+ 901 1 901 1 882 19 c 128,-1,69
+ 863 37 863 37 861.5 72.5 c 128,-1,70
+ 860 108 860 108 860 148 c 128,-1,71
+ 860 188 860 188 861 222 c 1,72,73
+ 851 612 851 612 762 796 c 0,74,75
+ 696 933 696 933 596 933 c 0,76,77
+ 534 933 534 933 459 879 c 0,78,79
+ 337 792 337 792 269 641 c 1,80,81
+ 325.978574419 667.454338123 325.978574419 667.454338123 379.890509178 667.454338123 c 128,-1,82
+ 433.802443937 667.454338123 433.802443937 667.454338123 483 634 c 0,83,84
+ 607 551 607 551 607 336 c 0,85,86
+ 607 187 607 187 551 102 c 0,87,88
+ 480 -6 480 -6 374 -6 c 0,89,90
+ 303 -6 303 -6 247 44 c 0,91,92
+ 100 178 100 178 100 457 c 0,93,94
+ 100 480 100 480 101 504 c 0,95,96
+ 108 676 108 676 247 855 c 0,97,98
+ 414.311367575 1070.8523199 414.311367575 1070.8523199 580.154457804 1070.8523199 c 0,99,100
+ 658.239980169 1070.8523199 658.239980169 1070.8523199 736 1023 c 0,101,102
+ 874 939 874 939 939 682 c 1,103,104
+ 1069 1061 1069 1061 1301 1061 c 0,105,106
+ 1333 1061 1333 1061 1365 1051 c 0,107,108
+ 1518 1006 1518 1006 1585 768 c 1,0,1
+453 467 m 0,109,110
+ 421 538 421 538 369 538 c 128,-1,111
+ 317 538 317 538 230 453 c 1,112,113
+ 278.085046989 184.865668293 278.085046989 184.865668293 379 124 c 1,114,115
+ 476 124 476 124 476 320 c 0,116,117
+ 476 416 476 416 453 467 c 0,109,110
+EndSplineSet
+EndChar
+
+StartChar: lhlhu1.alt1
+Encoding: 66067 -1 868
+Width: 2425
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 605 -1 S 1 0 0 1 2611.45 -489 2
+Refer: 867 -1 N 1 0 0 1 0.450195 0 2
+EndChar
+
+StartChar: lhlhu2.alt1
+Encoding: 66068 -1 869
+Width: 2500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 606 -1 S 1 0 0 1 2308 -502 2
+Refer: 867 -1 N 1 0 0 1 0.450195 0 2
 EndChar
 EndChars
 EndSplineFont

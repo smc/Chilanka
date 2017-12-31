@@ -756,3 +756,16 @@ lookup abvm_dotreph {
     pos base [sht1 ] <anchor 785 1098> mark @dotreph;
     pos base [s1th2 ] <anchor 1695 1158> mark @dotreph;
 } abvm_dotreph;
+
+feature aalt {
+    feature salt;
+} aalt;
+
+feature salt {
+    sub ch1ch1 from [ch1ch1.alt1 ch1ch1];
+    sub ch1ch1u1 from [ch1ch1u1.alt1 ch1ch1u1];
+    sub ch1ch1u2 from [ch1ch1u2.alt1 ch1ch1u2];
+    sub lhlh from [lhlh lhlh.alt1];
+    sub lhlhu1 from [lhlhu1 lhlhu1.alt1];
+    sub lhlhu2 from [lhlhu1 lhlhu2.alt1];
+} salt;
