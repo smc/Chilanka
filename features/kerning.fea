@@ -1,8 +1,13 @@
 
 # GPOS 
 
+lookup kern_malayalam {
+  lookupflag 0;
+    pos n1rh i1 200;
+    pos n1rh i2 200;
+} kern_malayalam;
 
-lookup kernHorizontalKerninglookup0 {
+lookup kern_latin {
   lookupflag 0;
     pos xx quotesingle 200;
     pos xx quotedbl 200;
@@ -10,29 +15,58 @@ lookup kernHorizontalKerninglookup0 {
     pos xx quoteright 200;
     pos xx parenleft 100;
     pos xx parenright 200;
-    pos n1rh i1 200;
-    pos n1rh i2 200;
-} kernHorizontalKerninglookup0;
+    pos slash slash -601;
+    pos [a b] j -492;
+    pos [a b] t -164;
+    pos c j -382;
+    pos c o -164;
+    pos e e -164;
+    pos f f -355;
+    pos f y -382;
+    pos f a -492;
+    pos f o -437;
+    pos f e -464;
+    pos f u -382;
+    pos f i -191;
+    pos h t -136;
+    pos i t -164;
+    pos i j -328;
+    pos l l 137;
+    pos m j -300;
+    pos n j -355;
+    pos o j -465;
+    pos p j -328;
+    pos r j -382;
+    pos r [g o c e a] -245;
+    pos t a -109;
+    pos t [o y] -137;
+    pos t h -82;
+    pos t t -164;
+    pos v j -410;
+    pos z j -191;
+    pos T o -437;
+    pos T h -164;
+    pos Y [e c a d o q g] -200;
+} kern_latin;
 
 feature kern {
 
  script DFLT;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
-
- script latn;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kern_malayalam;
 
  script mlm2;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kern_malayalam;
 
  script mlym;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kern_malayalam;
+
+ script latn;
+     language dflt ;
+      lookup kern_latin;
 } kern;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 @nomark = [  ];
-
-

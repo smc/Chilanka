@@ -115,11 +115,3 @@ feature abvm {
      language dflt ;
       lookup abvm_dotreph;
 } abvm;
-
-# KERN
-
-feature kern {
- script latn;
-     language dflt ;
-      lookup kern_latin;
-} kern;
