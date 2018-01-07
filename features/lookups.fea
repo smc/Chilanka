@@ -767,5 +767,5 @@ feature salt {
     sub ch1ch1u2 from [ch1ch1u2.alt1 ch1ch1u2];
     sub lhlh from [lhlh lhlh.alt1];
     sub lhlhu1 from [lhlhu1 lhlhu1.alt1];
-    sub lhlhu2 from [lhlhu1 lhlhu2.alt1];
+    sub lhlhu2 from [lhlhu2 lhlhu2.alt1];
 } salt;
