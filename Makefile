@@ -27,7 +27,7 @@ woff2: compile
 
 install: compile
 	@for font in `echo ${fonts}`;do \
-		install -D -m 0644 $${font}.otf ${DESTDIR}/${fontpath}/$${font}.ttf;\
+		install -D -m 0644 $${font}.ttf ${DESTDIR}/${fontpath}/$${font}.ttf;\
 	done;
 
 ifeq ($(shell ls -l *.ttf 2>/dev/null | wc -l),0)
