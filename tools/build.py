@@ -92,7 +92,7 @@ def fixXAvgCharWidth(font):
     font['OS/2'].xAvgCharWidth = int(round(width_sum) / count)
 
 
-def opentype(infont, type, feature, version):
+def opentype(infont, outdir, type, feature, version):
     font = fontforge.open(infont)
     if args.type == 'otf':
         outfont = infont.replace(".sfd", ".otf")
@@ -100,6 +100,7 @@ def opentype(infont, type, feature, version):
     else:
         outfont = infont.replace(".sfd", ".ttf")
         flags = ("opentype", "round", "omit-instructions", "dummy-dsig")
+    outfont = os.path.join(outdir, outfont)
     print("Generating %s => %s" % (infont, outfont))
     tmpfont = mkstemp(suffix=os.path.basename(outfont))[1]
 
@@ -187,8 +188,11 @@ if __name__ == "__main__":
     parser.add_argument('-v', '--version', help='Version')
     parser.add_argument('-f', '--feature', help='Feature file')
     parser.add_argument('-t', '--type', help='Output type', default='otf')
+    parser.add_argument('-o', '--outdir', help='Output directory', default='build')
     args = parser.parse_args()
+    if not os.path.exists(args.outdir):
+        os.mkdir(args.outdir)
     if args.type == 'otf' or args.type == 'ttf':
-        opentype(args.input, args.type, args.feature, args.version)
+        opentype(args.input, args.outdir, args.type, args.feature, args.version)
     if args.type == 'woff' or args.type == 'woff2':
         webfonts(args.input, args.type)
