@@ -132,11 +132,5 @@
 			<point x="1346.0115966797" y="228.3419494629"/>
 			<point x="1282.2294921875" y="314.8244934082"/>
 		</contour>
-		<contour>
-			<point x="259" y="17" type="line"/>
-			<point x="258" y="17"/>
-			<point x="257" y="16"/>
-			<point x="256" y="16" type="curve"/>
-		</contour>
 	</outline>
 </glyph>
