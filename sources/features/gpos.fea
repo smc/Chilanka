@@ -1,0 +1,77 @@
+
+lookup abvm_dotreph {
+  lookupflag 0;
+    markClass [dotreph anuswaraabove verticalbarvirama] <anchor -604 1076> @dotreph;
+    pos base [k1 k3 th3 k1xx k3xx th3xx ] <anchor 758 1195> mark @dotreph;
+    pos base [k2 k2xx ] <anchor 876 1195> mark @dotreph;
+    pos base [k4 k4xx ] <anchor 1419 1195> mark @dotreph;
+    pos base [ng ngxx ] <anchor 834 1195> mark @dotreph;
+    pos base [ch1 ch1xx ] <anchor 776 1195> mark @dotreph;
+    pos base [ch2 ch2xx ] <anchor 999 1195> mark @dotreph;
+    pos base [ch3 ch3xx ] <anchor 875 1195> mark @dotreph;
+    pos base [ch4 ch4xx ] <anchor 1415 1195> mark @dotreph;
+    pos base [nj njxx ] <anchor 1186 1195> mark @dotreph;
+    pos base [t1 t1xx ] <anchor 564 1195> mark @dotreph;
+    pos base [t2 t2xx ] <anchor 613 1195> mark @dotreph;
+    pos base [t3 t3xx ] <anchor 1373 1195> mark @dotreph;
+    pos base [t4 t4xx ] <anchor 1273 1195> mark @dotreph;
+    pos base [nh nhxx ] <anchor 1327 1195> mark @dotreph;
+    pos base [th1 v1 z1 th1xx v1xx z1xx ] <anchor 850 1195> mark @dotreph;
+    pos base [th2 th2xx ] <anchor 748 1195> mark @dotreph;
+    pos base [th4 th4xx ] <anchor 833 1195> mark @dotreph;
+    pos base [n1 n1xx ] <anchor 828 1195> mark @dotreph;
+    pos base [p1 p1xx ] <anchor 946 1063> mark @dotreph;
+    pos base [p2 p2xx ] <anchor 1146 1196> mark @dotreph;
+    pos base [p3 p3xx ] <anchor 813 1195> mark @dotreph;
+    pos base [p4 p4xx ] <anchor 754 1195> mark @dotreph;
+    pos base [m1 m1xx ] <anchor 714 1195> mark @dotreph;
+    pos base [y1 y1xx ] <anchor 780 1195> mark @dotreph;
+    pos base [l3 l3xx ] <anchor 934 1195> mark @dotreph;
+    pos base [lh lhxx ] <anchor 690 1195> mark @dotreph;
+    pos base [zh zhxx ] <anchor 600 1234> mark @dotreph;
+    pos base [sh shxx ] <anchor 795 1068> mark @dotreph;
+    pos base [s1 s1xx ] <anchor 891 1195> mark @dotreph;
+    pos base [h1 h1xx ] <anchor 891 1068> mark @dotreph;
+    pos base [k1k1 k1shu2 k3n1 ch1u2 nhu1 n1th2 m1m1 z1ch1 z1z1 ] <anchor 1191 1155> mark @dotreph;
+    pos base [k1k1u1 ] <anchor 1227 1161> mark @dotreph;
+    pos base [k1k1u2 ] <anchor 1182 1180> mark @dotreph;
+    pos base [k1th1 ] <anchor 1327 1155> mark @dotreph;
+    pos base [k1sh ] <anchor 1257 1155> mark @dotreph;
+    pos base [k1shu1 ] <anchor 1125 1155> mark @dotreph;
+    pos base [k3k3 k3k3u1 k3k3r1 ] <anchor 668 1079> mark @dotreph;
+    pos base [ch1u1 ] <anchor 1161 1155> mark @dotreph;
+    pos base [ch1ch1 ] <anchor 915 1155> mark @dotreph;
+    pos base [ch1ch1u1 ] <anchor 906 1164> mark @dotreph;
+    pos base [ch1ch1u2 ] <anchor 968 1155> mark @dotreph;
+    pos base [ch1ch2 ] <anchor 959 1082> mark @dotreph;
+    pos base [ch3ch3 ] <anchor 1622 1058> mark @dotreph;
+    pos base [ch3ch3u1 ] <anchor 1567 1093> mark @dotreph;
+    pos base [nht1 ] <anchor 1327 1155> mark @dotreph;
+    pos base [nhnh ] <anchor 1111 1108> mark @dotreph;
+    pos base [th1th1 ] <anchor 1450 1161> mark @dotreph;
+    pos base [th1th1u1 ] <anchor 1469 1155> mark @dotreph;
+    pos base [th1th1u2 ] <anchor 1509 1137> mark @dotreph;
+    pos base [th1th1r1 ] <anchor 1494 1149> mark @dotreph;
+    pos base [th1th2 ] <anchor 1589 1095> mark @dotreph;
+    pos base [th3th4 ] <anchor 1272 1155> mark @dotreph;
+    pos base [n1th4 ] <anchor 1587 1158> mark @dotreph;
+    pos base [y1y1 ] <anchor 846 1140> mark @dotreph;
+    pos base [z1z1u1 ] <anchor 842 1171> mark @dotreph;
+    pos base [z1z1r1 ] <anchor 893 1174> mark @dotreph;
+    pos base [sht1 ] <anchor 785 1098> mark @dotreph;
+    pos base [s1th2 ] <anchor 1695 1158> mark @dotreph;
+} abvm_dotreph;
+
+
+# GPOS
+
+feature abvm {
+
+ script DFLT;
+     language dflt ;
+      lookup abvm_dotreph;
+
+ script mlm2;
+     language dflt ;
+      lookup abvm_dotreph;
+} abvm;

@@ -1,47 +1,77 @@
 #!/usr/bin/make -f
 
-fontpath=/usr/share/fonts/truetype/malayalam
-fonts=Chilanka-Regular
-feature=features/features.fea
-PY=python2.7
-buildscript=tools/build.py
-version=1.3
-outdir=build
-default: ttf
-all: clean ttf webfonts test
-.PHONY: ttf
-ttf:
-	@for font in `echo ${fonts}`;do \
-		$(PY) $(buildscript) -t ttf -i $$font.sfd -f $(feature) -v $(version);\
-	done;
+NAME=Chilanka
+FONTS=Regular
+INSTALLPATH=/usr/share/fonts/opentype/malayalam
+PY=python3
+version=`cat VERSION`
+TOOLDIR=tools
+SRCDIR=sources
+webfontscript=$(TOOLDIR)/webfonts.py
+tests=tests
+BLDDIR=build
+default: otf
+all: clean lint otf ttf webfonts test
+OTF=$(FONTS:%=$(BLDDIR)/$(NAME)-%.otf)
+TTF=$(FONTS:%=$(BLDDIR)/$(NAME)-%.ttf)
+WOFF2=$(FONTS:%=$(BLDDIR)/$(NAME)-%.woff2)
+PDFS=$(FONTS:%=$(BLDDIR)/$(NAME)-%-ligatures.pdf)   \
+	$(FONTS:%=$(BLDDIR)/$(NAME)-%-content.pdf)      \
+	$(FONTS:%=$(BLDDIR)/$(NAME)-%-table.pdf)
 
-webfonts:woff woff2
-woff: ttf
-	@rm -rf *.woff
-	@for font in `echo ${fonts}`;do \
-		$(PY) $(buildscript) -t woff -i $(outdir)/$$font.ttf;\
-	done;
-woff2: ttf
-	@rm -rf *.woff2
-	@for font in `echo ${fonts}`;do \
-		$(PY) $(buildscript) -t woff2 -i $(outdir)/$$font.ttf;\
-	done;
+$(BLDDIR)/%.otf: $(SRCDIR)/%.ufo
+	@echo "  BUILD    $(@F)"
+	@fontmake --validate-ufo --verbose=WARNING -o otf --output-dir $(BLDDIR) -u $<
 
-install: ttf
-	@for font in `echo ${fonts}`;do \
-		install -D -m 0644 $(outdir)/$${font}.ttf ${DESTDIR}/${fontpath}/$${font}.ttf;\
-	done;
+$(BLDDIR)/%.ttf: $(SRCDIR)/%.ufo
+	@echo "  BUILD    $(@F)"
+	@fontmake --verbose=WARNING -o ttf --output-dir $(BLDDIR) -u $<
 
-ifeq ($(shell ls -l $(outdir)/*.ttf 2>/dev/null | wc -l),0)
-test: ttf run-test
-else
-test: run-test
-endif
+$(BLDDIR)/%.woff2: $(BLDDIR)/%.otf
+	@echo "WEBFONT    $(@F)"
+	@$(PY) $(webfontscript) -i $<
 
-run-test:
-	@for font in `echo ${fonts}`; do \
-		echo "Testing font $${font}";\
-		hb-view $(outdir)/$${font}.ttf --font-size 14 --margin 100 --line-space 1.5 --foreground=333333  --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
+$(BLDDIR)/%-table.pdf: $(BLDDIR)/%.ttf
+	@echo "   TEST    $(@F)"
+	@fntsample --font-file $< --output-file $(BLDDIR)/$(@F)        \
+		--style="header-font: Noto Sans Bold 12"                   \
+		--style="font-name-font: Noto Serif Bold 12"               \
+		--style="table-numbers-font: Noto Sans 10"                 \
+		--style="cell-numbers-font:Noto Sans Mono 8"
+
+$(BLDDIR)/%-ligatures.pdf: $(BLDDIR)/%.ttf
+	@echo "   TEST    $(@F)"
+	@hb-view $< --font-size 14 --margin 100 --line-space 1.5 \
+		--foreground=333333 --text-file $(tests)/ligatures.txt \
+		--output-file $(BLDDIR)/$(@F);
+
+$(BLDDIR)/%-content.pdf: $(BLDDIR)/%.ttf
+	@echo "   TEST    $(@F)"
+	@hb-view $< --font-size 14 --margin 100 --line-space 1.5 \
+		--foreground=333333 --text-file $(tests)/content.txt \
+		--output-file $(BLDDIR)/$(@F);
+
+ttf: $(TTF)
+otf: $(OTF)0
+webfonts: $(WOFF2)
+lint: ufolint
+ufo: glyphs ufonormalizer lint
+
+ufolint: $(SRCDIR)/*.ufo
+	$@ $^
+ufonormalizer: $(SRCDIR)/*.ufo
+	@for variant in $^;do \
+		ufonormalizer -m $$variant;\
 	done;
+install: otf
+	@mkdir -p ${DESTDIR}${INSTALLPATH}
+	install -D -m 0644 $(BLDDIR)/*.otf ${DESTDIR}${INSTALLPATH}/
+
+test: ttf $(PDFS)
+	fontbakery check-ufo-sources $(SRCDIR)/*.ufo
+	fontbakery check-googlefonts -x com.google.fonts/check/029 -x com.google.fonts/check/117 $(BLDDIR)/*.ttf
+	fontbakery check-fontval $(BLDDIR)/*.ttf
+	fontbakery check-opentype $(BLDDIR)/*.otf
+
 clean:
-	@rm -rf *.otf *.ttf *.woff *.woff2 *.sfd-* tests/*.pdf $(outdir)
+	@rm -rf $(BLDDIR)

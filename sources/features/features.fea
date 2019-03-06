@@ -1,0 +1,96 @@
+# -------------------
+# BASIC SHAPING FORMS
+# -------------------
+
+feature pref {
+
+ script mlm2;
+     language dflt ;
+      lookup pref_reph;
+} pref;
+
+# Akhand Ligatures
+# ----------------
+feature akhn {
+
+ script mlm2;
+     language dflt ;
+      lookup akhn_chillu;
+      lookup akhn_conjuncts;
+      lookup akhn_conditional_stacking;
+ script mlym;
+     language dflt ;
+      lookup akhn_chillu;
+      lookup akhn_conjuncts;
+      lookup akhn_conditional_stacking;
+} akhn;
+
+feature blwf {
+
+ script mlm2;
+     language dflt ;
+      lookup blwf_la_sign;
+
+ script mlym;
+     language dflt ;
+      lookup blwf_la_sign_mlym;
+} blwf;
+
+feature half {
+
+ script mlym;
+     language dflt ;
+      lookup half_forms_mlym;
+} half;
+
+feature pstf {
+
+ script mlm2;
+     language dflt ;
+      lookup pstf_cons_signs;
+
+ script mlym;
+     language dflt ;
+      lookup pstf_cons_signs_mlym;
+} pstf;
+
+feature pres {
+
+ script mlm2;
+     language dflt ;
+      lookup pres_reph;
+
+ script mlym;
+     language dflt ;
+      lookup pres_reph_mlym;
+} pres;
+
+feature blws {
+
+ script mlm2;
+     language dflt ;
+      lookup blws_la_signs;
+      lookup blws_la_sign_excludes;
+
+ script mlym;
+     language dflt ;
+      lookup blws_la_signs;
+      lookup blws_la_sign_excludes;
+} blws;
+
+feature psts {
+
+ script mlm2;
+     language dflt ;
+      lookup psts_vowel_signs;
+ script mlym;
+     language dflt ;
+      lookup psts_vowel_signs;
+} psts;
+
+feature haln {
+
+ script mlym;
+     language dflt ;
+      lookup haln_chillu;
+} haln;

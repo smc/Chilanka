@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalbarvirama" format="2">
+	<unicode hex="0D3B"/>
+	<outline>
+		<contour>
+			<point x="-584" y="1087" type="line"/>
+			<point x="-591.4672241211" y="1084.9635009766"/>
+			<point x="-598.4736328125" y="1083.9510498047"/>
+			<point x="-605.0076904297" y="1083.9510498047" type="curve" smooth="yes"/>
+			<point x="-655.9081420898" y="1083.9510498047"/>
+			<point x="-676.4411621094" y="1161.7937011719"/>
+			<point x="-678" y="1207" type="curve" smooth="yes"/>
+			<point x="-680.0833129883" y="1265.9583740234"/>
+			<point x="-681.125" y="1319.2742919922"/>
+			<point x="-681.125" y="1366.9478759766" type="curve" smooth="yes"/>
+			<point x="-681.125" y="1548.1076660156"/>
+			<point x="-666.0833129883" y="1647.7916259766"/>
+			<point x="-636" y="1666" type="curve" smooth="yes"/>
+			<point x="-615.6278686523" y="1678.3830566406"/>
+			<point x="-602.2764892578" y="1684.2239990234"/>
+			<point x="-591.6754760742" y="1684.2239990234" type="curve" smooth="yes"/>
+			<point x="-575.7376708984" y="1684.2239990234"/>
+			<point x="-566.016418457" y="1671.0218505859"/>
+			<point x="-548" y="1647" type="curve" smooth="yes"/>
+			<point x="-535" y="1629"/>
+			<point x="-528" y="1564"/>
+			<point x="-528" y="1451" type="curve" smooth="yes"/>
+			<point x="-528" y="1274"/>
+			<point x="-542" y="1163"/>
+			<point x="-569" y="1116" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

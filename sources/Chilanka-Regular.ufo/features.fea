@@ -1,0 +1,9 @@
+languagesystem DFLT dflt;
+languagesystem mlm2 dflt;
+languagesystem mlym dflt;
+
+include (features/tables.fea)
+include (features/lookups.fea)
+include (features/features.fea)
+include (features/gpos.fea)
+include (features/kerning.fea)

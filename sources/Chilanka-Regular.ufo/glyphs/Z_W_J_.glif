@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ZWJ" format="2">
+	<unicode hex="200D"/>
+	<advance width="321"/>
+	<outline>
+		<contour>
+			<point x="148" y="1012" type="line"/>
+			<point x="14" y="804" type="line"/>
+			<point x="-90" y="804" type="line"/>
+			<point x="96" y="1076" type="line"/>
+			<point x="-76" y="1324" type="line"/>
+			<point x="33" y="1324" type="line"/>
+			<point x="111" y="1203" type="line" smooth="yes"/>
+			<point x="117" y="1194"/>
+			<point x="128" y="1174"/>
+			<point x="145" y="1144" type="curve"/>
+			<point x="270" y="1324" type="line"/>
+			<point x="377" y="1324" type="line"/>
+			<point x="199" y="1080" type="line"/>
+			<point x="387" y="804" type="line"/>
+			<point x="283" y="804" type="line"/>
+		</contour>
+		<contour>
+			<point x="70" y="888" type="line"/>
+			<point x="224" y="888" type="line"/>
+			<point x="224" y="13" type="line"/>
+			<point x="70" y="13" type="line"/>
+		</contour>
+	</outline>
+</glyph>

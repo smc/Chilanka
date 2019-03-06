@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotreph" format="2">
+	<unicode hex="0D4E"/>
+	<outline>
+		<contour>
+			<point x="-697.3610839844" y="1242.6481933594" type="curve" smooth="yes"/>
+			<point x="-697.3610839844" y="1298.4705810547"/>
+			<point x="-660.5274658203" y="1352.1058349609"/>
+			<point x="-599.4878540039" y="1352.1058349609" type="curve" smooth="yes"/>
+			<point x="-546.6481933594" y="1352.1058349609"/>
+			<point x="-503" y="1302.2808837891"/>
+			<point x="-503" y="1247" type="curve" smooth="yes"/>
+			<point x="-503" y="1191.8259277344"/>
+			<point x="-529.9551391602" y="1084.5653076172"/>
+			<point x="-601.8971557617" y="1084.5653076172" type="curve" smooth="yes"/>
+			<point x="-665.2056274414" y="1084.5653076172"/>
+			<point x="-697.3610839844" y="1180.1309814453"/>
+		</contour>
+	</outline>
+</glyph>
