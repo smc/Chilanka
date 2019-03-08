@@ -52,7 +52,7 @@ $(BLDDIR)/%-content.pdf: $(BLDDIR)/%.ttf
 		--output-file $(BLDDIR)/$(@F);
 
 ttf: $(TTF)
-otf: $(OTF)0
+otf: $(OTF)
 webfonts: $(WOFF2)
 lint: ufolint
 ufo: glyphs ufonormalizer lint
@@ -67,7 +67,7 @@ install: otf
 	@mkdir -p ${DESTDIR}${INSTALLPATH}
 	install -D -m 0644 $(BLDDIR)/*.otf ${DESTDIR}${INSTALLPATH}/
 
-test: ttf $(PDFS)
+test: ttf otf $(PDFS)
 	fontbakery check-ufo-sources $(SRCDIR)/*.ufo
 	fontbakery check-googlefonts -x com.google.fonts/check/029 -x com.google.fonts/check/117 $(BLDDIR)/*.ttf
 	fontbakery check-fontval $(BLDDIR)/*.ttf

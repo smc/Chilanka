@@ -1,1 +1,63 @@
-include: 'https://gitlab.com/smc/fonts-all/raw/master/fonts-gitlab-ci.yml'
+image: "registry.gitlab.com/smc/dockerfiles:font-builder"
+
+stages:
+  - build
+  - test
+  - release
+  - deploy
+
+variables:
+  WEBSITE_REPO_TRIGGER: "https://gitlab.com/api/v4/projects/125326/trigger/pipeline"
+  WEBSITE_REPO_BRANCH: "master"
+
+before_script:
+  - pip3 install -r requirements.txt
+
+build-branch:
+  stage: build
+  script:
+    - make otf ttf webfonts
+  artifacts:
+    paths:
+    - build/
+  except:
+    - tags
+
+
+build-tag:
+  stage: build
+  script:
+    - make otf ttf webfonts
+    - sh tools/artifacts.sh
+  artifacts:
+    paths:
+    - build/
+  only:
+    - tags
+
+test:
+  stage: test
+  script:
+    - make test
+
+pages:
+  stage: deploy
+  script:
+    - make webfonts
+    - mkdir .public
+    - cp -r build tests .public
+    - mv .public public
+  artifacts:
+    paths:
+    - public
+  only:
+    - master
+
+release:
+  image: "pstauffer/curl:latest"
+  stage: release
+  before_script: []
+  script:
+    - curl --request POST --form "token=$CI_JOB_TOKEN" --form ref=${WEBSITE_REPO_BRANCH} "${WEBSITE_REPO_TRIGGER}"
+  only:
+    - tags
