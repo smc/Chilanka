@@ -5,6 +5,7 @@
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
+			<string>nonmarkingreturn</string>
 			<string>space</string>
 			<string>exclam</string>
 			<string>quotedbl</string>
@@ -122,6 +123,7 @@
 			<string>uni00B3</string>
 			<string>acute</string>
 			<string>mu</string>
+			<string>paragraph</string>
 			<string>periodcentered</string>
 			<string>cedilla</string>
 			<string>uni00B9</string>
@@ -200,6 +202,7 @@
 			<string>oe</string>
 			<string>circumflex</string>
 			<string>caron</string>
+			<string>ring</string>
 			<string>tilde</string>
 			<string>anuswaraabove</string>
 			<string>mlchandrabindu</string>

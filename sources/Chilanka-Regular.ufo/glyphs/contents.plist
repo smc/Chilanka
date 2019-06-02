@@ -928,6 +928,8 @@
 		<string>nju2.glif</string>
 		<key>njxx</key>
 		<string>njxx.glif</string>
+		<key>nonmarkingreturn</key>
+		<string>nonmarkingreturn.glif</string>
 		<key>notequal</key>
 		<string>notequal.glif</string>
 		<key>ntilde</key>
@@ -1078,6 +1080,8 @@
 		<string>p4u2.glif</string>
 		<key>p4xx</key>
 		<string>p4xx.glif</string>
+		<key>paragraph</key>
+		<string>paragraph.glif</string>
 		<key>parenleft</key>
 		<string>parenleft.glif</string>
 		<key>parenright</key>
@@ -1150,6 +1154,8 @@
 		<string>rhu2.glif</string>
 		<key>rhxx</key>
 		<string>rhxx.glif</string>
+		<key>ring</key>
+		<string>ring.glif</string>
 		<key>rupee</key>
 		<string>rupee.glif</string>
 		<key>s</key>
