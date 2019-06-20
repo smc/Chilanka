@@ -7,7 +7,6 @@ PY=python3
 version=`cat VERSION`
 TOOLDIR=tools
 SRCDIR=sources
-webfontscript=$(TOOLDIR)/webfonts.py
 tests=tests
 BLDDIR=build
 default: otf
@@ -29,7 +28,7 @@ $(BLDDIR)/%.ttf: $(SRCDIR)/%.ufo
 
 $(BLDDIR)/%.woff2: $(BLDDIR)/%.otf
 	@echo "WEBFONT    $(@F)"
-	@$(PY) $(webfontscript) -i $<
+	@fonttools ttLib.woff2 compress  $<
 
 $(BLDDIR)/%-table.pdf: $(BLDDIR)/%.ttf
 	@echo "   TEST    $(@F)"
