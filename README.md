@@ -1,5 +1,4 @@
-Chilanka Font
-============
+# Chilanka Font
 
 Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. Chilanka follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts.
 
@@ -11,18 +10,26 @@ The font was released in 2014 and nowadays used widely in comic strips, inviitat
 
 Latest version: [download](https://smc.org.in/downloads/fonts/chilanka/Chilanka-Regular.ttf)
 
-Announcement: (http://blog.smc.org.in/new-handwriting-style-font-for-malayalam-chilanka/)
+Announcement: http://blog.smc.org.in/new-handwriting-style-font-for-malayalam-chilanka/
 
-License: OFL 1.1
+## Building from source
 
-Building from source
---------------------
-1. Install fontforge and python-fontforge
-2. Install the python libraries required for build script:
-    ```
+1. Install the python libraries required for build script:
+
+   ```bash
     pip install -r tools/requirements.txt
-    ```
-3. Build the ttf, woff, woff2 files: 
-   ``` 
+   ```
+
+2. Build the ttf, woff, woff2 files:
+
+   ```bash
    make
    ```
+
+## Credits
+
+See FONTLOG.md for details on contributions.
+
+## License
+
+Chilanka is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
