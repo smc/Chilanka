@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Swathanthra Malayalam Computing <contact@smc.org.in> -->
+<component type="font">
+  <id>in.org.smc.chilanka</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>OFL-1.1</project_license>
+  <name>Chilanka font</name>
+  <name xml:lang="ml">ചിലങ്ക അക്ഷരസഞ്ചയം</name>
+  <summary>Chilanka Malayalam Unicode font</summary>
+  <description>
+    <p>
+      Unicode font for traditional Malayalam script designed by Santhosh
+      Thottingal maintained by Swathanthra Malayalam Computing.
+      Hand-writing style font.
+    </p>
+  </description>
+  <update_contact>contact_at_smc_org_in</update_contact>
+  <provides>
+          <font>Chilanka Regular</font>
+  </provides>
+  <languages>
+          <lang>ml</lang>
+  </languages>
+  <url type="homepage">https://smc.org.in/fonts</url>
+  <url type="bugtracker">https://gitlab.com/smc/fonts/chilanka/issues</url>
+  <metadata>
+  <value key="FontSampleText">മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും
+	 സ്വാതന്ത്ര്യത്തോടും കൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്
+	 മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.</value>
+  <value key="FontIconText">അഇ</value>
+  </metadata>
+</component>
