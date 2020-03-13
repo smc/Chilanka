@@ -877,6 +877,17 @@
 			<string>lhlh.alt1</string>
 			<string>lhlhu1.alt1</string>
 			<string>lhlhu2.alt1</string>
+			<string>amacron</string>
+			<string>umacron</string>
+			<string>imacron</string>
+			<string>sacute</string>
+			<string>dotbelow</string>
+			<string>hdotbelow</string>
+			<string>rdotbelow</string>
+			<string>ndotbelow</string>
+			<string>sdotbelow</string>
+			<string>mdotbelow</string>
+			<string>ldotbelow</string>
 		</array>
 	</dict>
 </plist>

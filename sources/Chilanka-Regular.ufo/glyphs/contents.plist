@@ -146,6 +146,8 @@
 		<string>agrave.glif</string>
 		<key>ai1</key>
 		<string>ai1.glif</string>
+		<key>amacron</key>
+		<string>amacron.glif</string>
 		<key>ampersand</key>
 		<string>ampersand.glif</string>
 		<key>anuswara</key>
@@ -296,6 +298,8 @@
 		<string>divide.glif</string>
 		<key>dollar</key>
 		<string>dollar.glif</string>
+		<key>dotbelow</key>
+		<string>dotbelow.glif</string>
 		<key>dotlessi</key>
 		<string>dotlessi.glif</string>
 		<key>dotreph</key>
@@ -388,6 +392,8 @@
 		<string>h1u2.glif</string>
 		<key>h1xx</key>
 		<string>h1xx.glif</string>
+		<key>hdotbelow</key>
+		<string>hdotbelow.glif</string>
 		<key>hyphen</key>
 		<string>hyphen.glif</string>
 		<key>i</key>
@@ -404,6 +410,8 @@
 		<string>idieresis.glif</string>
 		<key>igrave</key>
 		<string>igrave.glif</string>
+		<key>imacron</key>
+		<string>imacron.glif</string>
 		<key>infinity</key>
 		<string>infinity.glif</string>
 		<key>j</key>
@@ -592,6 +600,8 @@
 		<string>l3xx.glif</string>
 		<key>l4</key>
 		<string>l4.glif</string>
+		<key>ldotbelow</key>
+		<string>ldotbelow.glif</string>
 		<key>less</key>
 		<string>less.glif</string>
 		<key>lh</key>
@@ -664,6 +674,8 @@
 		<string>maakaani.glif</string>
 		<key>macron</key>
 		<string>macron.glif</string>
+		<key>mdotbelow</key>
+		<string>mdotbelow.glif</string>
 		<key>minus</key>
 		<string>minus.glif</string>
 		<key>ml_0</key>
@@ -840,6 +852,8 @@
 		<string>n2.glif</string>
 		<key>naalumaa</key>
 		<string>naalumaa.glif</string>
+		<key>ndotbelow</key>
+		<string>ndotbelow.glif</string>
 		<key>ng</key>
 		<string>ng.glif</string>
 		<key>ngk1</key>
@@ -1136,6 +1150,8 @@
 		<string>r3xx.glif</string>
 		<key>r4</key>
 		<string>r4.glif</string>
+		<key>rdotbelow</key>
+		<string>rdotbelow.glif</string>
 		<key>registered</key>
 		<string>registered.glif</string>
 		<key>rh</key>
@@ -1222,6 +1238,10 @@
 		<string>s1u2.glif</string>
 		<key>s1xx</key>
 		<string>s1xx.glif</string>
+		<key>sacute</key>
+		<string>sacute.glif</string>
+		<key>sdotbelow</key>
+		<string>sdotbelow.glif</string>
 		<key>section</key>
 		<string>section.glif</string>
 		<key>semicolon</key>
@@ -1522,6 +1542,8 @@
 		<string>udieresis.glif</string>
 		<key>ugrave</key>
 		<string>ugrave.glif</string>
+		<key>umacron</key>
+		<string>umacron.glif</string>
 		<key>underscore</key>
 		<string>underscore.glif</string>
 		<key>uni00A0</key>
