@@ -888,6 +888,21 @@
 			<string>sdotbelow</string>
 			<string>mdotbelow</string>
 			<string>ldotbelow</string>
+			<string>Rdotbelow</string>
+			<string>Ldotbelow</string>
+			<string>Mdotbelow</string>
+			<string>Tdotbelow</string>
+			<string>Sdotbelow</string>
+			<string>tdotbelow</string>
+			<string>Ddotbelow</string>
+			<string>ddotbelow</string>
+			<string>Hdotbelow</string>
+			<string>rdotbelowmacron</string>
+			<string>Rdotbelowmacron</string>
+			<string>Ldotbelowmacron</string>
+			<string>ldotbelowmacron</string>
+			<string>Amacron</string>
+			<string>Umacron</string>
 		</array>
 	</dict>
 </plist>

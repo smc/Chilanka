@@ -16,6 +16,8 @@
 		<string>A_dieresis.glif</string>
 		<key>Agrave</key>
 		<string>A_grave.glif</string>
+		<key>Amacron</key>
+		<string>A_macron.glif</string>
 		<key>Aring</key>
 		<string>A_ring.glif</string>
 		<key>Atilde</key>
@@ -28,6 +30,8 @@
 		<string>C_cedilla.glif</string>
 		<key>D</key>
 		<string>D_.glif</string>
+		<key>Ddotbelow</key>
+		<string>D_dotbelow.glif</string>
 		<key>E</key>
 		<string>E_.glif</string>
 		<key>Eacute</key>
@@ -48,6 +52,8 @@
 		<string>G_.glif</string>
 		<key>H</key>
 		<string>H_.glif</string>
+		<key>Hdotbelow</key>
+		<string>H_dotbelow.glif</string>
 		<key>I</key>
 		<string>I_.glif</string>
 		<key>Iacute</key>
@@ -64,8 +70,14 @@
 		<string>K_.glif</string>
 		<key>L</key>
 		<string>L_.glif</string>
+		<key>Ldotbelow</key>
+		<string>L_dotbelow.glif</string>
+		<key>Ldotbelowmacron</key>
+		<string>L_dotbelowmacron.glif</string>
 		<key>M</key>
 		<string>M_.glif</string>
+		<key>Mdotbelow</key>
+		<string>M_dotbelow.glif</string>
 		<key>N</key>
 		<string>N_.glif</string>
 		<key>NameMe.3418</key>
@@ -96,10 +108,18 @@
 		<string>Q_.glif</string>
 		<key>R</key>
 		<string>R_.glif</string>
+		<key>Rdotbelow</key>
+		<string>R_dotbelow.glif</string>
+		<key>Rdotbelowmacron</key>
+		<string>R_dotbelowmacron.glif</string>
 		<key>S</key>
 		<string>S_.glif</string>
+		<key>Sdotbelow</key>
+		<string>S_dotbelow.glif</string>
 		<key>T</key>
 		<string>T_.glif</string>
+		<key>Tdotbelow</key>
+		<string>T_dotbelow.glif</string>
 		<key>Thorn</key>
 		<string>T_horn.glif</string>
 		<key>U</key>
@@ -112,6 +132,8 @@
 		<string>U_dieresis.glif</string>
 		<key>Ugrave</key>
 		<string>U_grave.glif</string>
+		<key>Umacron</key>
+		<string>U_macron.glif</string>
 		<key>V</key>
 		<string>V_.glif</string>
 		<key>W</key>
@@ -290,6 +312,8 @@
 		<string>d.glif</string>
 		<key>datemark</key>
 		<string>datemark.glif</string>
+		<key>ddotbelow</key>
+		<string>ddotbelow.glif</string>
 		<key>degree</key>
 		<string>degree.glif</string>
 		<key>dieresis</key>
@@ -602,6 +626,8 @@
 		<string>l4.glif</string>
 		<key>ldotbelow</key>
 		<string>ldotbelow.glif</string>
+		<key>ldotbelowmacron</key>
+		<string>ldotbelowmacron.glif</string>
 		<key>less</key>
 		<string>less.glif</string>
 		<key>lh</key>
@@ -1152,6 +1178,8 @@
 		<string>r4.glif</string>
 		<key>rdotbelow</key>
 		<string>rdotbelow.glif</string>
+		<key>rdotbelowmacron</key>
+		<string>rdotbelowmacron.glif</string>
 		<key>registered</key>
 		<string>registered.glif</string>
 		<key>rh</key>
@@ -1386,6 +1414,8 @@
 		<string>t4u2.glif</string>
 		<key>t4xx</key>
 		<string>t4xx.glif</string>
+		<key>tdotbelow</key>
+		<string>tdotbelow.glif</string>
 		<key>th1</key>
 		<string>th1.glif</string>
 		<key>th1l3</key>
