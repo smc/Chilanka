@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ndotabove" format="2">
+  <advance width="1264.034693470111"/>
+  <unicode hex="1E44"/>
+  <outline>
+    <component base="N"/>
+    <component base="period" xOffset="455.06528835690966" yOffset="1454.746463547334"/>
+  </outline>
+</glyph>

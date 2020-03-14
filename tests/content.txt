@@ -284,6 +284,8 @@ Le droit au respect de la vie privée figure à l'article 12 de Déclaration
 universelle des droits de l'homme de 19481, à l'article 8 de la Convention
 européenne des droits de l'homme et à l'article 17 du Pacte
 
+IAST:
+
 oṃ śuklāmbaradharaṃ viśhṇuṃ śaśivarṇaṃ chaturbhujam |
 prasannavadanaṃ dhyāyet sarvavighnopaśāntaye || 1 ||
 
@@ -292,6 +294,10 @@ vighnaṃ nighnanti satataṃ viśvaksenaṃ tamāśraye || 2 ||
 
 vyāsaṃ vasiśhṭha naptāraṃ śakteḥ pautramakalmaśhaṃ |
 parāśarātmajaṃ vande śukatātaṃ taponidhiṃ || 3 ||
+
+ā, ḍ, ḥ, ī, ḷ, ḹ, ṃ, ñ, ṅ, ṇ, ṛ, ṝ, ṣ, ś, ṭ, ū
+e o ṃ ṛ ṝ ḷ ḹ a A ā Ā i I ī Ī u U ū Ū ṛ Ṛ ṝ Ṝ
+Ḷ Ḹ e E ai Ai o O au Au
 
 PJ GAYATHRI SANTHOSH BINOY KAVYA DOMINIC ADHESION OFFER YOURS APPLE TV YAVYLT
 Va Ve We Ya Ye ve
