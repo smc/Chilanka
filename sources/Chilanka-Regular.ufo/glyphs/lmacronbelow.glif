@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmacronbelow" format="2">
+	<unicode hex="1E3B"/>
+	<advance width="571"/>
+	<outline>
+		<component base="l" xOffset="82.0119695321" yOffset="-18.2763873776"/>
+		<component base="macron" xOffset="-107" yOffset="-1250.2883569097"/>
+	</outline>
+</glyph>
