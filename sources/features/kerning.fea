@@ -1,5 +1,5 @@
 
-# GPOS 
+# GPOS
 
 lookup kern_malayalam {
   lookupflag 0;
@@ -16,37 +16,40 @@ lookup kern_latin {
     pos xx parenleft 100;
     pos xx parenright 200;
     pos slash slash -601;
-    pos [a b] j -492;
-    pos [a b] t -164;
+    pos [a amacron b] j -492;
+    pos [a amacron b] t -164;
     pos c j -382;
-    pos c o -164;
+    pos c [o otilde ograve oacute ocircumflex] -164;
     pos e e -164;
     pos f f -355;
     pos f y -382;
-    pos f a -492;
-    pos f o -437;
+    pos f [a amacron] -492;
+    pos f [o otilde ograve oacute ocircumflex] -437;
     pos f e -464;
     pos f u -382;
     pos f i -191;
     pos h t -136;
-    pos i t -164;
-    pos i j -328;
+    pos [i imacron] t -164;
+    pos [i imacron] j -328;
     pos l l 137;
-    pos m j -300;
-    pos n j -355;
-    pos o j -465;
+    pos k [g o otilde ograve oacute ocircumflex c e a amacron] -164;
+    pos k t -136;
+    pos [m mdotbelow] j -300;
+    pos [n ntilde ndotbelow ndotabove] j -355;
+    pos [o otilde ograve oacute ocircumflex] j -465;
     pos p j -328;
     pos r j -382;
-    pos r [g o c e a] -245;
-    pos t a -109;
+    pos r [g o otilde ograve oacute ocircumflex c e a amacron] -245;
+    pos t [a amacron] -109;
     pos t [o y] -137;
     pos t h -82;
     pos t t -164;
     pos v j -410;
+    pos [u umacron] j -320;
     pos z j -191;
-    pos T o -437;
+    pos T [o otilde ograve oacute ocircumflex] -437;
     pos T h -164;
-    pos Y [e c a d o q g] -200;
+    pos Y [e c a amacron d o otilde ograve oacute ocircumflex q g] -200;
 } kern_latin;
 
 feature kern {
