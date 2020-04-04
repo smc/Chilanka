@@ -4,6 +4,6 @@
 	<advance width="1370.3687744141"/>
 	<outline>
 		<component base="Rdotbelow"/>
-		<component base="macron" xOffset="218.0990206746" yOffset="498.6887921654"/>
+		<component base="macron" xOffset="218.0990206746" yOffset="614.6887921654"/>
 	</outline>
 </glyph>

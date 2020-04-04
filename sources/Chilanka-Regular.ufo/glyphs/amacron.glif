@@ -4,6 +4,6 @@
 	<advance width="1095.5856323242"/>
 	<outline>
 		<component base="a" xOffset="-0.3786724701" yOffset="-4.7921653972"/>
-		<component base="macron" xOffset="187.2143634385" yOffset="64.2589771491"/>
+		<component base="macron" xOffset="187.2143634385" yOffset="143.2589771491"/>
 	</outline>
 </glyph>
