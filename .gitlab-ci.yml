@@ -54,10 +54,7 @@ pages:
     - master
 
 release:
-  image: "pstauffer/curl:latest"
   stage: release
-  before_script: []
-  script:
-    - curl --request POST --form "token=$CI_JOB_TOKEN" --form ref=${WEBSITE_REPO_BRANCH} "${WEBSITE_REPO_TRIGGER}"
+  trigger: smc/smc.org.in
   only:
     - tags
