@@ -7,7 +7,7 @@
 		<key>capHeight</key>
 		<real>1448.365534508</real>
 		<key>copyright</key>
-		<string>Copyright 2019 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)</string>
+		<string>Copyright 2020 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)</string>
 		<key>descender</key>
 		<integer>-410</integer>
 		<key>familyName</key>
@@ -161,7 +161,7 @@
 		<key>versionMajor</key>
 		<integer>1</integer>
 		<key>versionMinor</key>
-		<integer>510</integer>
+		<integer>520</integer>
 		<key>xHeight</key>
 		<integer>999</integer>
 	</dict>
