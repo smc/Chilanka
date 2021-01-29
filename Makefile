@@ -20,11 +20,11 @@ PDFS=$(FONTS:%=$(BLDDIR)/$(NAME)-%-ligatures.pdf)   \
 
 $(BLDDIR)/%.otf: $(SRCDIR)/%.ufo
 	@echo "  BUILD    $(@F)"
-	@fontmake --validate-ufo --verbose=WARNING -o otf --output-dir $(BLDDIR) -u $<
+	@fontmake --validate-ufo --verbose=WARNING -o otf --flatten-components --output-dir $(BLDDIR) -u $<
 
 $(BLDDIR)/%.ttf: $(SRCDIR)/%.ufo
 	@echo "  BUILD    $(@F)"
-	@fontmake --verbose=WARNING -o ttf --output-dir $(BLDDIR) -u $<
+	@fontmake --verbose=WARNING -o ttf --flatten-components --output-dir $(BLDDIR) -u $<
 
 $(BLDDIR)/%.woff2: $(BLDDIR)/%.otf
 	@echo "WEBFONT    $(@F)"
