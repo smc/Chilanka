@@ -1,6 +1,6 @@
-Brotli>=1.0.7
-fontmake>=2.0.10
+Brotli>=1.0.9
+fontmake>=2.3.0
 pyyaml
-ufolint>=0.4.1
-ufonormalizer>=0.3.6
-fontbakery>=0.7.21
+ufolint>=1.1.1
+ufonormalizer>=0.4.2
+fontbakery>=0.7.33
