@@ -68,7 +68,7 @@ install: otf
 
 test: ttf otf $(PDFS)
 	fontbakery check-ufo-sources $(SRCDIR)/*.ufo
-	fontbakery check-googlefonts -x com.google.fonts/check/name/license -x com.google.fonts/check/version_bump -x com.google.fonts/check/vertical_metrics_regressions -x com.google.fonts/check/repo/zip_files $(BLDDIR)/*.ttf
+	fontbakery check-googlefonts -x com.google.fonts/check/version_bump -x com.google.fonts/check/vertical_metrics_regressions -x com.google.fonts/check/repo/zip_files $(BLDDIR)/*.ttf
 	fontbakery check-fontval $(BLDDIR)/*.ttf
 	fontbakery check-opentype $(BLDDIR)/*.otf
 
