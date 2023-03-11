@@ -60,6 +60,7 @@ lookup abvm_dotreph {
     pos base [z1z1r1 ] <anchor 893 1174> mark @dotreph;
     pos base [sht1 ] <anchor 785 1098> mark @dotreph;
     pos base [s1th2 ] <anchor 1695 1158> mark @dotreph;
+    pos base [uni25CC ] <anchor 566 1158> mark @dotreph;
 } abvm_dotreph;
 
 
