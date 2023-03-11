@@ -21,6 +21,7 @@ lookup kern_latin {
     pos c j -382;
     pos c [o otilde ograve oacute ocircumflex] -164;
     pos e e -164;
+    pos e j -382;
     pos f f -355;
     pos f y -382;
     pos f [a amacron] -492;
