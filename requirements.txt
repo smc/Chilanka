@@ -148,7 +148,7 @@ pyclipper==1.3.0.post4
     #   booleanoperations
 pycparser==2.21
     # via cffi
-pygments==2.14.0
+pygments==2.15.0
     # via rich
 pyyaml==6.0
     # via
