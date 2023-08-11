@@ -94,7 +94,7 @@ gflanguages==0.4.4
     # via fontbakery
 gitdb==4.0.10
     # via gitpython
-gitpython==3.1.31
+gitpython==3.1.32
     # via font-v
 glyphsets==0.5.4
     # via fontbakery
