@@ -1,0 +1,4 @@
+ENV_DIR
+build
+.vscode
+.venv
