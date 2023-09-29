@@ -3,4 +3,4 @@ fontmake
 pyyaml
 ufolint
 ufonormalizer
-fontbakery[freetype]
+fontbakery[ufo-sources, googlefonts]

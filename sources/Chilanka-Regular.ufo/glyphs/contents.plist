@@ -1500,8 +1500,6 @@
 		<string>th1xx.glif</string>
 		<key>th2</key>
 		<string>th2.glif</string>
-		<key>th2_half</key>
-		<string>th2_half.glif</string>
 		<key>th2r1</key>
 		<string>th2r1.glif</string>
 		<key>th2r3</key>
@@ -1574,8 +1572,6 @@
 		<string>u1.glif</string>
 		<key>u2</key>
 		<string>u2.glif</string>
-		<key>u_drop_sign_big</key>
-		<string>u_drop_sign_big.glif</string>
 		<key>u_sign_drop</key>
 		<string>u_sign_drop.glif</string>
 		<key>uacute</key>
@@ -1592,8 +1588,6 @@
 		<string>underscore.glif</string>
 		<key>uni00A0</key>
 		<string>uni00A_0.glif</string>
-		<key>uni00AD</key>
-		<string>uni00A_D_.glif</string>
 		<key>uni00B2</key>
 		<string>uni00B_2.glif</string>
 		<key>uni00B3</key>

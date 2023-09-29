@@ -114,7 +114,6 @@
 			<string>ordfeminine</string>
 			<string>guillemotleft</string>
 			<string>logicalnot</string>
-			<string>uni00AD</string>
 			<string>registered</string>
 			<string>macron</string>
 			<string>degree</string>
@@ -831,9 +830,7 @@
 			<string>u_sign_drop</string>
 			<string>uu_sign_drop</string>
 			<string>va_sign</string>
-			<string>th2_half</string>
 			<string>vocalic_r_sign_drop</string>
-			<string>u_drop_sign_big</string>
 			<string>k1xx</string>
 			<string>k2xx</string>
 			<string>k3xx</string>
