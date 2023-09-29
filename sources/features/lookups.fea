@@ -720,3 +720,7 @@ feature salt {
     sub lhlhu1 from [lhlhu1 lhlhu1.alt1];
     sub lhlhu2 from [lhlhu2 lhlhu2.alt1];
 } salt;
+
+lookup remove_dotted_circle {
+    sub uni25CC a2 anuswara by aam;
+} remove_dotted_circle;

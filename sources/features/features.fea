@@ -18,11 +18,13 @@ feature akhn {
       lookup akhn_chillu;
       lookup akhn_conjuncts;
       lookup akhn_conditional_stacking;
+      lookup remove_dotted_circle;
  script mlym;
      language dflt ;
       lookup akhn_chillu;
       lookup akhn_conjuncts;
       lookup akhn_conditional_stacking;
+      lookup remove_dotted_circle;
 } akhn;
 
 feature blwf {

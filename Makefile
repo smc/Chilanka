@@ -68,8 +68,8 @@ install: otf
 
 test: ttf otf $(PDFS)
 	fontbakery check-ufo-sources $(SRCDIR)/*.ufo
-	fontbakery check-googlefonts -x com.google.fonts/check/version_bump -x com.google.fonts/check/repo/zip_files -x com.google.fonts/check/glyph_coverage $(BLDDIR)/*.ttf
-	fontbakery check-fontval $(BLDDIR)/*.ttf
+	fontbakery check-googlefonts --full-lists --config fontbakery.yaml --html tests/fontbakery-report.html --ghmarkdown tests/fontbakery-report.md $(BLDDIR)/*.ttf
+	# fontbakery check-fontval $(BLDDIR)/*.ttf <- enable when https://github.com/microsoft/Font-Validator/issues/62 fixed
 	fontbakery check-opentype $(BLDDIR)/*.otf
 
 clean:
